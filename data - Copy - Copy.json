@@ -1,0 +1,3524 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.963927,
+          -37.810266
+        ]
+      },
+      "properties": {
+        "location": "339 Swanston Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140641191",
+        "fulladdress": "716/339 Swanston Street, Melbourne, Vic 3000",
+        "price": "$300,000 - $315,000",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/5c1ec3c0645cd93c2c949404ffb0f755b7716e5f19c0895a8ed078111587345d/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.963927, -37.810266)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9620705,
+          -37.8123833
+        ]
+      },
+      "properties": {
+        "location": " 618 Lonsdale Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140640731",
+        "fulladdress": "1609 / 618 Lonsdale Street, Melbourne, Vic 3000",
+        "price": "$400,000 - $430,000",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "parkingSpaces": 1,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/a7b71ff1966c66d01aa931e5072551b9dea8c9dd1747efebb6968b35766c5da6/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9620705, -37.8123833)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9686945,
+          -37.8081508
+        ]
+      },
+      "properties": {
+        "location": "181 Exhibition Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-139902303",
+        "fulladdress": "723/181 Exhibition Street, Melbourne, Vic 3000",
+        "price": "$510,000-$540,000",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "parkingSpaces": 1,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/4794b48d02a7c242664fb876bbb8ef9a9d98c5bff9386ca2d8b9b19ad1a1c5b0/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9686945, -37.8081508)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9604471,
+          -37.80783118
+        ]
+      },
+      "properties": {
+        "location": "462 Elizabeth Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140639051",
+        "fulladdress": "1206/462 Elizabeth Street, Melbourne, Vic 3000",
+        "price": "$490,000 to $530,000",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/417a87d61ed33dcc83d22fd3210c17d8f14603536752d808de92427f6285f4f0/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9604471, -37.807831182608695)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9684121,
+          -37.8092206
+        ]
+      },
+      "properties": {
+        "location": "8 Exploration Lane, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140031687",
+        "fulladdress": "2201/8 Exploration Lane, Melbourne, Vic 3000",
+        "price": "$525,000 ",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "parkingSpaces": 1,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/45a7f235d98a8c0cd46a4de9e7bb039008d8cde640f8eff4f897440b7fc5b566/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9684121, -37.8092206)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9686945,
+          -37.8081508
+        ]
+      },
+      "properties": {
+        "location": "181 Exhibition Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140637415",
+        "fulladdress": "1702/181 Exhibition Street, Melbourne, Vic 3000",
+        "price": "$1,100,000 - $1,200,000",
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "parkingSpaces": 2,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/5d77ca4f4d383173455c38594886ac37461dd66b195667c157fa42a1d7d84240/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9686945, -37.8081508)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9686945,
+          -37.8081508
+        ]
+      },
+      "properties": {
+        "location": "2 Exhibition Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140637391",
+        "fulladdress": "15/2 Exhibition Street, Melbourne, Vic 3000",
+        "price": "Expressions of Interest Close 14 November at 12pm",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "parkingSpaces": 1,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/98e1157c829df097bf516454019adfa1b673b94331c05850432c0d619118558d/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9686945, -37.8081508)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9595749,
+          -37.8096114
+        ]
+      },
+      "properties": {
+        "location": "80 A'Beckett St, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140637223",
+        "fulladdress": "3808/80 A'Beckett St, Melbourne, Vic 3000",
+        "price": "$435k-$478k",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/2b5197c898aef206f1ff64d16d8036b4b79b2d91ebe4da9352a02253db76f4ce/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9595749, -37.8096114)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9586031,
+          -37.81751505
+        ]
+      },
+      "properties": {
+        "location": "464 Collins Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140276415",
+        "fulladdress": "4502/464 Collins Street, Melbourne, Vic 3000",
+        "price": "$1,450,000 - $1,550,000",
+        "bedrooms": 2,
+        "bathrooms": 3,
+        "parkingSpaces": 1,
+        "studies": "1",
+        "image_url": "https://i2.au.reastatic.net/{size}/3b881f34c31b3db8712655525123e114d1113349cfbb46b02e5bd902a249348b/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.95860306822385, -37.81751505)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9581821,
+          -37.8122724
+        ]
+      },
+      "properties": {
+        "location": "380 Little Lonsdale Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140163119",
+        "fulladdress": "2208/380 Little Lonsdale Street, Melbourne, Vic 3000",
+        "price": "Private Sale $339,000",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/7832f87cce9ab86a964ec499e13e6c99e4c5bc50efa8597953c646bffdf786d5/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9581821, -37.8122724)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9577761,
+          -37.8146843
+        ]
+      },
+      "properties": {
+        "location": "24-38 Little Bourke Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-139902211",
+        "fulladdress": "41/24-38 Little Bourke Street, Melbourne, Vic 3000",
+        "price": "$390,000 ",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/0579a8afb35355302919e64074898759c5a63eaa5b5f4e319439d1bb36ae8746/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9577761, -37.8146843)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9538211,
+          -37.8151054
+        ]
+      },
+      "properties": {
+        "location": "33 Rose Lane, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140283495",
+        "fulladdress": "1112/33 Rose Lane, Melbourne, Vic 3000",
+        "price": "$520,0000 - $560,000",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "parkingSpaces": 1,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/cacfd20cc7bc27d89dcdc0180208bfc872d02f1d60aaa11037c5b155b88eec2c/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.95382108260804, -37.8151054)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9595749,
+          -37.8096114
+        ]
+      },
+      "properties": {
+        "location": "31 A'Beckett Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140025119",
+        "fulladdress": "1911/31 A'Beckett Street, Melbourne, Vic 3000",
+        "price": "$300,000-$320,000",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/526ab8ef96f0e27cc44b88182833648cbdc5ec68efd9ce045f3977c3fc7385d9/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9595749, -37.8096114)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9563955,
+          -37.8111644
+        ]
+      },
+      "properties": {
+        "location": "350 William Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140280851",
+        "fulladdress": "3110/350 William Street, Melbourne, Vic 3000",
+        "price": "$610,000 ",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "parkingSpaces": 1,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/5e69faefa8354db2365d72c8738c0697d7ae7ae236c9bc6070d07193cc04217b/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9563955, -37.8111644)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9541116,
+          -37.81551125
+        ]
+      },
+      "properties": {
+        "location": "11 Rose Lane, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140024431",
+        "fulladdress": "2703/11 Rose Lane, Melbourne, Vic 3000",
+        "price": "$340,000 - $374,000",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/5aa203fc70ff55d5b8094643956395dfed5fd97fbbf81b83361c365d48b0ba42/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.954111635448, -37.81551125)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.95151,
+          -37.8131357
+        ]
+      },
+      "properties": {
+        "location": "138 Spencer Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-139898867",
+        "fulladdress": "6405/138 Spencer Street, Melbourne, Vic 3000",
+        "price": "$540,000 - $594,000",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/02e360035570da057e89b43c7f093789779108047e11c6ca19c4863b7456b330/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.95151, -37.8131357)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9621938,
+          -37.8074444
+        ]
+      },
+      "properties": {
+        "location": "8  Franklin Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-139394143",
+        "fulladdress": "805A/8  Franklin Street, Melbourne, Vic 3000",
+        "price": "$380,000 - $400,000",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/6a204527f000dc41d8a5ce7cc7e48d8de0ed721e27ec562e0df27a4ae802c273/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9621938, -37.8074444)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9671178,
+          -37.8131964
+        ]
+      },
+      "properties": {
+        "location": "18 Russell Place, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140021527",
+        "fulladdress": "202/18 Russell Place, Melbourne, Vic 3000",
+        "price": "$380,000 ",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/081796a8eb8baaede3c51e74e14f52f4a9d2721975f5623166c91d61a0446b99/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9671178, -37.8131964)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9556294,
+          -37.8137367
+        ]
+      },
+      "properties": {
+        "location": "560 Lonsdale St, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140154923",
+        "fulladdress": "2413/560 Lonsdale St, Melbourne, Vic 3000",
+        "price": "Contact Agent",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "parkingSpaces": 1,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/76e5d5f42a4abbd3862fc1751808bd621d38bac311c77b0f4812112079c71297/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.95562942986624, -37.8137367)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9612267,
+          -37.8103906
+        ]
+      },
+      "properties": {
+        "location": "228 La Trobe Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140403527",
+        "fulladdress": "4619/228 La Trobe Street, Melbourne, Vic 3000",
+        "price": "$560,000 - $610,000",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/d047b9dac2da95e364756d0422219573fad67ed5ea986a12c8e0acbc26d16f24/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9612267, -37.8103906)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9671085,
+          -37.807427
+        ]
+      },
+      "properties": {
+        "location": "33 Mackenzie Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140152687",
+        "fulladdress": "1714/33 Mackenzie Street, Melbourne, Vic 3000",
+        "price": "$370,000-$390,000",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "parkingSpaces": 1,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/6fd745d4ba095f29054af11aa2600609ca007410c22b267ce3d246bed623e322/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9671085, -37.807427)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9609773,
+          -37.8113042
+        ]
+      },
+      "properties": {
+        "location": "8 Sutherland Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140151379",
+        "fulladdress": "403/8 Sutherland Street, Melbourne, Vic 3000",
+        "price": "$599,000~$629,000",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "parkingSpaces": 1,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/6b30cfb2bcc27810d5bc8884a6d17b6be440bc99e544c44383ed4c6f45857856/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9609773, -37.8113042)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9686945,
+          -37.8081508
+        ]
+      },
+      "properties": {
+        "location": "308 Exhibition Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140251735",
+        "fulladdress": "5301/308 Exhibition Street, Melbourne, Vic 3000",
+        "price": "$1,744,000 ",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "parkingSpaces": 2,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/b080382ab9a905858c6fa269aeda8b9ecd120f5c36f8d364bbf4dfbdc9a22fb5/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9686945, -37.8081508)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9540153,
+          -37.812495
+        ]
+      },
+      "properties": {
+        "location": "270 King Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140149843",
+        "fulladdress": "1410/270 King Street, Melbourne, Vic 3000",
+        "price": "$405,000 - $425,000",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/44b9838eeef9491e545bc88a249e5096c3457feee2bd633894e9418de6ce5a92/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9540153, -37.812495)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9644505,
+          -37.81051006
+        ]
+      },
+      "properties": {
+        "location": "300 Swanston Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140397703",
+        "fulladdress": "313/300 Swanston Street, Melbourne, Vic 3000",
+        "price": "$390,000 - $415,000",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "parkingSpaces": 1,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/af91238fcf176b70fe3fff7028606c37af161e8ef6c9329a48bdadd8c464406b/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9644505110039, -37.810510061172394)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9714644,
+          -37.7617485
+        ]
+      },
+      "properties": {
+        "location": "285  Latrobe Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-house-vic-melbourne-140509899",
+        "fulladdress": "1001/285  Latrobe Street, Melbourne, Vic 3000",
+        "price": "$460,000 ",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/4e149d479e89e84d281ce2ababfe7a69754a68778317e9d5fe59ef032a150f85/image.jpg",
+        "house_type": "House",
+        "coordinates": "(144.9714644, -37.7617485)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9625534,
+          -37.8124101
+        ]
+      },
+      "properties": {
+        "location": "250 Elizabeth Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140509683",
+        "fulladdress": "1106/250 Elizabeth Street, Melbourne, Vic 3000",
+        "price": "$540,000 - $590,000",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/31ceb74b8caa0ec644d6783e1b1dd366dea0e53a0425c54fb5713feec4064aba/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9625534, -37.8124101)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9612267,
+          -37.8103906
+        ]
+      },
+      "properties": {
+        "location": "228 La Trobe Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140509479",
+        "fulladdress": "5012/228 La Trobe Street, Melbourne, Vic 3000",
+        "price": "Contact Agent",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/1544f14e77506df79905bc30c14096d46f2643508e4c76ef627cc81492bed0fc/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9612267, -37.8103906)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9546044,
+          -37.76269875
+        ]
+      },
+      "properties": {
+        "location": "5 Sutherland Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140265131",
+        "fulladdress": "1207/5 Sutherland Street, Melbourne, Vic 3000",
+        "price": "$329,000 ",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/ec6e3798755742966e32857a8627939806336774700eefa1564c81082acaf996/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.95460443333334, -37.76269875)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1489982,
+          -38.1171539
+        ]
+      },
+      "properties": {
+        "location": "112 ABeckett Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-139450203",
+        "fulladdress": "415/112 ABeckett Street, Melbourne, Vic 3000",
+        "price": "$450,000 - $495,000",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "parkingSpaces": 1,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/32cea5c6f96310275e4a4077f8b4215c7d14b7a3cd8120eab1cad1e033172c76/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(145.1489982, -38.1171539)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1489982,
+          -38.1171539
+        ]
+      },
+      "properties": {
+        "location": "135 Abeckett Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140508583",
+        "fulladdress": "1612/135 Abeckett Street, Melbourne, Vic 3000",
+        "price": "$385,000 ",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/47db9fb3795896a66282f2affcb5a3a2753ae83782849011440e0f17adfe74f1/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(145.1489982, -38.1171539)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9595214,
+          -37.8194275
+        ]
+      },
+      "properties": {
+        "location": "1 William Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140264019",
+        "fulladdress": "1707/1 William Street, Melbourne, Vic 3000",
+        "price": "$330,000 - $360,000",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/02705d892e48c4393168a38b3bf2ad100a362ec4740deb71c3783047317a88bf/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9595214, -37.8194275)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9596031,
+          -37.8086427
+        ]
+      },
+      "properties": {
+        "location": "155 Franklin Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-139519191",
+        "fulladdress": "2502/155 Franklin Street, Melbourne, Vic 3000",
+        "price": "Contact Agent",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "parkingSpaces": 1,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/a26a848b8f119a6f098d545018c40ddc8d83ac67af4b543d34701d0929b3fb4f/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9596031, -37.8086427)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1489982,
+          -38.1171539
+        ]
+      },
+      "properties": {
+        "location": "80 Abeckett Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140507399",
+        "fulladdress": "2708/80 Abeckett Street, Melbourne, Vic 3000",
+        "price": "$550,000 - $590,000",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "parkingSpaces": 1,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/4e026aab438fbdd1908f90c813d6605fe7cb9c00fe09bed4505506665074aa6a/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(145.1489982, -38.1171539)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.95151,
+          -37.8131357
+        ]
+      },
+      "properties": {
+        "location": "250 Spencer Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140139463",
+        "fulladdress": "5613D/250 Spencer Street, Melbourne, Vic 3000",
+        "price": "Sale",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "parkingSpaces": 1,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/c1bac2e8dd71ae28aa34b9c3e440ae01e4c899e57312b09113b6422c1cfee8bd/image.png",
+        "house_type": "Apartment",
+        "coordinates": "(144.95151, -37.8131357)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9671085,
+          -37.807427
+        ]
+      },
+      "properties": {
+        "location": "33 MacKenzie Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140506603",
+        "fulladdress": "2304/33 MacKenzie Street, Melbourne, Vic 3000",
+        "price": "$540,000 to $590,000",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "parkingSpaces": 1,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/9d660b061fc03fd5148704ca75b49238425806b8d2ef1441b24cf795fe6d1208/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9671085, -37.807427)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9612267,
+          -37.8103906
+        ]
+      },
+      "properties": {
+        "location": "228 La Trobe Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140503719",
+        "fulladdress": "6702/228 La Trobe Street, Melbourne, Vic 3000",
+        "price": "$599,000 - $658,000",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/48fe0c8b3632dd3de37b8e2640902e86c8d7277127812a7a602c5475f987cdbf/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9612267, -37.8103906)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9644505,
+          -37.81051006
+        ]
+      },
+      "properties": {
+        "location": "300 Swanston Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140258367",
+        "fulladdress": "713/300 Swanston Street, Melbourne, Vic 3000",
+        "price": "$390,000-$415,000",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "parkingSpaces": 1,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/62aa817ebc7dc376f5e2b5bfd44ab9ffe74e41ee502ff67f15c25ea6f1caa966/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9644505110039, -37.810510061172394)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9652908,
+          -37.815886
+        ]
+      },
+      "properties": {
+        "location": "433 Collins Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-139513619",
+        "fulladdress": "1601/433 Collins Street, Melbourne, Vic 3000",
+        "price": "Price between $1,600,000 to 1,680,000",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "parkingSpaces": 1,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/521471721e0f9694faf4dcc3d81f71a17847bbf41c0e1980fd22a92e0274b51e/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9652908, -37.815886)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9612267,
+          -37.8103906
+        ]
+      },
+      "properties": {
+        "location": "228 La Trobe Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140257027",
+        "fulladdress": "3005/228 La Trobe Street, Melbourne, Vic 3000",
+        "price": "Sale | $435,000 - $450,000",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/83a71e301323256496bd8ab7c382f933fd18a7ca836aa22a5868306bd612cedb/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9612267, -37.8103906)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9564297,
+          -37.8115568
+        ]
+      },
+      "properties": {
+        "location": "199 William Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140385275",
+        "fulladdress": "1121/199 William Street, Melbourne, Vic 3000",
+        "price": "$370,000-$405,000",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/5420142cfc3be9e2861be65d9c360085ddcc053e77e4a07e8b727ba57d5157c2/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9564297, -37.8115568)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9612267,
+          -37.8103906
+        ]
+      },
+      "properties": {
+        "location": "327 LA TROBE STREET, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-138966043",
+        "fulladdress": "3404/327 LA TROBE STREET, Melbourne, Vic 3000",
+        "price": "Contact Agent",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/459915266d34ee3220f6e2277db590c7f0b0e614226e1baf3f10690d235f7ebc/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9612267, -37.8103906)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1489982,
+          -38.1171539
+        ]
+      },
+      "properties": {
+        "location": "81 Abeckett Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-139555759",
+        "fulladdress": "5303/81 Abeckett Street, Melbourne, Vic 3000",
+        "price": "$570,000-$620,000",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "parkingSpaces": 1,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/4225564da3baada79c2656811393bfcb2203cd53e398d482eda7545c5fed6c51/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(145.1489982, -38.1171539)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9574783,
+          -37.81073745
+        ]
+      },
+      "properties": {
+        "location": "28 Wills Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-139514795",
+        "fulladdress": "205/28 Wills Street, Melbourne, Vic 3000",
+        "price": "$530,000-$550,000",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "parkingSpaces": 1,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/bd3c1d3e7ebfcb8282681b7802c7d3a212702db9833bd2fc980ec8358a20323d/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9574782911477, -37.810737450000005)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.95151,
+          -37.8131357
+        ]
+      },
+      "properties": {
+        "location": "280 Spencer Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-139505791",
+        "fulladdress": "1005/280 Spencer Street, Melbourne, Vic 3000",
+        "price": "MUST SELL $350,000-$365,000",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "parkingSpaces": 1,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/f5f22e4f23edf55196508cb858098c67b9ec026818aded93b4ff59769e519df4/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.95151, -37.8131357)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9604471,
+          -37.80783118
+        ]
+      },
+      "properties": {
+        "location": "462 Elizabeth Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-139768363",
+        "fulladdress": "7202/462 Elizabeth Street, Melbourne, Vic 3000",
+        "price": "$865,000-$950,000",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "parkingSpaces": 1,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/7f4943653b8863455a3bd3b647a99d77bac8d70d0375022fc82bc1f3bffbfc7b/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9604471, -37.807831182608695)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9692683,
+          -37.8130459
+        ]
+      },
+      "properties": {
+        "location": "20 Coromandel Place, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140352835",
+        "fulladdress": "1301/20 Coromandel Place, Melbourne, Vic 3000",
+        "price": "375,000-380,000",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/2e38161cbd00dadae1ad33ea09256b5233284ea4f5f96f279416e2683af5d256/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.96926825901693, -37.813045900000006)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9587099,
+          -37.8024399
+        ]
+      },
+      "properties": {
+        "location": "151 Berkeley Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-137424906",
+        "fulladdress": "1407/151 Berkeley Street, Melbourne, Vic 3000",
+        "price": "3mins walk to Royal Melb Hospital",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/2211fcdea6d289eeeab3632d2dd8ff33c493162200a13446b5667e816b44bccf/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9587099, -37.8024399)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9664653,
+          -37.80865827
+        ]
+      },
+      "properties": {
+        "location": "318 Russell Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140252603",
+        "fulladdress": "4308/318 Russell Street, Melbourne, Vic 3000",
+        "price": "Private Sale",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/d8f31df4df0680a3739cded1b309b8093228355d05a19f2020c80c1e99322f52/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.96646525, -37.80865827)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9628452,
+          -37.8109981
+        ]
+      },
+      "properties": {
+        "location": "318 Little Lonsdale Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140130263",
+        "fulladdress": "1504/318 Little Lonsdale Street, Melbourne, Vic 3000",
+        "price": "$915,000 | 108m2",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "parkingSpaces": 1,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/01b0deea6ba131268adec1c877d78e60c245b7a5245cbc5292780b20dcb406e1/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9628452, -37.8109981)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9686945,
+          -37.8081508
+        ]
+      },
+      "properties": {
+        "location": "181 Exhibition Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140496931",
+        "fulladdress": "1504/181 Exhibition Street, Melbourne, Vic 3000",
+        "price": "UNDISCLOSED",
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "parkingSpaces": 2,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/df07e3aca3a9cd76f153f6a52c13972e0490ae7a38f7fec2c8b5abda6d1a124d/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9686945, -37.8081508)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9564841,
+          -37.82096345
+        ]
+      },
+      "properties": {
+        "location": "555 Flinders Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140128443",
+        "fulladdress": "702/555 Flinders Street, Melbourne, Vic 3000",
+        "price": "$285,000 - $300,000 MAKE AN OFFER!",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/72e306544c02b4d8c6e73a4ea826225d5f731e53baed38d47f5a5bea1e6fa930/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9564841079254, -37.82096345)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9554293,
+          -37.81835585
+        ]
+      },
+      "properties": {
+        "location": "568 Collins Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-139367931",
+        "fulladdress": "4507/568 Collins Street, Melbourne, Vic 3000",
+        "price": "Contact Agent",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/b2245741c4fd6a4b34fda6bd8ee1e05247cb9a4bc9300f411a66d1ad424c7dd0/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.95542933144475, -37.81835585)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1489982,
+          -38.1171539
+        ]
+      },
+      "properties": {
+        "location": "181 ABeckett Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-studio-vic-melbourne-140627311",
+        "fulladdress": "304/181 ABeckett Street, Melbourne, Vic 3000",
+        "price": "$199,000 - $218,000",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/2fd91a352585470d72ffa7065ef6eec7bf20cb6a193275ef81200939b7c12f70/image.jpg",
+        "house_type": "Studio",
+        "coordinates": "(145.1489982, -38.1171539)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1489982,
+          -38.1171539
+        ]
+      },
+      "properties": {
+        "location": "120 Abeckett Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140494111",
+        "fulladdress": "3005/120 Abeckett Street, Melbourne, Vic 3000",
+        "price": "$540,000 - $580,000",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/09624c0e2a20a642476fe9fd89fc8b6a976ee0c0de068b6103662ec92094969c/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(145.1489982, -38.1171539)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9595749,
+          -37.8096114
+        ]
+      },
+      "properties": {
+        "location": "120 A’Beckett Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140494095",
+        "fulladdress": "1107/120 A’Beckett Street, Melbourne, Vic 3000",
+        "price": "$345,000 - $360,000",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/83dc6c4cd3e4bc9b48ab805e84a4a1b2bc26fcfd805038941e0d973c4a800dcd/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9595749, -37.8096114)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9560988,
+          -37.8173936
+        ]
+      },
+      "properties": {
+        "location": "27 Little Collins Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-137572062",
+        "fulladdress": "APT 2803/27 Little Collins Street, Melbourne, Vic 3000",
+        "price": "Expression of Interest",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "parkingSpaces": 1,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/2563efd54bf016a9d53c5a7a68cc637ea7ba35a7cdc06ad163e1cd31c2c0ec6c/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9560988, -37.8173936)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9564841,
+          -37.82096345
+        ]
+      },
+      "properties": {
+        "location": "555 Flinders Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140126883",
+        "fulladdress": "1215/555 Flinders Street, Melbourne, Vic 3000",
+        "price": "$640,000 ",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "parkingSpaces": 1,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/880d847b63f1b96306b4820156d4a645cc9ef5104d0d9b2e43abdd3501e9ffe8/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9564841079254, -37.82096345)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9582123,
+          -37.8149908
+        ]
+      },
+      "properties": {
+        "location": "172 William Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140493103",
+        "fulladdress": "104/172 William Street, Melbourne, Vic 3000",
+        "price": "$355,000 ",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/b7b20879dcfacec03ac4a17e16b7f30584839946a59d88551ce374878494f6ea/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9582123, -37.8149908)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9571233,
+          -37.8107145
+        ]
+      },
+      "properties": {
+        "location": "25 Wills Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140247299",
+        "fulladdress": "109/25 Wills Street, Melbourne, Vic 3000",
+        "price": "$280,000 - $308,000",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/4bbf3bf261c09417a34928b7fb87e46e49cc2b7476c623ae868cd5792bd2b7b0/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9571233, -37.8107145)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9741154,
+          -37.8145494
+        ]
+      },
+      "properties": {
+        "location": "31 Spring Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-139497939",
+        "fulladdress": "606/31 Spring Street, Melbourne, Vic 3000",
+        "price": "Private Sale $499,000",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/0fe923d40fa283fdd1709a1e91d876ca9fec87fdd5d9a4730a7effa85c02971f/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.97411540000002, -37.814549400000004)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9554293,
+          -37.81835585
+        ]
+      },
+      "properties": {
+        "location": "568 Collins Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140373827",
+        "fulladdress": "3905/568 Collins Street, Melbourne, Vic 3000",
+        "price": "$488,000 - $536,000",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "parkingSpaces": 1,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/0aa2b950a1b284eda2672db5a0813ce88721d079caaada2a5c10d4ccb1315a72/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.95542933144475, -37.81835585)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9556294,
+          -37.8137367
+        ]
+      },
+      "properties": {
+        "location": "560 Lonsdale Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140373423",
+        "fulladdress": "1210/560 Lonsdale Street, Melbourne, Vic 3000",
+        "price": "$1,100,000 - $1,120,000",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "parkingSpaces": 1,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/a7e6c81fb0438accf7ecd75f23569330faa84d335fa1d618cd308efec9dce8c0/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.95562942986624, -37.8137367)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9554293,
+          -37.81835585
+        ]
+      },
+      "properties": {
+        "location": "568 Collins Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140246199",
+        "fulladdress": "6104/568 Collins Street, Melbourne, Vic 3000",
+        "price": "$545,000 to $565,000",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "parkingSpaces": 1,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/e4cb2d94d536de8ec16f24bffb7b1649fd9ca9e830daf496de1edd44a3a065bd/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.95542933144475, -37.81835585)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9537209,
+          -37.81389365
+        ]
+      },
+      "properties": {
+        "location": "601 Little Lonsdale Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-139628567",
+        "fulladdress": "1407/601 Little Lonsdale Street, Melbourne, Vic 3000",
+        "price": "$650,000 - $689,000",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "parkingSpaces": 1,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/b5e7a9f4a116ae5707a9e4b5f7e67df200cc5708f375fba406591d021ac587f7/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9537209, -37.81389365)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9711772,
+          -37.816044
+        ]
+      },
+      "properties": {
+        "location": "108 Flinders Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140621983",
+        "fulladdress": "1104/108 Flinders Street, Melbourne, Vic 3000",
+        "price": "Expressions Of Interest Closing 10 November at 5pm",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "parkingSpaces": 1,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/e3132114421229ce91ddae37910d330a32d75e388c285fb90b3c95965082550f/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9711771771287, -37.816044000000005)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.96842,
+          -37.8080085
+        ]
+      },
+      "properties": {
+        "location": "333 Exhibition Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140490083",
+        "fulladdress": "610/333 Exhibition Street, Melbourne, Vic 3000",
+        "price": "$350,000 ",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/71c666f5ba8eb5c44a13273a5c669e9552d584acfedec4b7c78d9b5d76fa9f95/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.96842, -37.8080085)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9594357,
+          -37.8119956
+        ]
+      },
+      "properties": {
+        "location": "370 Queen Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140621191",
+        "fulladdress": "7104/370 Queen Street, Melbourne, Vic 3000",
+        "price": "$1,585,850 ",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "parkingSpaces": 1,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/7651ff59c6686422584cbcdca02560773a45cbbef29c45089f063504ffb1f6dc/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9594357, -37.8119956)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.95151,
+          -37.8131357
+        ]
+      },
+      "properties": {
+        "location": "138 Spencer Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-139886459",
+        "fulladdress": "4311/138 Spencer Street, Melbourne, Vic 3000",
+        "price": "$750,000-$800,000",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "parkingSpaces": 0,
+        "studies": "1",
+        "image_url": "https://i2.au.reastatic.net/{size}/7a0a019c59b7737e74e31b7467acb1e47bd812894cc50e7efe53e60ae28a2c33/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.95151, -37.8131357)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9613079,
+          -37.8103786
+        ]
+      },
+      "properties": {
+        "location": "442-450 Elizabeth Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-139360819",
+        "fulladdress": "1405/442-450 Elizabeth Street, Melbourne, Vic 3000",
+        "price": "$360,000 ",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/fc3e3db62a4a2e59cc9a067eebc1fdfe2f93fb7b6e5747d4f89040c248675f2b/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9613079, -37.8103786)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9539615,
+          -37.8148091
+        ]
+      },
+      "properties": {
+        "location": "38 Rose Lane, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140241507",
+        "fulladdress": "1203/38 Rose Lane, Melbourne, Vic 3000",
+        "price": "$310,000-$340,000",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/0d21ba41cbe19179c888aa3af75d06fe42a82bec2f2df5ebc51f972558e3362f/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9539615, -37.8148091)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.955577,
+          -37.8199018
+        ]
+      },
+      "properties": {
+        "location": "8 Downie Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140369991",
+        "fulladdress": "2806/8 Downie Street, Melbourne, Vic 3000",
+        "price": "$345,000 - $368,000",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/7a55bee62240331d184b6eb820796b6fd868e4ccdd692086660f312d5c180e57/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.955577, -37.8199018)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9595749,
+          -37.8096114
+        ]
+      },
+      "properties": {
+        "location": "135 A'Beckett Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140485847",
+        "fulladdress": "2316/135 A'Beckett Street, Melbourne, Vic 3000",
+        "price": "$499,000 - $519,000",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/4ffdc2ef2e35a1684eebaffd3a06bc6d8da0388ce3841a0174542295abab55b7/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9595749, -37.8096114)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9564297,
+          -37.8115568
+        ]
+      },
+      "properties": {
+        "location": "199 William Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-139490671",
+        "fulladdress": "819/199 William Street, Melbourne, Vic 3000",
+        "price": "$420,000 - $460,000",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/1c70ca1ca2e5db41a0597e2bd3ab8862dae8488bb3658c8a43439e7b7b0379fe/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9564297, -37.8115568)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9612267,
+          -37.8103906
+        ]
+      },
+      "properties": {
+        "location": "228 La Trobe Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140616607",
+        "fulladdress": "4402/228 La Trobe Street, Melbourne, Vic 3000",
+        "price": "$450,000 - $470,000",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/ff1124fc68b43d7beb7ae8a28443e7b25d4f8606799f90e967eef30dc06dde80/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9612267, -37.8103906)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9645279,
+          -37.8171895
+        ]
+      },
+      "properties": {
+        "location": "241 Flinders Lane, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140482591",
+        "fulladdress": "301/241 Flinders Lane, Melbourne, Vic 3000",
+        "price": "$820,000 - $880,000",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/4323a6cf7998af98f2b99e121110562761fe395b536fb4f501716a73b55ccf7e/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9645279, -37.8171895)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9665562,
+          -37.80836015
+        ]
+      },
+      "properties": {
+        "location": "68 La Trobe Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140238919",
+        "fulladdress": "106/68 La Trobe Street, Melbourne, Vic 3000",
+        "price": "$498,000 - $525,000",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "parkingSpaces": 1,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/9fca9e625d11d616863edf6a8d1bd1463a3aaddc57268c4c1c0288b0b4f4048d/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.96655620173067, -37.80836015)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9595749,
+          -37.8096114
+        ]
+      },
+      "properties": {
+        "location": "81 A'Beckett Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140238923",
+        "fulladdress": "5504/81 A'Beckett Street, Melbourne, Vic 3000",
+        "price": "$580,000 to $600,000",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/dfc9ed2e6fc817c5b23455afe09b53ae8e1b3664082fbf0953cd180a588cb067/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9595749, -37.8096114)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9628452,
+          -37.8109981
+        ]
+      },
+      "properties": {
+        "location": "318 Little Lonsdale Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140238831",
+        "fulladdress": "607/318 Little Lonsdale Street, Melbourne, Vic 3000",
+        "price": "$275,000 ",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/a8374771b590a6e70b687eee31e0dbf0b43a1bad4c173bd327ed7488897a2d4d/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9628452, -37.8109981)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9678576,
+          -37.8113058
+        ]
+      },
+      "properties": {
+        "location": "222 Russell Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-139748107",
+        "fulladdress": "Apt 1102/222 Russell Street, Melbourne, Vic 3000",
+        "price": "398,000",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/54bff07506afa612c4e92431381f79b56782e7dfdb3c6c437c062f9c66d23d1a/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9678576, -37.8113058)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9741154,
+          -37.8145494
+        ]
+      },
+      "properties": {
+        "location": "31 Spring Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-unit-vic-melbourne-140462471",
+        "fulladdress": "1203/31 Spring Street, Melbourne, Vic 3000",
+        "price": "$1,350,000 to $1,450,000",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "parkingSpaces": 1,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/4087944ce550cd1a5cc8ac293b576eb17c76b6654274e181dea95753dc5a5eb6/image.jpg",
+        "house_type": "Unit",
+        "coordinates": "(144.97411540000002, -37.814549400000004)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9671085,
+          -37.807427
+        ]
+      },
+      "properties": {
+        "location": "33 Mackenzie Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-139746259",
+        "fulladdress": "2405/33 Mackenzie Street, Melbourne, Vic 3000",
+        "price": "$410,000 - $440,000",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/c97569e17dacaf43b852dde0e92c40cb7b1dfaf4f2ba7f60f57b2377188d64cd/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9671085, -37.807427)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9613079,
+          -37.8103786
+        ]
+      },
+      "properties": {
+        "location": "455 Elizabeth Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140610171",
+        "fulladdress": "1102/455 Elizabeth Street, Melbourne, Vic 3000",
+        "price": "$430,000 ",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/39d18a1d5e9aa240b133ffd7ec41da6faf9e49a9049cfb0d55d786a7ab55f68a/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9613079, -37.8103786)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9595749,
+          -37.8096114
+        ]
+      },
+      "properties": {
+        "location": "135 A'beckett Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-139610411",
+        "fulladdress": "2606/135 A'beckett Street, Melbourne, Vic 3000",
+        "price": "$370,000-$385,000",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/151973a4d361af05ef425f5749d7cacc8886ce8b53a24bdad1d132982804d70c/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9595749, -37.8096114)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9686945,
+          -37.8081508
+        ]
+      },
+      "properties": {
+        "location": "308 Exhibition Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140361047",
+        "fulladdress": "2301/308 Exhibition Street, Melbourne, Vic 3000",
+        "price": "$3,810,000 ",
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "parkingSpaces": 3,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/5f40371b871d9cbbe5a16c57f0761bd8f015e5190afe5e7459cfc5b8a0264abf/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9686945, -37.8081508)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9612267,
+          -37.8103906
+        ]
+      },
+      "properties": {
+        "location": "228 La Trobe Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140608107",
+        "fulladdress": "2905/228 La Trobe Street, Melbourne, Vic 3000",
+        "price": "$420,000-$435,000",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/c51f1385f43e66dcca55cde87f2d326d4802d1909774e1fa6f616558cc4d5c1e/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9612267, -37.8103906)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9714931,
+          -37.811212
+        ]
+      },
+      "properties": {
+        "location": "16 Liverpool Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140589631",
+        "fulladdress": "607/16 Liverpool Street, Melbourne, Vic 3000",
+        "price": "$450,000 - $470,000",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "parkingSpaces": 1,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/0e25dbd797e204536b61cfc2cacf63e3a17e37b29fa10c2be6630e1fe446f1cf/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9714931, -37.811212)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9594357,
+          -37.8119956
+        ]
+      },
+      "properties": {
+        "location": "318 Queen Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140473023",
+        "fulladdress": "4601/318 Queen Street, Melbourne, Vic 3000",
+        "price": "Contact Agent",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "parkingSpaces": 1,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/bbeb608d3fff852361a52f047b8ae5331c95c1567e3d0284f5ae00b8ffd17b36/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9594357, -37.8119956)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9633382,
+          -37.7819936
+        ]
+      },
+      "properties": {
+        "location": "8 Bowen Crescent, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-139993699",
+        "fulladdress": "1803/8 Bowen Crescent, Melbourne, Vic 3000",
+        "price": "Contact Agent",
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "parkingSpaces": 3,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/185d5c2813446c61abf9192b69770e8ff5151f53511953478bd61dc2f6b47849/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9633382, -37.7819936)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9539615,
+          -37.8148091
+        ]
+      },
+      "properties": {
+        "location": "38 Rose Lane, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-139991319",
+        "fulladdress": "702/38 Rose Lane, Melbourne, Vic 3000",
+        "price": "UNDER CONTRACT",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/9fc7b8b1e036191ab10a262a95e02fbdddc08f488d4688c3956ce157f30f6aad/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9539615, -37.8148091)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9556294,
+          -37.8137367
+        ]
+      },
+      "properties": {
+        "location": "560 Lonsdale Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140355747",
+        "fulladdress": "4909/560 Lonsdale Street, Melbourne, Vic 3000",
+        "price": "Contact Agent",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "parkingSpaces": 1,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/dc242f7fe1d3f62b8950419d984896c55f1e37ed6c14b178a7570b39a841d2e5/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.95562942986624, -37.8137367)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9600304,
+          -37.81679715
+        ]
+      },
+      "properties": {
+        "location": "422 Collins Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140354895",
+        "fulladdress": "1301/422 Collins Street, Melbourne, Vic 3000",
+        "price": "Under Offer",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/27a4db6531d0e4b95e13fb7e847b27538bbb7e528cd94bbc8c017b30085161d9/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9600304018269, -37.81679715)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9610269,
+          -37.8121655
+        ]
+      },
+      "properties": {
+        "location": "28 Timothy Lane, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140354147",
+        "fulladdress": "3905/28 Timothy Lane, Melbourne, Vic 3000",
+        "price": "For Sale",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "parkingSpaces": 1,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/aefb08bbd06794f380db463f6704355073a2be4ae8674332d4c88d9897bf89fc/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9610269, -37.8121655)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9658832,
+          -37.8104474
+        ]
+      },
+      "properties": {
+        "location": "22-24 Jane Bell Lane, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-139734575",
+        "fulladdress": "1708/22-24 Jane Bell Lane, Melbourne, Vic 3000",
+        "price": "Private Sale",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "parkingSpaces": 1,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/b2762dd12d8c58fbe8676af90d0b27b5d3fc74d700c605492fd9d5b0fe3eb8b3/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9658832, -37.8104474)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9595749,
+          -37.8096114
+        ]
+      },
+      "properties": {
+        "location": "135 A'Beckett Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140595723",
+        "fulladdress": "6009/135 A'Beckett Street, Melbourne, Vic 3000",
+        "price": "ESR: $880,000 - $920,000",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "parkingSpaces": 1,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/1ecb9d51b3fe96d30d34b098a4c2de7ada3c4b75aa20fc7cf30ecf449a001541/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9595749, -37.8096114)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9532882,
+          -37.8162806
+        ]
+      },
+      "properties": {
+        "location": "200 Spencer Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-138993283",
+        "fulladdress": "1313/200 Spencer Street, Melbourne, Vic 3000",
+        "price": "$360,000 to $395,000",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "parkingSpaces": 1,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/4b2865009809170ef2def56cd020a869dd49ed23c37dfac0776410778d47020e/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.95328817518583, -37.8162806)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9564841,
+          -37.82096345
+        ]
+      },
+      "properties": {
+        "location": "555 Flinders Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140463723",
+        "fulladdress": "1306/555 Flinders Street, Melbourne, Vic 3000",
+        "price": "$400,000 ",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "parkingSpaces": 1,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/8cd9ca2d02b7399581adae421e921519f6a72401e8532298e8497c9152b1f7df/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9564841079254, -37.82096345)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9600304,
+          -37.81679715
+        ]
+      },
+      "properties": {
+        "location": "422 Collins Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-139730827",
+        "fulladdress": "717/422 Collins Street, Melbourne, Vic 3000",
+        "price": "$599,000 ",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/a538ca58a6d87e3fbb68cdba25b8475c9ebba57b6429993aa7f637f9e5a8398d/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9600304018269, -37.81679715)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9596031,
+          -37.8086427
+        ]
+      },
+      "properties": {
+        "location": "155 Franklin Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-137857278",
+        "fulladdress": "803/155 Franklin Street, Melbourne, Vic 3000",
+        "price": "Contact agent",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/ea59be6c1540eecba7052940de79870d2b172d91b37ed5ca44a1484250ca2787/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9596031, -37.8086427)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9689134,
+          -37.8104681
+        ]
+      },
+      "properties": {
+        "location": "11-17 Cohen Place, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140119259",
+        "fulladdress": "403/11-17 Cohen Place, Melbourne, Vic 3000",
+        "price": "Under Offer - More Properties Wanted",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/4c08fd8d0f035b8cfcbcf62b66e36cbdfe4114ff34dfe4a8ae1f65cd31c84cdd/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9689134, -37.8104681)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9539615,
+          -37.8148091
+        ]
+      },
+      "properties": {
+        "location": "38 Rose Lane, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140593111",
+        "fulladdress": "3909/38 Rose Lane, Melbourne, Vic 3000",
+        "price": "$398,000 - $437,800",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/d39e8f8b41cb81d98b86c68d4ca602687e4dbd3aaf29c7c7b1476c6613b0ec36/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9539615, -37.8148091)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9612267,
+          -37.8103906
+        ]
+      },
+      "properties": {
+        "location": "350 La Trobe Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140462235",
+        "fulladdress": "602/350 La Trobe Street, Melbourne, Vic 3000",
+        "price": "$490,000 - $530,000",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/9169f358e9f9ef8adb848a652dfaa210a787e96799d9249b5c5805c1210d0d23/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9612267, -37.8103906)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9666843,
+          -37.8098683
+        ]
+      },
+      "properties": {
+        "location": "27 Russell Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140591979",
+        "fulladdress": "7B/27 Russell Street, Melbourne, Vic 3000",
+        "price": "Deadline Sale (unless sold prior)",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "parkingSpaces": 1,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/f864f4c3f7fc8134a4f4b9e87120a2407df51d33f08546b8ffb2171a8d0e3a92/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9666843, -37.8098683)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9610151,
+          -37.8070736
+        ]
+      },
+      "properties": {
+        "location": "25 Therry Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-116905191",
+        "fulladdress": "2204/25 Therry Street, Melbourne, Vic 3000",
+        "price": "Contact Agent",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/93921fb1c83846240f15b192e615876de064150872fcd19b2196b9c44a5b317a/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9610150513281, -37.8070736)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.96842,
+          -37.8080085
+        ]
+      },
+      "properties": {
+        "location": "333 Exhibition St, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140590619",
+        "fulladdress": "1306/333 Exhibition St, Melbourne, Vic 3000",
+        "price": "$599,000 ",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "parkingSpaces": 1,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/8dc20474480b8e86f0b9f69ee58a4d9a1d4a04c9f49535d4964f467af7dea923/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.96842, -37.8080085)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9610193,
+          -37.80907471
+        ]
+      },
+      "properties": {
+        "location": "410 Elizabeth Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-139351043",
+        "fulladdress": "1103/410 Elizabeth Street, Melbourne, Vic 3000",
+        "price": "$440,000 - $470,000",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/b55eff09582d031f20ef7b67943c59f8c1629bd97325c2cdc12c951bcc3b9814/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.96101932142855, -37.809074707142855)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.95151,
+          -37.8131357
+        ]
+      },
+      "properties": {
+        "location": "138 Spencer Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-139982427",
+        "fulladdress": "4310/138 Spencer Street, Melbourne, Vic 3000",
+        "price": "$700,000-$750,000",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "parkingSpaces": 0,
+        "studies": "1",
+        "image_url": "https://i2.au.reastatic.net/{size}/5f76ec111001aa70f8525add148818f62a720b1f094bece41b10392502778540/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.95151, -37.8131357)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9564297,
+          -37.8115568
+        ]
+      },
+      "properties": {
+        "location": "199 William Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-137269930",
+        "fulladdress": "522/199 William Street, Melbourne, Vic 3000",
+        "price": "$475,000 - $500,000",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/f743cb51f3808ffe06fe79d7076ca2e8259965a4b8345497b3068b33a6df8ab4/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9564297, -37.8115568)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9610151,
+          -37.8070736
+        ]
+      },
+      "properties": {
+        "location": "25  Therry Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-139980975",
+        "fulladdress": "1006/25  Therry Street, Melbourne, Vic 3000",
+        "price": "Contact Agent",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/7a9cd2101883f888ea62d70dda45212e85e71f5439782c9438cbc99eedf9896f/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9610150513281, -37.8070736)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9612267,
+          -37.8103906
+        ]
+      },
+      "properties": {
+        "location": "30 La Trobe Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140587647",
+        "fulladdress": "41/30 La Trobe Street, Melbourne, Vic 3000",
+        "price": "THE DEAL: Private Negotiation",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "parkingSpaces": 1,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/1ba7dffc0b6c9e4e12c52c7b4efca51296f4513efd3ba9056e88e5657ed6bbb0/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9612267, -37.8103906)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9532882,
+          -37.8162806
+        ]
+      },
+      "properties": {
+        "location": "200 Spencer Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140112455",
+        "fulladdress": "3910/200 Spencer Street, Melbourne, Vic 3000",
+        "price": "$650,000 - $680,000",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "parkingSpaces": 1,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/5e0967e78751315e9175cd7369e9c4b4201dfa4634a1360556aceed1803ce65b/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.95328817518583, -37.8162806)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9686931,
+          -37.8136078
+        ]
+      },
+      "properties": {
+        "location": "118 Russell Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140584975",
+        "fulladdress": "811/118 Russell Street, Melbourne, Vic 3000",
+        "price": "$590,000 - $640,000",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/7736131886a140a2f4da9c3c0ce1167876c08a53dae777897b5cd3c3b69ec276/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9686931, -37.8136078)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9554293,
+          -37.81835585
+        ]
+      },
+      "properties": {
+        "location": "568 Collins Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-139855019",
+        "fulladdress": "4109/568 Collins Street, Melbourne, Vic 3000",
+        "price": "$325,000 - $350,000",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/9dcb32f53421f18baee7189b93de03fc1e6cf76a02dc72cb54074964e4d76264/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.95542933144475, -37.81835585)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9532882,
+          -37.8162806
+        ]
+      },
+      "properties": {
+        "location": "200 Spencer Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-135009774",
+        "fulladdress": "1311/200 Spencer Street, Melbourne, Vic 3000",
+        "price": "$400,000 - $415,000",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "parkingSpaces": 1,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/10d326894a5313aeedfcb28caebfad9aebe47993f2e69042809c0051d395c17e/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.95328817518583, -37.8162806)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9614924,
+          -37.814762
+        ]
+      },
+      "properties": {
+        "location": "399 Bourke Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140232367",
+        "fulladdress": "213/399 Bourke Street, Melbourne, Vic 3000",
+        "price": "$470,000 to $515,000",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/4519416c6c660a2c625700678002c14a9c9d5a77084dd2b0c91603fe48f45b52/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9614924, -37.814762)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9621938,
+          -37.8074444
+        ]
+      },
+      "properties": {
+        "location": "8 Franklin Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-139718187",
+        "fulladdress": "803A/8 Franklin Street, Melbourne, Vic 3000",
+        "price": "$450,000 - $490,000",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/dfb2eebf8fc274f0ad307232b8c50a76f0f0b9030ce103680e3a9d8c45408d05/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9621938, -37.8074444)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.961751,
+          -37.808018
+        ]
+      },
+      "properties": {
+        "location": "87 Franklin Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140581475",
+        "fulladdress": "705/87 Franklin Street, Melbourne, Vic 3000",
+        "price": "$360,000 to $395,000",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "parkingSpaces": 1,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/b10762f0e66f53f56b08d649aab44620efffe42aba0cc6cbd9d9108d258b60af/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.961751, -37.808018)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9618007,
+          -37.8190295
+        ]
+      },
+      "properties": {
+        "location": "474 Flinders Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140108279",
+        "fulladdress": "1621/474 Flinders Street, Melbourne, Vic 3000",
+        "price": "Private Sale $430,000",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/04bad827779d40f5b4b605564b73be96fc867fe2d75a6f02bdd3f5f91a35df9a/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9618007, -37.8190295)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9554293,
+          -37.81835585
+        ]
+      },
+      "properties": {
+        "location": "568 Collins Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-139850215",
+        "fulladdress": "1502/568 Collins Street, Melbourne, Vic 3000",
+        "price": "$475,000 ",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "parkingSpaces": 1,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/78dc384a4ec84c1fc552a27e91d11e821a07dd5dcbf162c83397ee1d171bdd6c/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.95542933144475, -37.81835585)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9606474,
+          -37.80826779
+        ]
+      },
+      "properties": {
+        "location": "442 Elizabeth  Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140229975",
+        "fulladdress": "1404/442 Elizabeth  Street, Melbourne, Vic 3000",
+        "price": "$550,000 ",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/d6ffe2a61495dd7069b3fa6a01f32e45577f1847fc1ca4d48f48d3135a1a8bb5/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.96064737857145, -37.808267792857144)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9536724,
+          -37.815252
+        ]
+      },
+      "properties": {
+        "location": "639 Lonsdale Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140350815",
+        "fulladdress": "1308/639 Lonsdale Street, Melbourne, Vic 3000",
+        "price": "$400,000 ",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/74f4c700211fb766302cececf55529efd73f4fafa761bc0b16374c1ddd65133c/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.95367244636554, -37.815252)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9741154,
+          -37.8145494
+        ]
+      },
+      "properties": {
+        "location": "31 Spring Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-139971367",
+        "fulladdress": "1206/31 Spring Street, Melbourne, Vic 3000",
+        "price": "$460,000 to $505,000",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "parkingSpaces": 1,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/084d3f2b5ff4d8345082c26d8fa74e75049f31d3dce04882a223bc3a94a894ba/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.97411540000002, -37.814549400000004)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9692124,
+          -37.8131764
+        ]
+      },
+      "properties": {
+        "location": "22 Coromandel Place, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140577071",
+        "fulladdress": "1106/22 Coromandel Place, Melbourne, Vic 3000",
+        "price": "$390,000 - $420,000",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/4d58f1d044c3d3357eae7944e2de620b287cf66e6e43056348d687e2681cd6f4/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9692124, -37.8131764)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.96842,
+          -37.8080085
+        ]
+      },
+      "properties": {
+        "location": "333 Exhibition Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-unit-vic-melbourne-140576835",
+        "fulladdress": "1311/333 Exhibition Street, Melbourne, Vic 3000",
+        "price": "$440,000 - $480,000",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/981610900943433d22e9aadb1824f62a8d7600691bc90d13ced00ff7adbcc334/image.jpg",
+        "house_type": "Unit",
+        "coordinates": "(144.96842, -37.8080085)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9563955,
+          -37.8111644
+        ]
+      },
+      "properties": {
+        "location": "350 William Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140576663",
+        "fulladdress": "2110/350 William Street, Melbourne, Vic 3000",
+        "price": "Contact Agent",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/8216d5591eaf2f513f1753d0ac1e64268b47ba99f9e980b0a9d1b8fa5a837491/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9563955, -37.8111644)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9595749,
+          -37.8096114
+        ]
+      },
+      "properties": {
+        "location": "80 A'Beckett Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140550323",
+        "fulladdress": "2706/80 A'Beckett Street, Melbourne, Vic 3000",
+        "price": "$500,000 (carpark plus cage)",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "parkingSpaces": 1,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/d28dddb501a9bc9c19d91c348cfc1c616fb575a8935e476c432cf1876ac24bf2/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9595749, -37.8096114)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1489982,
+          -38.1171539
+        ]
+      },
+      "properties": {
+        "location": "120 Abeckett Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-135897434",
+        "fulladdress": "1403/120 Abeckett Street, Melbourne, Vic 3000",
+        "price": "Contact Agent",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/0492d4d02c7a9eede46fd7259d7d3d2ad88823a5da021197d13ffb3993d60180/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(145.1489982, -38.1171539)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9586031,
+          -37.81751505
+        ]
+      },
+      "properties": {
+        "location": "464 Collins Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-139469935",
+        "fulladdress": "2101/464 Collins Street, Melbourne, Vic 3000",
+        "price": "$599,000 ",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/bf21d7004e3fb8c5e979a2bf03682942009e02ee90954eb41e8374610d7649a1/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.95860306822385, -37.81751505)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9612267,
+          -37.8103906
+        ]
+      },
+      "properties": {
+        "location": "285 La Trobe Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-139336635",
+        "fulladdress": "802/285 La Trobe Street, Melbourne, Vic 3000",
+        "price": "UNDER OFFER",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/b1b0d39fa0728236babfbe8ac937cac44d6d021c41122824032ab9eb819768a9/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9612267, -37.8103906)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9686931,
+          -37.8136078
+        ]
+      },
+      "properties": {
+        "location": "118 Russell Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-139839523",
+        "fulladdress": "405/118 Russell Street, Melbourne, Vic 3000",
+        "price": "$499,000 ",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/08075ebc976d3636602044404c6425cce7648fa10bcf0eaa9e2e5174b53c0b6a/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9686931, -37.8136078)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9553025,
+          -37.8139472
+        ]
+      },
+      "properties": {
+        "location": "10 Manton Lane, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-unit-vic-melbourne-140218795",
+        "fulladdress": "4/10 Manton Lane, Melbourne, Vic 3000",
+        "price": "$2,700,000 ",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "parkingSpaces": 2,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/43b8c65c72d35b653ddb335e5de965b95b88ebd5a069a11aa3f4d78e2bb9bce4/image.jpg",
+        "house_type": "Unit",
+        "coordinates": "(144.9553025, -37.8139472)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9671085,
+          -37.807427
+        ]
+      },
+      "properties": {
+        "location": "9 - 23 Mackenzie street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-139330603",
+        "fulladdress": "3009/9 - 23 Mackenzie street, Melbourne, Vic 3000",
+        "price": "Contact Agent",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "parkingSpaces": 1,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/183c8e2ca14064b14a003d6364f2521a4420fec6fa6a2bd39b5e7f973cc19c12/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9671085, -37.807427)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9596031,
+          -37.8086427
+        ]
+      },
+      "properties": {
+        "location": "155 Franklin Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140092331",
+        "fulladdress": "2109/155 Franklin Street, Melbourne, Vic 3000",
+        "price": "Contact Agent",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/5aebe949880ba9f1ae57bb0ca1aeb15a0b3eae57defd0f2da305366b6119c91b/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9596031, -37.8086427)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9563955,
+          -37.8111644
+        ]
+      },
+      "properties": {
+        "location": "350 William Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-136881750",
+        "fulladdress": "3505/350 William Street, Melbourne, Vic 3000",
+        "price": "Please contact Agent",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/afae2ce86f5f46168e37cefce180b9e1f3c41086f007ad7fee2c2d8dfc3d76ba/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9563955, -37.8111644)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9612267,
+          -37.8103906
+        ]
+      },
+      "properties": {
+        "location": "228 La Trobe Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-139834947",
+        "fulladdress": "3806/228 La Trobe Street, Melbourne, Vic 3000",
+        "price": "Offers Welcome!",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/f752b7f538ce17aa51c70a62ce8fb94faf7d7b45252d28c50fb7c9eb9a0b2749/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9612267, -37.8103906)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9628452,
+          -37.8109981
+        ]
+      },
+      "properties": {
+        "location": "557 Little Lonsdale Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140453195",
+        "fulladdress": "1004/557 Little Lonsdale Street, Melbourne, Vic 3000",
+        "price": "Price on Application",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/b653aa9e81cbd210e9b7cd5650527385d24189e6cf25cf663728721f16278937/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9628452, -37.8109981)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9563955,
+          -37.8111644
+        ]
+      },
+      "properties": {
+        "location": "350 William Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-studio-vic-melbourne-139464071",
+        "fulladdress": "3508/350 William Street, Melbourne, Vic 3000",
+        "price": "$259,000 ",
+        "bedrooms": 0,
+        "bathrooms": 1,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/83dd9597bdf83562109db774a0eb7c0cf94d93a22ee63bc68bcbd4359e1edee9/image.jpg",
+        "house_type": "Studio",
+        "coordinates": "(144.9563955, -37.8111644)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9558093,
+          -37.821096
+        ]
+      },
+      "properties": {
+        "location": "565 Flinders Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-139329491",
+        "fulladdress": "408/565 Flinders Street, Melbourne, Vic 3000",
+        "price": "$450,000 - $480,000",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "parkingSpaces": 1,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/e7e3cae3eb72e2e5ae1e633d4f66e0d5d0ec959ce93de35c8d37d3da3c9ca095/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9558092772109, -37.821096)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1489982,
+          -38.1171539
+        ]
+      },
+      "properties": {
+        "location": "228 ABeckett Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140214351",
+        "fulladdress": "601/228 ABeckett Street, Melbourne, Vic 3000",
+        "price": "$620,000 - $660,000",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "parkingSpaces": 1,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/87e0a6f28b63bc3bc1a013e0cdc877158a3bd40c91b94d1c251678bc1d1810bc/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(145.1489982, -38.1171539)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9554293,
+          -37.81835585
+        ]
+      },
+      "properties": {
+        "location": "568 Collins Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-139179743",
+        "fulladdress": "2510/568 Collins Street, Melbourne, Vic 3000",
+        "price": "$480,000 ",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/fd524d577080b2826e7f2bf51eedcd864a761a69cf2e0621b733dd056db5b914/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.95542933144475, -37.81835585)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9689134,
+          -37.8104681
+        ]
+      },
+      "properties": {
+        "location": "11-17 Cohen Place, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140341039",
+        "fulladdress": "508/11-17 Cohen Place, Melbourne, Vic 3000",
+        "price": "$279,000 ",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/0327d8b139f31f6646879e184b64ad7e8dafa3ff7b30cc2163164a4f548a3ce7/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9689134, -37.8104681)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9610151,
+          -37.8070736
+        ]
+      },
+      "properties": {
+        "location": "25 Therry Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140212347",
+        "fulladdress": "2001/25 Therry Street, Melbourne, Vic 3000",
+        "price": "Contact Agent",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "parkingSpaces": 1,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/cff12061fb0fedbe0253d8a5a074dfd3958d8e127ceed01830731b5e3969c22b/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9610150513281, -37.8070736)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.952991,
+          -37.815983
+        ]
+      },
+      "properties": {
+        "location": "220 Spencer Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140210779",
+        "fulladdress": "2309s/220 Spencer Street, Melbourne, Vic 3000",
+        "price": "$295,000 - $320,000",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/932219d8f5a49f70423334e7a3ec99b782252509c39e5c9ec23dc6da8b6dbd45/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.952991, -37.815983)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9537209,
+          -37.81389365
+        ]
+      },
+      "properties": {
+        "location": "601 Little Lonsdale Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-137521930",
+        "fulladdress": "1106/601 Little Lonsdale Street, Melbourne, Vic 3000",
+        "price": "$399,000 ",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/546e55bd2d3eef06b55383df3ba5cec70097aa206995e575cdf17991c84d1bfa/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9537209, -37.81389365)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9537209,
+          -37.81389365
+        ]
+      },
+      "properties": {
+        "location": "601 Little Lonsdale Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-137521926",
+        "fulladdress": "906/601 Little Lonsdale Street, Melbourne, Vic 3000",
+        "price": "$389,000 ",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/df510af3dee7b89ff49715c42d2e61b62e31cdf497ddcc2277e69169e959d9fa/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9537209, -37.81389365)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9612267,
+          -37.8103906
+        ]
+      },
+      "properties": {
+        "location": "327 La Trobe Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-139952919",
+        "fulladdress": "4003/327 La Trobe Street, Melbourne, Vic 3000",
+        "price": "$360,000 - $385,000",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/9950eb6127b5e06389ff8cae60aaed7ed5a9e2b290d46e4cd8abeccded5bdc2d/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9612267, -37.8103906)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9746514,
+          -37.8386965
+        ]
+      },
+      "properties": {
+        "location": "12 Queens Road, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-137677850",
+        "fulladdress": "314/12 Queens Road, Melbourne, Vic 3000",
+        "price": "$570,000-$620,000",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "parkingSpaces": 1,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/4da6b2d08b8367ec91444d1d24ba18221f2bacc2f085b3227f0a38588d4af48d/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9746514422535, -37.8386965)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9538211,
+          -37.8151054
+        ]
+      },
+      "properties": {
+        "location": "33 Rose Lane, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140081891",
+        "fulladdress": "2606/33 Rose Lane, Melbourne, Vic 3000",
+        "price": "Contact Agent",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/920f0d365c61048a5baec294c9c302f5f687f46a412d2743a83babd50edccdec/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.95382108260804, -37.8151054)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.962489,
+          -37.8072155
+        ]
+      },
+      "properties": {
+        "location": "483 Swanston Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140209003",
+        "fulladdress": "2604/483 Swanston Street, Melbourne, Vic 3000",
+        "price": "Contact Agent",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/1499a813dcbc3a94629333cd5a20100c10d587340ca03615f7f844a7ca4d8720/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.962489, -37.8072155)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9612267,
+          -37.8103906
+        ]
+      },
+      "properties": {
+        "location": "315 La Trobe Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-137665070",
+        "fulladdress": "2102/315 La Trobe Street, Melbourne, Vic 3000",
+        "price": "$340,000 ",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/d58e4c7f5cc52d2dee05259d96eedd4e9788739c5a23059361c6c8f4d5e2b48a/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9612267, -37.8103906)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.952991,
+          -37.815983
+        ]
+      },
+      "properties": {
+        "location": "220 Spencer Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140078099",
+        "fulladdress": "4102/220 Spencer Street, Melbourne, Vic 3000",
+        "price": "UNDISCLOSED",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "parkingSpaces": 1,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/c8e47a98fa96975b44850975f43a7cf24228936da09768d4c6196948f60618ed/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.952991, -37.815983)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9610151,
+          -37.8070736
+        ]
+      },
+      "properties": {
+        "location": "25 Therry Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140332935",
+        "fulladdress": "801/25 Therry Street, Melbourne, Vic 3000",
+        "price": "CONTACT AGENT",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "parkingSpaces": 0,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/6a9749e02b6ffcc9e69407c4a51fbbc3543c4eaf83e61f25859ab518824f1f65/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9610150513281, -37.8070736)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9537209,
+          -37.81389365
+        ]
+      },
+      "properties": {
+        "location": "601 Little Lonsdale Street, Melbourne, Vic 3000",
+        "url": "https://www.realestate.com.au/property-apartment-vic-melbourne-140203795",
+        "fulladdress": "2408/601 Little Lonsdale Street, Melbourne, Vic 3000",
+        "price": "$580,000 - $600,000",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "parkingSpaces": 1,
+        "studies": "0",
+        "image_url": "https://i2.au.reastatic.net/{size}/53624bbc2c720894528b96c7783d0d340d2d1eb2c43599d91249a1f4cd7d8174/image.jpg",
+        "house_type": "Apartment",
+        "coordinates": "(144.9537209, -37.81389365)"
+      }
+    }
+  ]
+}
