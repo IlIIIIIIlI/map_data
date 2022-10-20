@@ -2630,27 +2630,6 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 0,0 ]
-    },
-    "properties": {
-    "location":"333 Exhibition St Street, Melbourne, Vic 3000",
-    "url":"https://www.realestate.com.au/property-apartment-vic-melbourne-140192423",
-    "fulladdress":"1512/333 Exhibition St Street, Melbourne, Vic 3000",
-    "bedrooms":2,
-    "bathrooms":2,
-    "parkingSpaces":0,
-    "studies":"0",
-    "image_url":"https://i2.au.reastatic.net/{size}/9ab9d9442ecd60f2333145b96244a429a8464ed9bb44b7408dca62c8dc7a838f/image.jpg",
-    "coordinates":"0",
-    "pprice":472500,
-    "type":"buy",
-    "house_type":"Apartment"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [ 144.9628452,-37.8109981 ]
     },
     "properties": {
@@ -6116,27 +6095,6 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "location":"568-580 Collins Street, Melbourne, Vic 3000",
-    "url":"https://www.realestate.com.au/property-apartment-vic-melbourne-139355531",
-    "fulladdress":"3005/568-580 Collins Street, Melbourne, Vic 3000",
-    "bedrooms":2,
-    "bathrooms":1,
-    "parkingSpaces":1,
-    "studies":"0",
-    "image_url":"https://i2.au.reastatic.net/{size}/106264e204daa2973e195bcc53d222907c030be536a08847579b9e2313d0b7b4/image.jpg",
-    "coordinates":"",
-    "pprice":414500,
-    "type":"buy",
-    "house_type":"Apartment"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [ 144.956785,-37.8098639 ]
     },
     "properties": {
@@ -6494,27 +6452,6 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "location":"224-252 La Trobe Street, Melbourne, Vic 3000",
-    "url":"https://www.realestate.com.au/property-apartment-vic-melbourne-140371147",
-    "fulladdress":"8102/224-252 La Trobe Street, Melbourne, Vic 3000",
-    "bedrooms":2,
-    "bathrooms":1,
-    "parkingSpaces":0,
-    "studies":"0",
-    "image_url":"https://i2.au.reastatic.net/{size}/f3e3c43fd7cf769de559ae2edd9b37ac5d1065b9f0e36bcc2be40d270e594a4d/image.jpg",
-    "coordinates":"",
-    "pprice":735000,
-    "type":"buy",
-    "house_type":"Apartment"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [ 144.9581821,-37.8122724 ]
     },
     "properties": {
@@ -6612,27 +6549,6 @@
     "image_url":"https://i2.au.reastatic.net/{size}/21b8305e810309ba5cdeb9c1a0cf28667e2cc37754bdc80fa15139d7d2f6a402/image.jpg",
     "coordinates":"(144.9533344, -37.8113932)",
     "pprice":690000,
-    "type":"buy",
-    "house_type":"Apartment"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "location":"296-300 Little Lonsdale Steet, Melbourne, Vic 3000",
-    "url":"https://www.realestate.com.au/property-apartment-vic-melbourne-140350415",
-    "fulladdress":"201/296-300 Little Lonsdale Steet, Melbourne, Vic 3000",
-    "bedrooms":1,
-    "bathrooms":1,
-    "parkingSpaces":0,
-    "studies":"0",
-    "image_url":"https://i2.au.reastatic.net/{size}/0a2b015bbf4722a161d334db9be5422023b6e9cd79e4594862e87c60ad7c8bb4/image.jpg",
-    "coordinates":"",
-    "pprice":393000,
     "type":"buy",
     "house_type":"Apartment"
     }
@@ -7481,27 +7397,6 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "location":"568-580 Collins Street, Melbourne, Vic 3000",
-    "url":"https://www.realestate.com.au/property-apartment-vic-melbourne-139364407",
-    "fulladdress":"3005/568-580 Collins Street, Melbourne, Vic 3000",
-    "bedrooms":2,
-    "bathrooms":1,
-    "parkingSpaces":1,
-    "studies":"0",
-    "image_url":"https://i2.au.reastatic.net/{size}/106264e204daa2973e195bcc53d222907c030be536a08847579b9e2313d0b7b4/image.jpg",
-    "coordinates":"",
-    "pprice":414500,
-    "type":"buy",
-    "house_type":"Apartment"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [ 144.9671085,-37.807427 ]
     },
     "properties": {
@@ -8132,48 +8027,6 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "location":"134-160  Spencer Street, Melbourne, Vic 3000",
-    "url":"https://www.realestate.com.au/property-apartment-vic-melbourne-139490019",
-    "fulladdress":"5X02/134-160  Spencer Street, Melbourne, Vic 3000",
-    "bedrooms":2,
-    "bathrooms":2,
-    "parkingSpaces":0,
-    "studies":"0",
-    "image_url":"https://i2.au.reastatic.net/{size}/a9f5608ccbc7d81300090d57026f849f3d5eac2daf870afe43133e4661e70b3d/image.jpg",
-    "coordinates":"",
-    "pprice":985340,
-    "type":"buy",
-    "house_type":"Apartment"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 0,0 ]
-    },
-    "properties": {
-    "location":"134-160  Spencer Street, Melbourne, Vic 3000",
-    "url":"https://www.realestate.com.au/property-apartment-vic-melbourne-139490135",
-    "fulladdress":"4X07/134-160  Spencer Street, Melbourne, Vic 3000",
-    "bedrooms":2,
-    "bathrooms":2,
-    "parkingSpaces":0,
-    "studies":"0",
-    "image_url":"https://i2.au.reastatic.net/{size}/c612c6fba8d1d5deeeb71be757940f2cdceddd3c142ecdfd374c80eac621744f/image.jpg",
-    "coordinates":"0",
-    "pprice":823400,
-    "type":"buy",
-    "house_type":"Apartment"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [ 144.9595749,-37.8096114 ]
     },
     "properties": {
@@ -8229,27 +8082,6 @@
     "image_url":"https://i2.au.reastatic.net/{size}/52824173f1f8d1d94271c3a9be7057f37d8840c48db8051f184e0ea1382c30b9/image.jpg",
     "coordinates":"(144.95151, -37.8131357)",
     "pprice":1045000,
-    "type":"buy",
-    "house_type":"Apartment"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "location":"651-669 Lonsdale St, Melbourne, Vic 3000",
-    "url":"https://www.realestate.com.au/property-apartment-vic-melbourne-139479759",
-    "fulladdress":"3X04/651-669 Lonsdale St, Melbourne, Vic 3000",
-    "bedrooms":3,
-    "bathrooms":2,
-    "parkingSpaces":0,
-    "studies":"0",
-    "image_url":"https://i2.au.reastatic.net/{size}/537849654f5c513bf0d2b9ae545b3222c45010f9397c7d4f5f8588bf0b59167f/image.jpg",
-    "coordinates":"",
-    "pprice":1044500,
     "type":"buy",
     "house_type":"Apartment"
     }
@@ -9090,27 +8922,6 @@
     "image_url":"https://i2.au.reastatic.net/{size}/f0dba010e94632dcf95f866c2b6f493932bf9f50934ae682242861d375b6b759/image.jpg",
     "coordinates":"(144.963927, -37.810266)",
     "pprice":315000,
-    "type":"buy",
-    "house_type":"Apartment"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "location":"651-669 Lonsdale Street, Melbourne, Vic 3000",
-    "url":"https://www.realestate.com.au/property-apartment-vic-melbourne-138844231",
-    "fulladdress":"2X03C/651-669 Lonsdale Street, Melbourne, Vic 3000",
-    "bedrooms":1,
-    "bathrooms":1,
-    "parkingSpaces":0,
-    "studies":"0",
-    "image_url":"https://i2.au.reastatic.net/{size}/2ad9935ce544d8f8780db50d7675e7118fda2bdd414312ee41783dba4382f7fa/image.jpg",
-    "coordinates":"",
-    "pprice":594500,
     "type":"buy",
     "house_type":"Apartment"
     }
@@ -11030,27 +10841,6 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "location":"120 A'beckett, Melbourne, Vic 3000",
-    "url":"https://www.realestate.com.au/property-apartment-vic-melbourne-133164754",
-    "fulladdress":"3304/120 A'beckett, Melbourne, Vic 3000",
-    "bedrooms":1,
-    "bathrooms":1,
-    "parkingSpaces":0,
-    "studies":"0",
-    "image_url":"https://i2.au.reastatic.net/{size}/86142721c95648a4d893c908ad8bfa38c1357b54492ea77126257d143a591d03/image.jpg",
-    "coordinates":"",
-    "pprice":387500,
-    "type":"buy",
-    "house_type":"Apartment"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [ 144.9595749,-37.8096114 ]
     },
     "properties": {
@@ -11946,27 +11736,6 @@
     "image_url":"https://i2.au.reastatic.net/{size}/5e1033f91532a2b57cf5c20e4c6f2e27f4f5ab851de0fe412981e9fbe6a52a00/image.jpg",
     "coordinates":"(144.9620891019552, -37.825469600000005)",
     "pprice":625000,
-    "type":"buy",
-    "house_type":"Apartment"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "location":"46-50 Haig Street, TIARA, Southbank, Vic 3006",
-    "url":"https://www.realestate.com.au/property-apartment-vic-southbank-138654371",
-    "fulladdress":"3203/46-50 Haig Street, TIARA, Southbank, Vic 3006",
-    "bedrooms":2,
-    "bathrooms":2,
-    "parkingSpaces":1,
-    "studies":"0",
-    "image_url":"https://i2.au.reastatic.net/{size}/393e2061c13233cb35dbc0a9150ac8f32fe9a01117f34a5454fac24b67570eb8/image.jpg",
-    "coordinates":"",
-    "pprice":800000,
     "type":"buy",
     "house_type":"Apartment"
     }
@@ -13502,27 +13271,6 @@
     "pprice":580000,
     "type":"buy",
     "house_type":"Apartment"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "location":"53 Albert Street, Prahran, Vic 3181",
-    "url":"https://www.realestate.com.au/property-house-vic-prahran-140152915",
-    "fulladdress":"53 Albert Street, Prahran, Vic 3181",
-    "bedrooms":2,
-    "bathrooms":1,
-    "parkingSpaces":0,
-    "studies":"0",
-    "image_url":"https://i2.au.reastatic.net/{size}/1b74d66665813b55e63367f3f0a1661bbd0ebba4384f55bcc1276c6248462218/image.jpg",
-    "coordinates":"",
-    "pprice":1050000,
-    "type":"buy",
-    "house_type":"House"
     }
   },
   {
@@ -16007,27 +15755,6 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 0,0 ]
-    },
-    "properties": {
-    "location":"350 Victoria Street, North Melbourne, Vic 3051",
-    "url":"https://www.realestate.com.au/property-apartment-vic-north+melbourne-140496567",
-    "fulladdress":"307/350 Victoria Street, North Melbourne, Vic 3051",
-    "bedrooms":2,
-    "bathrooms":1,
-    "parkingSpaces":1,
-    "studies":"0",
-    "image_url":"https://i2.au.reastatic.net/{size}/f25dc4a4ccfaab136542c08b8f991d9a3027258bb090ef72a12e17c20a92a798/image.jpg",
-    "coordinates":"0",
-    "pprice":695000,
-    "type":"buy",
-    "house_type":"Apartment"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [ 144.9730723,-37.79794435 ]
     },
     "properties": {
@@ -17687,27 +17414,6 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "location":"71 Albinger Street, Richmond, Vic 3121",
-    "url":"https://www.realestate.com.au/property-apartment-vic-richmond-139493443",
-    "fulladdress":"306/71 Albinger Street, Richmond, Vic 3121",
-    "bedrooms":2,
-    "bathrooms":2,
-    "parkingSpaces":1,
-    "studies":"0",
-    "image_url":"https://i2.au.reastatic.net/{size}/02f4c32e95dcecc934265a617d21dd62ecaa0801214092a50e6b591bd81a7863/image.jpg",
-    "coordinates":"",
-    "pprice":610000,
-    "type":"buy",
-    "house_type":"Apartment"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [ 145.0067578,-37.8083726 ]
     },
     "properties": {
@@ -18164,27 +17870,6 @@
     "pprice":1669500,
     "type":"buy",
     "house_type":"House"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "location":"14 Wrexham Road, Prahran, Vic 3181",
-    "url":"https://www.realestate.com.au/property-apartment-vic-prahran-140478891",
-    "fulladdress":"6/14 Wrexham Road, Prahran, Vic 3181",
-    "bedrooms":2,
-    "bathrooms":1,
-    "parkingSpaces":1,
-    "studies":"0",
-    "image_url":"https://i2.au.reastatic.net/{size}/47196ab187a2f4710019d8d7d8bbfef2006a0f95b18b842309a3cc4ffe6143b1/image.jpg",
-    "coordinates":"",
-    "pprice":625000,
-    "type":"buy",
-    "house_type":"Apartment"
     }
   },
   {
@@ -18716,27 +18401,6 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "location":"8 Bowen Crescent Street, Melbourne, Vic 3004",
-    "url":"https://www.realestate.com.au/property-apartment-vic-melbourne-140616515",
-    "fulladdress":"306/8 Bowen Crescent Street, Melbourne, Vic 3004",
-    "bedrooms":2,
-    "bathrooms":2,
-    "parkingSpaces":1,
-    "studies":"0",
-    "image_url":"https://i2.au.reastatic.net/{size}/d453d7dbcba8864d1c4b818cd6ba9017cf384e0213b773d9c61127fa102789f9/image.jpg",
-    "coordinates":"",
-    "pprice":760000,
-    "type":"buy",
-    "house_type":"Apartment"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [ 145.005771,-37.8565497 ]
     },
     "properties": {
@@ -18981,27 +18645,6 @@
     "image_url":"https://i2.au.reastatic.net/{size}/df6935a1764a7cb0bb4ede66cfe18e6e30c81b018ecef998fdf79506c10f6dcc/image.jpg",
     "coordinates":"(144.9888301, -37.834955)",
     "pprice":675000,
-    "type":"buy",
-    "house_type":"Apartment"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 0,0 ]
-    },
-    "properties": {
-    "location":"350 Victoria Street, North Melbourne, Vic 3051",
-    "url":"https://www.realestate.com.au/property-apartment-vic-north+melbourne-139751167",
-    "fulladdress":"404/350 Victoria Street, North Melbourne, Vic 3051",
-    "bedrooms":1,
-    "bathrooms":1,
-    "parkingSpaces":1,
-    "studies":"0",
-    "image_url":"https://i2.au.reastatic.net/{size}/704a4b392ed33109adabd3461e55dd906029813252dcc6b209f09647e27d3cde/image.jpg",
-    "coordinates":"0",
-    "pprice":379000,
     "type":"buy",
     "house_type":"Apartment"
     }
@@ -20619,27 +20262,6 @@
     "image_url":"https://i2.au.reastatic.net/{size}/e4c2784dc1d84f220d10e6dc649a0ce5c192508a64aeb5c69397db254481e5df/image.jpg",
     "coordinates":"(144.9912344, -37.804895)",
     "pprice":710000,
-    "type":"buy",
-    "house_type":"Apartment"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "location":"9-11 Adam Street, Richmond, Vic 3121",
-    "url":"https://www.realestate.com.au/property-apartment-vic-richmond-139875199",
-    "fulladdress":"2/9-11 Adam Street, Richmond, Vic 3121",
-    "bedrooms":2,
-    "bathrooms":1,
-    "parkingSpaces":1,
-    "studies":"0",
-    "image_url":"https://i2.au.reastatic.net/{size}/5c3c8d9094d32ee60085762ef1cf625b7357afb134184d0a095efafca0ea83a7/image.jpg",
-    "coordinates":"",
-    "pprice":512500,
     "type":"buy",
     "house_type":"Apartment"
     }
@@ -23231,27 +22853,6 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "location":"K1-K5 Raleigh Street, Windsor, Vic 3181",
-    "url":"https://www.realestate.com.au/property-apartment-vic-windsor-140102267",
-    "fulladdress":"7/K1-K5 Raleigh Street, Windsor, Vic 3181",
-    "bedrooms":2,
-    "bathrooms":1,
-    "parkingSpaces":1,
-    "studies":"0",
-    "image_url":"https://i2.au.reastatic.net/{size}/14ef0a138b7329e725d37cf509fca9bcf07f9311465531824ac2a34c49943f80/image.jpg",
-    "coordinates":"",
-    "pprice":530000,
-    "type":"buy",
-    "house_type":"Apartment"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [ 144.9979405,-37.8524723 ]
     },
     "properties": {
@@ -24974,27 +24575,6 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "location":"152 Peel Street, Prahran, Vic 3181",
-    "url":"https://www.realestate.com.au/property-apartment-vic-prahran-139330119",
-    "fulladdress":"102/152 Peel Street, Prahran, Vic 3181",
-    "bedrooms":1,
-    "bathrooms":1,
-    "parkingSpaces":1,
-    "studies":"0",
-    "image_url":"https://i2.au.reastatic.net/{size}/a1ee3e04aa5c3a269d051ae49eacabacb11af0a45ea0f33d2fc0dc0e42289481/image.jpg",
-    "coordinates":"",
-    "pprice":525000,
-    "type":"buy",
-    "house_type":"Apartment"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [ 144.9840799,-37.8150922 ]
     },
     "properties": {
@@ -26562,27 +26142,6 @@
     "image_url":"https://i2.au.reastatic.net/{size}/9cd3dad84a5bf7789d2b9f600ae6f3ddb12f08174a02ca1bf2fe7648f7229903/image.jpg",
     "coordinates":"(144.9433435, -37.7923652)",
     "pprice":1690000,
-    "type":"buy",
-    "house_type":"Apartment"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "location":"35  Queensbridge Street, Southbank, Vic 3006",
-    "url":"https://www.realestate.com.au/property-apartment-vic-southbank-140569011",
-    "fulladdress":"5209/35  Queensbridge Street, Southbank, Vic 3006",
-    "bedrooms":2,
-    "bathrooms":2,
-    "parkingSpaces":1,
-    "studies":"0",
-    "image_url":"https://i2.au.reastatic.net/{size}/63823deee29c9c32fbb1d57d11c59d18a29b64efdbe1c03bb8c78c6d68e12dee/image.jpg",
-    "coordinates":"",
-    "pprice":988000,
     "type":"buy",
     "house_type":"Apartment"
     }
