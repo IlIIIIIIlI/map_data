@@ -10,7 +10,8 @@
     "properties": {
     "LGA_NAME":"ALPINE",
     "DAY_OF_WEE":"Friday",
-    "Casualty":61
+    "Casualty":61,
+    "Day":"Fri"
     }
   },
   {
@@ -22,7 +23,8 @@
     "properties": {
     "LGA_NAME":"ALPINE",
     "DAY_OF_WEE":"Monday",
-    "Casualty":26
+    "Casualty":26,
+    "Day":"Mon"
     }
   },
   {
@@ -34,7 +36,8 @@
     "properties": {
     "LGA_NAME":"ALPINE",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":56
+    "Casualty":56,
+    "Day":"Sat"
     }
   },
   {
@@ -46,7 +49,8 @@
     "properties": {
     "LGA_NAME":"ALPINE",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":67
+    "Casualty":67,
+    "Day":"Sun"
     }
   },
   {
@@ -58,7 +62,8 @@
     "properties": {
     "LGA_NAME":"ALPINE",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":22
+    "Casualty":22,
+    "Day":"Thu"
     }
   },
   {
@@ -70,7 +75,8 @@
     "properties": {
     "LGA_NAME":"ALPINE",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":27
+    "Casualty":27,
+    "Day":"Tue"
     }
   },
   {
@@ -82,7 +88,8 @@
     "properties": {
     "LGA_NAME":"ALPINE",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":20
+    "Casualty":20,
+    "Day":"Wed"
     }
   },
   {
@@ -94,7 +101,8 @@
     "properties": {
     "LGA_NAME":"ARARAT",
     "DAY_OF_WEE":"Friday",
-    "Casualty":37
+    "Casualty":37,
+    "Day":"Fri"
     }
   },
   {
@@ -106,7 +114,8 @@
     "properties": {
     "LGA_NAME":"ARARAT",
     "DAY_OF_WEE":"Monday",
-    "Casualty":29
+    "Casualty":29,
+    "Day":"Mon"
     }
   },
   {
@@ -118,7 +127,8 @@
     "properties": {
     "LGA_NAME":"ARARAT",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":16
+    "Casualty":16,
+    "Day":"Sat"
     }
   },
   {
@@ -130,7 +140,8 @@
     "properties": {
     "LGA_NAME":"ARARAT",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":27
+    "Casualty":27,
+    "Day":"Sun"
     }
   },
   {
@@ -142,7 +153,8 @@
     "properties": {
     "LGA_NAME":"ARARAT",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":32
+    "Casualty":32,
+    "Day":"Thu"
     }
   },
   {
@@ -154,7 +166,8 @@
     "properties": {
     "LGA_NAME":"ARARAT",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":22
+    "Casualty":22,
+    "Day":"Tue"
     }
   },
   {
@@ -166,7 +179,8 @@
     "properties": {
     "LGA_NAME":"ARARAT",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":15
+    "Casualty":15,
+    "Day":"Wed"
     }
   },
   {
@@ -178,7 +192,8 @@
     "properties": {
     "LGA_NAME":"BALLARAT",
     "DAY_OF_WEE":"Friday",
-    "Casualty":209
+    "Casualty":209,
+    "Day":"Fri"
     }
   },
   {
@@ -190,7 +205,8 @@
     "properties": {
     "LGA_NAME":"BALLARAT",
     "DAY_OF_WEE":"Monday",
-    "Casualty":221
+    "Casualty":221,
+    "Day":"Mon"
     }
   },
   {
@@ -202,7 +218,8 @@
     "properties": {
     "LGA_NAME":"BALLARAT",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":124
+    "Casualty":124,
+    "Day":"Sat"
     }
   },
   {
@@ -214,7 +231,8 @@
     "properties": {
     "LGA_NAME":"BALLARAT",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":155
+    "Casualty":155,
+    "Day":"Sun"
     }
   },
   {
@@ -226,7 +244,8 @@
     "properties": {
     "LGA_NAME":"BALLARAT",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":231
+    "Casualty":231,
+    "Day":"Thu"
     }
   },
   {
@@ -238,7 +257,8 @@
     "properties": {
     "LGA_NAME":"BALLARAT",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":222
+    "Casualty":222,
+    "Day":"Tue"
     }
   },
   {
@@ -250,7 +270,8 @@
     "properties": {
     "LGA_NAME":"BALLARAT",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":196
+    "Casualty":196,
+    "Day":"Wed"
     }
   },
   {
@@ -262,7 +283,8 @@
     "properties": {
     "LGA_NAME":"BANYULE",
     "DAY_OF_WEE":"Friday",
-    "Casualty":176
+    "Casualty":176,
+    "Day":"Fri"
     }
   },
   {
@@ -274,7 +296,8 @@
     "properties": {
     "LGA_NAME":"BANYULE",
     "DAY_OF_WEE":"Monday",
-    "Casualty":157
+    "Casualty":157,
+    "Day":"Mon"
     }
   },
   {
@@ -286,7 +309,8 @@
     "properties": {
     "LGA_NAME":"BANYULE",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":86
+    "Casualty":86,
+    "Day":"Sat"
     }
   },
   {
@@ -298,7 +322,8 @@
     "properties": {
     "LGA_NAME":"BANYULE",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":105
+    "Casualty":105,
+    "Day":"Sun"
     }
   },
   {
@@ -310,7 +335,8 @@
     "properties": {
     "LGA_NAME":"BANYULE",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":172
+    "Casualty":172,
+    "Day":"Thu"
     }
   },
   {
@@ -322,7 +348,8 @@
     "properties": {
     "LGA_NAME":"BANYULE",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":201
+    "Casualty":201,
+    "Day":"Tue"
     }
   },
   {
@@ -334,7 +361,8 @@
     "properties": {
     "LGA_NAME":"BANYULE",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":174
+    "Casualty":174,
+    "Day":"Wed"
     }
   },
   {
@@ -346,7 +374,8 @@
     "properties": {
     "LGA_NAME":"BASS COAST",
     "DAY_OF_WEE":"Friday",
-    "Casualty":60
+    "Casualty":60,
+    "Day":"Fri"
     }
   },
   {
@@ -358,7 +387,8 @@
     "properties": {
     "LGA_NAME":"BASS COAST",
     "DAY_OF_WEE":"Monday",
-    "Casualty":62
+    "Casualty":62,
+    "Day":"Mon"
     }
   },
   {
@@ -370,7 +400,8 @@
     "properties": {
     "LGA_NAME":"BASS COAST",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":51
+    "Casualty":51,
+    "Day":"Sat"
     }
   },
   {
@@ -382,7 +413,8 @@
     "properties": {
     "LGA_NAME":"BASS COAST",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":70
+    "Casualty":70,
+    "Day":"Sun"
     }
   },
   {
@@ -394,7 +426,8 @@
     "properties": {
     "LGA_NAME":"BASS COAST",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":64
+    "Casualty":64,
+    "Day":"Thu"
     }
   },
   {
@@ -406,7 +439,8 @@
     "properties": {
     "LGA_NAME":"BASS COAST",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":48
+    "Casualty":48,
+    "Day":"Tue"
     }
   },
   {
@@ -418,7 +452,8 @@
     "properties": {
     "LGA_NAME":"BASS COAST",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":61
+    "Casualty":61,
+    "Day":"Wed"
     }
   },
   {
@@ -430,7 +465,8 @@
     "properties": {
     "LGA_NAME":"BAW BAW",
     "DAY_OF_WEE":"Friday",
-    "Casualty":145
+    "Casualty":145,
+    "Day":"Fri"
     }
   },
   {
@@ -442,7 +478,8 @@
     "properties": {
     "LGA_NAME":"BAW BAW",
     "DAY_OF_WEE":"Monday",
-    "Casualty":119
+    "Casualty":119,
+    "Day":"Mon"
     }
   },
   {
@@ -454,7 +491,8 @@
     "properties": {
     "LGA_NAME":"BAW BAW",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":151
+    "Casualty":151,
+    "Day":"Sat"
     }
   },
   {
@@ -466,7 +504,8 @@
     "properties": {
     "LGA_NAME":"BAW BAW",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":185
+    "Casualty":185,
+    "Day":"Sun"
     }
   },
   {
@@ -478,7 +517,8 @@
     "properties": {
     "LGA_NAME":"BAW BAW",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":112
+    "Casualty":112,
+    "Day":"Thu"
     }
   },
   {
@@ -490,7 +530,8 @@
     "properties": {
     "LGA_NAME":"BAW BAW",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":106
+    "Casualty":106,
+    "Day":"Tue"
     }
   },
   {
@@ -502,7 +543,8 @@
     "properties": {
     "LGA_NAME":"BAW BAW",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":93
+    "Casualty":93,
+    "Day":"Wed"
     }
   },
   {
@@ -514,7 +556,8 @@
     "properties": {
     "LGA_NAME":"BAYSIDE",
     "DAY_OF_WEE":"Friday",
-    "Casualty":147
+    "Casualty":147,
+    "Day":"Fri"
     }
   },
   {
@@ -526,7 +569,8 @@
     "properties": {
     "LGA_NAME":"BAYSIDE",
     "DAY_OF_WEE":"Monday",
-    "Casualty":113
+    "Casualty":113,
+    "Day":"Mon"
     }
   },
   {
@@ -538,7 +582,8 @@
     "properties": {
     "LGA_NAME":"BAYSIDE",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":86
+    "Casualty":86,
+    "Day":"Sat"
     }
   },
   {
@@ -550,7 +595,8 @@
     "properties": {
     "LGA_NAME":"BAYSIDE",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":99
+    "Casualty":99,
+    "Day":"Sun"
     }
   },
   {
@@ -562,7 +608,8 @@
     "properties": {
     "LGA_NAME":"BAYSIDE",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":160
+    "Casualty":160,
+    "Day":"Thu"
     }
   },
   {
@@ -574,7 +621,8 @@
     "properties": {
     "LGA_NAME":"BAYSIDE",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":116
+    "Casualty":116,
+    "Day":"Tue"
     }
   },
   {
@@ -586,7 +634,8 @@
     "properties": {
     "LGA_NAME":"BAYSIDE",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":145
+    "Casualty":145,
+    "Day":"Wed"
     }
   },
   {
@@ -598,7 +647,8 @@
     "properties": {
     "LGA_NAME":"BENALLA",
     "DAY_OF_WEE":"Friday",
-    "Casualty":47
+    "Casualty":47,
+    "Day":"Fri"
     }
   },
   {
@@ -610,7 +660,8 @@
     "properties": {
     "LGA_NAME":"BENALLA",
     "DAY_OF_WEE":"Monday",
-    "Casualty":30
+    "Casualty":30,
+    "Day":"Mon"
     }
   },
   {
@@ -622,7 +673,8 @@
     "properties": {
     "LGA_NAME":"BENALLA",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":30
+    "Casualty":30,
+    "Day":"Sat"
     }
   },
   {
@@ -634,7 +686,8 @@
     "properties": {
     "LGA_NAME":"BENALLA",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":37
+    "Casualty":37,
+    "Day":"Sun"
     }
   },
   {
@@ -646,7 +699,8 @@
     "properties": {
     "LGA_NAME":"BENALLA",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":31
+    "Casualty":31,
+    "Day":"Thu"
     }
   },
   {
@@ -658,7 +712,8 @@
     "properties": {
     "LGA_NAME":"BENALLA",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":25
+    "Casualty":25,
+    "Day":"Tue"
     }
   },
   {
@@ -670,7 +725,8 @@
     "properties": {
     "LGA_NAME":"BENALLA",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":27
+    "Casualty":27,
+    "Day":"Wed"
     }
   },
   {
@@ -682,7 +738,8 @@
     "properties": {
     "LGA_NAME":"BENDIGO",
     "DAY_OF_WEE":"Friday",
-    "Casualty":209
+    "Casualty":209,
+    "Day":"Fri"
     }
   },
   {
@@ -694,7 +751,8 @@
     "properties": {
     "LGA_NAME":"BENDIGO",
     "DAY_OF_WEE":"Monday",
-    "Casualty":224
+    "Casualty":224,
+    "Day":"Mon"
     }
   },
   {
@@ -706,7 +764,8 @@
     "properties": {
     "LGA_NAME":"BENDIGO",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":148
+    "Casualty":148,
+    "Day":"Sat"
     }
   },
   {
@@ -718,7 +777,8 @@
     "properties": {
     "LGA_NAME":"BENDIGO",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":194
+    "Casualty":194,
+    "Day":"Sun"
     }
   },
   {
@@ -730,7 +790,8 @@
     "properties": {
     "LGA_NAME":"BENDIGO",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":221
+    "Casualty":221,
+    "Day":"Thu"
     }
   },
   {
@@ -742,7 +803,8 @@
     "properties": {
     "LGA_NAME":"BENDIGO",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":210
+    "Casualty":210,
+    "Day":"Tue"
     }
   },
   {
@@ -754,7 +816,8 @@
     "properties": {
     "LGA_NAME":"BENDIGO",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":189
+    "Casualty":189,
+    "Day":"Wed"
     }
   },
   {
@@ -766,7 +829,8 @@
     "properties": {
     "LGA_NAME":"BOROONDARA",
     "DAY_OF_WEE":"Friday",
-    "Casualty":235
+    "Casualty":235,
+    "Day":"Fri"
     }
   },
   {
@@ -778,7 +842,8 @@
     "properties": {
     "LGA_NAME":"BOROONDARA",
     "DAY_OF_WEE":"Monday",
-    "Casualty":235
+    "Casualty":235,
+    "Day":"Mon"
     }
   },
   {
@@ -790,7 +855,8 @@
     "properties": {
     "LGA_NAME":"BOROONDARA",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":119
+    "Casualty":119,
+    "Day":"Sat"
     }
   },
   {
@@ -802,7 +868,8 @@
     "properties": {
     "LGA_NAME":"BOROONDARA",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":144
+    "Casualty":144,
+    "Day":"Sun"
     }
   },
   {
@@ -814,7 +881,8 @@
     "properties": {
     "LGA_NAME":"BOROONDARA",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":259
+    "Casualty":259,
+    "Day":"Thu"
     }
   },
   {
@@ -826,7 +894,8 @@
     "properties": {
     "LGA_NAME":"BOROONDARA",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":254
+    "Casualty":254,
+    "Day":"Tue"
     }
   },
   {
@@ -838,7 +907,8 @@
     "properties": {
     "LGA_NAME":"BOROONDARA",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":265
+    "Casualty":265,
+    "Day":"Wed"
     }
   },
   {
@@ -850,7 +920,8 @@
     "properties": {
     "LGA_NAME":"BRIMBANK",
     "DAY_OF_WEE":"Friday",
-    "Casualty":325
+    "Casualty":325,
+    "Day":"Fri"
     }
   },
   {
@@ -862,7 +933,8 @@
     "properties": {
     "LGA_NAME":"BRIMBANK",
     "DAY_OF_WEE":"Monday",
-    "Casualty":299
+    "Casualty":299,
+    "Day":"Mon"
     }
   },
   {
@@ -874,7 +946,8 @@
     "properties": {
     "LGA_NAME":"BRIMBANK",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":185
+    "Casualty":185,
+    "Day":"Sat"
     }
   },
   {
@@ -886,7 +959,8 @@
     "properties": {
     "LGA_NAME":"BRIMBANK",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":274
+    "Casualty":274,
+    "Day":"Sun"
     }
   },
   {
@@ -898,7 +972,8 @@
     "properties": {
     "LGA_NAME":"BRIMBANK",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":346
+    "Casualty":346,
+    "Day":"Thu"
     }
   },
   {
@@ -910,7 +985,8 @@
     "properties": {
     "LGA_NAME":"BRIMBANK",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":365
+    "Casualty":365,
+    "Day":"Tue"
     }
   },
   {
@@ -922,7 +998,8 @@
     "properties": {
     "LGA_NAME":"BRIMBANK",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":361
+    "Casualty":361,
+    "Day":"Wed"
     }
   },
   {
@@ -934,7 +1011,8 @@
     "properties": {
     "LGA_NAME":"BULOKE",
     "DAY_OF_WEE":"Friday",
-    "Casualty":16
+    "Casualty":16,
+    "Day":"Fri"
     }
   },
   {
@@ -946,7 +1024,8 @@
     "properties": {
     "LGA_NAME":"BULOKE",
     "DAY_OF_WEE":"Monday",
-    "Casualty":12
+    "Casualty":12,
+    "Day":"Mon"
     }
   },
   {
@@ -958,7 +1037,8 @@
     "properties": {
     "LGA_NAME":"BULOKE",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":10
+    "Casualty":10,
+    "Day":"Sat"
     }
   },
   {
@@ -970,7 +1050,8 @@
     "properties": {
     "LGA_NAME":"BULOKE",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":6
+    "Casualty":6,
+    "Day":"Sun"
     }
   },
   {
@@ -982,7 +1063,8 @@
     "properties": {
     "LGA_NAME":"BULOKE",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":13
+    "Casualty":13,
+    "Day":"Thu"
     }
   },
   {
@@ -994,7 +1076,8 @@
     "properties": {
     "LGA_NAME":"BULOKE",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":9
+    "Casualty":9,
+    "Day":"Tue"
     }
   },
   {
@@ -1006,7 +1089,8 @@
     "properties": {
     "LGA_NAME":"BULOKE",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":13
+    "Casualty":13,
+    "Day":"Wed"
     }
   },
   {
@@ -1018,7 +1102,8 @@
     "properties": {
     "LGA_NAME":"CAMPASPE",
     "DAY_OF_WEE":"Friday",
-    "Casualty":85
+    "Casualty":85,
+    "Day":"Fri"
     }
   },
   {
@@ -1030,7 +1115,8 @@
     "properties": {
     "LGA_NAME":"CAMPASPE",
     "DAY_OF_WEE":"Monday",
-    "Casualty":63
+    "Casualty":63,
+    "Day":"Mon"
     }
   },
   {
@@ -1042,7 +1128,8 @@
     "properties": {
     "LGA_NAME":"CAMPASPE",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":53
+    "Casualty":53,
+    "Day":"Sat"
     }
   },
   {
@@ -1054,7 +1141,8 @@
     "properties": {
     "LGA_NAME":"CAMPASPE",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":63
+    "Casualty":63,
+    "Day":"Sun"
     }
   },
   {
@@ -1066,7 +1154,8 @@
     "properties": {
     "LGA_NAME":"CAMPASPE",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":71
+    "Casualty":71,
+    "Day":"Thu"
     }
   },
   {
@@ -1078,7 +1167,8 @@
     "properties": {
     "LGA_NAME":"CAMPASPE",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":77
+    "Casualty":77,
+    "Day":"Tue"
     }
   },
   {
@@ -1090,7 +1180,8 @@
     "properties": {
     "LGA_NAME":"CAMPASPE",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":67
+    "Casualty":67,
+    "Day":"Wed"
     }
   },
   {
@@ -1102,7 +1193,8 @@
     "properties": {
     "LGA_NAME":"CARDINIA",
     "DAY_OF_WEE":"Friday",
-    "Casualty":165
+    "Casualty":165,
+    "Day":"Fri"
     }
   },
   {
@@ -1114,7 +1206,8 @@
     "properties": {
     "LGA_NAME":"CARDINIA",
     "DAY_OF_WEE":"Monday",
-    "Casualty":167
+    "Casualty":167,
+    "Day":"Mon"
     }
   },
   {
@@ -1126,7 +1219,8 @@
     "properties": {
     "LGA_NAME":"CARDINIA",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":129
+    "Casualty":129,
+    "Day":"Sat"
     }
   },
   {
@@ -1138,7 +1232,8 @@
     "properties": {
     "LGA_NAME":"CARDINIA",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":186
+    "Casualty":186,
+    "Day":"Sun"
     }
   },
   {
@@ -1150,7 +1245,8 @@
     "properties": {
     "LGA_NAME":"CARDINIA",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":176
+    "Casualty":176,
+    "Day":"Thu"
     }
   },
   {
@@ -1162,7 +1258,8 @@
     "properties": {
     "LGA_NAME":"CARDINIA",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":148
+    "Casualty":148,
+    "Day":"Tue"
     }
   },
   {
@@ -1174,7 +1271,8 @@
     "properties": {
     "LGA_NAME":"CARDINIA",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":175
+    "Casualty":175,
+    "Day":"Wed"
     }
   },
   {
@@ -1186,7 +1284,8 @@
     "properties": {
     "LGA_NAME":"CASEY",
     "DAY_OF_WEE":"Friday",
-    "Casualty":507
+    "Casualty":507,
+    "Day":"Fri"
     }
   },
   {
@@ -1198,7 +1297,8 @@
     "properties": {
     "LGA_NAME":"CASEY",
     "DAY_OF_WEE":"Monday",
-    "Casualty":459
+    "Casualty":459,
+    "Day":"Mon"
     }
   },
   {
@@ -1210,7 +1310,8 @@
     "properties": {
     "LGA_NAME":"CASEY",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":302
+    "Casualty":302,
+    "Day":"Sat"
     }
   },
   {
@@ -1222,7 +1323,8 @@
     "properties": {
     "LGA_NAME":"CASEY",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":372
+    "Casualty":372,
+    "Day":"Sun"
     }
   },
   {
@@ -1234,7 +1336,8 @@
     "properties": {
     "LGA_NAME":"CASEY",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":494
+    "Casualty":494,
+    "Day":"Thu"
     }
   },
   {
@@ -1246,7 +1349,8 @@
     "properties": {
     "LGA_NAME":"CASEY",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":458
+    "Casualty":458,
+    "Day":"Tue"
     }
   },
   {
@@ -1258,7 +1362,8 @@
     "properties": {
     "LGA_NAME":"CASEY",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":440
+    "Casualty":440,
+    "Day":"Wed"
     }
   },
   {
@@ -1270,7 +1375,8 @@
     "properties": {
     "LGA_NAME":"CENTRAL GOLDFIELDS",
     "DAY_OF_WEE":"Friday",
-    "Casualty":21
+    "Casualty":21,
+    "Day":"Fri"
     }
   },
   {
@@ -1282,7 +1388,8 @@
     "properties": {
     "LGA_NAME":"CENTRAL GOLDFIELDS",
     "DAY_OF_WEE":"Monday",
-    "Casualty":22
+    "Casualty":22,
+    "Day":"Mon"
     }
   },
   {
@@ -1294,7 +1401,8 @@
     "properties": {
     "LGA_NAME":"CENTRAL GOLDFIELDS",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":19
+    "Casualty":19,
+    "Day":"Sat"
     }
   },
   {
@@ -1306,7 +1414,8 @@
     "properties": {
     "LGA_NAME":"CENTRAL GOLDFIELDS",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":22
+    "Casualty":22,
+    "Day":"Sun"
     }
   },
   {
@@ -1318,7 +1427,8 @@
     "properties": {
     "LGA_NAME":"CENTRAL GOLDFIELDS",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":22
+    "Casualty":22,
+    "Day":"Thu"
     }
   },
   {
@@ -1330,7 +1440,8 @@
     "properties": {
     "LGA_NAME":"CENTRAL GOLDFIELDS",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":20
+    "Casualty":20,
+    "Day":"Tue"
     }
   },
   {
@@ -1342,7 +1453,8 @@
     "properties": {
     "LGA_NAME":"CENTRAL GOLDFIELDS",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":21
+    "Casualty":21,
+    "Day":"Wed"
     }
   },
   {
@@ -1354,7 +1466,8 @@
     "properties": {
     "LGA_NAME":"COLAC OTWAY",
     "DAY_OF_WEE":"Friday",
-    "Casualty":72
+    "Casualty":72,
+    "Day":"Fri"
     }
   },
   {
@@ -1366,7 +1479,8 @@
     "properties": {
     "LGA_NAME":"COLAC OTWAY",
     "DAY_OF_WEE":"Monday",
-    "Casualty":60
+    "Casualty":60,
+    "Day":"Mon"
     }
   },
   {
@@ -1378,7 +1492,8 @@
     "properties": {
     "LGA_NAME":"COLAC OTWAY",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":62
+    "Casualty":62,
+    "Day":"Sat"
     }
   },
   {
@@ -1390,7 +1505,8 @@
     "properties": {
     "LGA_NAME":"COLAC OTWAY",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":86
+    "Casualty":86,
+    "Day":"Sun"
     }
   },
   {
@@ -1402,7 +1518,8 @@
     "properties": {
     "LGA_NAME":"COLAC OTWAY",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":70
+    "Casualty":70,
+    "Day":"Thu"
     }
   },
   {
@@ -1414,7 +1531,8 @@
     "properties": {
     "LGA_NAME":"COLAC OTWAY",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":62
+    "Casualty":62,
+    "Day":"Tue"
     }
   },
   {
@@ -1426,7 +1544,8 @@
     "properties": {
     "LGA_NAME":"COLAC OTWAY",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":48
+    "Casualty":48,
+    "Day":"Wed"
     }
   },
   {
@@ -1438,7 +1557,8 @@
     "properties": {
     "LGA_NAME":"COLAC-OTWAY",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":1
+    "Casualty":1,
+    "Day":"Sat"
     }
   },
   {
@@ -1450,7 +1570,8 @@
     "properties": {
     "LGA_NAME":"COLAC-OTWAY",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":1
+    "Casualty":1,
+    "Day":"Sun"
     }
   },
   {
@@ -1462,7 +1583,8 @@
     "properties": {
     "LGA_NAME":"COLAC-OTWAY",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":1
+    "Casualty":1,
+    "Day":"Thu"
     }
   },
   {
@@ -1474,7 +1596,8 @@
     "properties": {
     "LGA_NAME":"COLAC-OTWAY",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":2
+    "Casualty":2,
+    "Day":"Tue"
     }
   },
   {
@@ -1486,7 +1609,8 @@
     "properties": {
     "LGA_NAME":"COLAC-OTWAY",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":1
+    "Casualty":1,
+    "Day":"Wed"
     }
   },
   {
@@ -1498,7 +1622,8 @@
     "properties": {
     "LGA_NAME":"CORANGAMITE",
     "DAY_OF_WEE":"Friday",
-    "Casualty":46
+    "Casualty":46,
+    "Day":"Fri"
     }
   },
   {
@@ -1510,7 +1635,8 @@
     "properties": {
     "LGA_NAME":"CORANGAMITE",
     "DAY_OF_WEE":"Monday",
-    "Casualty":43
+    "Casualty":43,
+    "Day":"Mon"
     }
   },
   {
@@ -1522,7 +1648,8 @@
     "properties": {
     "LGA_NAME":"CORANGAMITE",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":38
+    "Casualty":38,
+    "Day":"Sat"
     }
   },
   {
@@ -1534,7 +1661,8 @@
     "properties": {
     "LGA_NAME":"CORANGAMITE",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":35
+    "Casualty":35,
+    "Day":"Sun"
     }
   },
   {
@@ -1546,7 +1674,8 @@
     "properties": {
     "LGA_NAME":"CORANGAMITE",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":40
+    "Casualty":40,
+    "Day":"Thu"
     }
   },
   {
@@ -1558,7 +1687,8 @@
     "properties": {
     "LGA_NAME":"CORANGAMITE",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":33
+    "Casualty":33,
+    "Day":"Tue"
     }
   },
   {
@@ -1570,7 +1700,8 @@
     "properties": {
     "LGA_NAME":"CORANGAMITE",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":33
+    "Casualty":33,
+    "Day":"Wed"
     }
   },
   {
@@ -1582,7 +1713,8 @@
     "properties": {
     "LGA_NAME":"DANDENONG",
     "DAY_OF_WEE":"Friday",
-    "Casualty":361
+    "Casualty":361,
+    "Day":"Fri"
     }
   },
   {
@@ -1594,7 +1726,8 @@
     "properties": {
     "LGA_NAME":"DANDENONG",
     "DAY_OF_WEE":"Monday",
-    "Casualty":371
+    "Casualty":371,
+    "Day":"Mon"
     }
   },
   {
@@ -1606,7 +1739,8 @@
     "properties": {
     "LGA_NAME":"DANDENONG",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":228
+    "Casualty":228,
+    "Day":"Sat"
     }
   },
   {
@@ -1618,7 +1752,8 @@
     "properties": {
     "LGA_NAME":"DANDENONG",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":293
+    "Casualty":293,
+    "Day":"Sun"
     }
   },
   {
@@ -1630,7 +1765,8 @@
     "properties": {
     "LGA_NAME":"DANDENONG",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":376
+    "Casualty":376,
+    "Day":"Thu"
     }
   },
   {
@@ -1642,7 +1778,8 @@
     "properties": {
     "LGA_NAME":"DANDENONG",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":388
+    "Casualty":388,
+    "Day":"Tue"
     }
   },
   {
@@ -1654,7 +1791,8 @@
     "properties": {
     "LGA_NAME":"DANDENONG",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":401
+    "Casualty":401,
+    "Day":"Wed"
     }
   },
   {
@@ -1666,7 +1804,8 @@
     "properties": {
     "LGA_NAME":"DAREBIN",
     "DAY_OF_WEE":"Friday",
-    "Casualty":281
+    "Casualty":281,
+    "Day":"Fri"
     }
   },
   {
@@ -1678,7 +1817,8 @@
     "properties": {
     "LGA_NAME":"DAREBIN",
     "DAY_OF_WEE":"Monday",
-    "Casualty":255
+    "Casualty":255,
+    "Day":"Mon"
     }
   },
   {
@@ -1690,7 +1830,8 @@
     "properties": {
     "LGA_NAME":"DAREBIN",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":175
+    "Casualty":175,
+    "Day":"Sat"
     }
   },
   {
@@ -1702,7 +1843,8 @@
     "properties": {
     "LGA_NAME":"DAREBIN",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":188
+    "Casualty":188,
+    "Day":"Sun"
     }
   },
   {
@@ -1714,7 +1856,8 @@
     "properties": {
     "LGA_NAME":"DAREBIN",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":306
+    "Casualty":306,
+    "Day":"Thu"
     }
   },
   {
@@ -1726,7 +1869,8 @@
     "properties": {
     "LGA_NAME":"DAREBIN",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":307
+    "Casualty":307,
+    "Day":"Tue"
     }
   },
   {
@@ -1738,7 +1882,8 @@
     "properties": {
     "LGA_NAME":"DAREBIN",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":281
+    "Casualty":281,
+    "Day":"Wed"
     }
   },
   {
@@ -1750,7 +1895,8 @@
     "properties": {
     "LGA_NAME":"EAST GIPPSLAND",
     "DAY_OF_WEE":"Friday",
-    "Casualty":133
+    "Casualty":133,
+    "Day":"Fri"
     }
   },
   {
@@ -1762,7 +1908,8 @@
     "properties": {
     "LGA_NAME":"EAST GIPPSLAND",
     "DAY_OF_WEE":"Monday",
-    "Casualty":82
+    "Casualty":82,
+    "Day":"Mon"
     }
   },
   {
@@ -1774,7 +1921,8 @@
     "properties": {
     "LGA_NAME":"EAST GIPPSLAND",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":86
+    "Casualty":86,
+    "Day":"Sat"
     }
   },
   {
@@ -1786,7 +1934,8 @@
     "properties": {
     "LGA_NAME":"EAST GIPPSLAND",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":115
+    "Casualty":115,
+    "Day":"Sun"
     }
   },
   {
@@ -1798,7 +1947,8 @@
     "properties": {
     "LGA_NAME":"EAST GIPPSLAND",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":109
+    "Casualty":109,
+    "Day":"Thu"
     }
   },
   {
@@ -1810,7 +1960,8 @@
     "properties": {
     "LGA_NAME":"EAST GIPPSLAND",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":94
+    "Casualty":94,
+    "Day":"Tue"
     }
   },
   {
@@ -1822,7 +1973,8 @@
     "properties": {
     "LGA_NAME":"EAST GIPPSLAND",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":90
+    "Casualty":90,
+    "Day":"Wed"
     }
   },
   {
@@ -1834,7 +1986,8 @@
     "properties": {
     "LGA_NAME":"FRANKSTON",
     "DAY_OF_WEE":"Friday",
-    "Casualty":214
+    "Casualty":214,
+    "Day":"Fri"
     }
   },
   {
@@ -1846,7 +1999,8 @@
     "properties": {
     "LGA_NAME":"FRANKSTON",
     "DAY_OF_WEE":"Monday",
-    "Casualty":176
+    "Casualty":176,
+    "Day":"Mon"
     }
   },
   {
@@ -1858,7 +2012,8 @@
     "properties": {
     "LGA_NAME":"FRANKSTON",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":122
+    "Casualty":122,
+    "Day":"Sat"
     }
   },
   {
@@ -1870,7 +2025,8 @@
     "properties": {
     "LGA_NAME":"FRANKSTON",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":151
+    "Casualty":151,
+    "Day":"Sun"
     }
   },
   {
@@ -1882,7 +2038,8 @@
     "properties": {
     "LGA_NAME":"FRANKSTON",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":221
+    "Casualty":221,
+    "Day":"Thu"
     }
   },
   {
@@ -1894,7 +2051,8 @@
     "properties": {
     "LGA_NAME":"FRANKSTON",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":185
+    "Casualty":185,
+    "Day":"Tue"
     }
   },
   {
@@ -1906,7 +2064,8 @@
     "properties": {
     "LGA_NAME":"FRANKSTON",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":191
+    "Casualty":191,
+    "Day":"Wed"
     }
   },
   {
@@ -1918,7 +2077,8 @@
     "properties": {
     "LGA_NAME":"GANNAWARRA",
     "DAY_OF_WEE":"Friday",
-    "Casualty":22
+    "Casualty":22,
+    "Day":"Fri"
     }
   },
   {
@@ -1930,7 +2090,8 @@
     "properties": {
     "LGA_NAME":"GANNAWARRA",
     "DAY_OF_WEE":"Monday",
-    "Casualty":19
+    "Casualty":19,
+    "Day":"Mon"
     }
   },
   {
@@ -1942,7 +2103,8 @@
     "properties": {
     "LGA_NAME":"GANNAWARRA",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":19
+    "Casualty":19,
+    "Day":"Sat"
     }
   },
   {
@@ -1954,7 +2116,8 @@
     "properties": {
     "LGA_NAME":"GANNAWARRA",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":27
+    "Casualty":27,
+    "Day":"Sun"
     }
   },
   {
@@ -1966,7 +2129,8 @@
     "properties": {
     "LGA_NAME":"GANNAWARRA",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":16
+    "Casualty":16,
+    "Day":"Thu"
     }
   },
   {
@@ -1978,7 +2142,8 @@
     "properties": {
     "LGA_NAME":"GANNAWARRA",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":16
+    "Casualty":16,
+    "Day":"Tue"
     }
   },
   {
@@ -1990,7 +2155,8 @@
     "properties": {
     "LGA_NAME":"GANNAWARRA",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":18
+    "Casualty":18,
+    "Day":"Wed"
     }
   },
   {
@@ -2002,7 +2168,8 @@
     "properties": {
     "LGA_NAME":"GEELONG",
     "DAY_OF_WEE":"Friday",
-    "Casualty":413
+    "Casualty":413,
+    "Day":"Fri"
     }
   },
   {
@@ -2014,7 +2181,8 @@
     "properties": {
     "LGA_NAME":"GEELONG",
     "DAY_OF_WEE":"Monday",
-    "Casualty":407
+    "Casualty":407,
+    "Day":"Mon"
     }
   },
   {
@@ -2026,7 +2194,8 @@
     "properties": {
     "LGA_NAME":"GEELONG",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":273
+    "Casualty":273,
+    "Day":"Sat"
     }
   },
   {
@@ -2038,7 +2207,8 @@
     "properties": {
     "LGA_NAME":"GEELONG",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":342
+    "Casualty":342,
+    "Day":"Sun"
     }
   },
   {
@@ -2050,7 +2220,8 @@
     "properties": {
     "LGA_NAME":"GEELONG",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":452
+    "Casualty":452,
+    "Day":"Thu"
     }
   },
   {
@@ -2062,7 +2233,8 @@
     "properties": {
     "LGA_NAME":"GEELONG",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":466
+    "Casualty":466,
+    "Day":"Tue"
     }
   },
   {
@@ -2074,7 +2246,8 @@
     "properties": {
     "LGA_NAME":"GEELONG",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":457
+    "Casualty":457,
+    "Day":"Wed"
     }
   },
   {
@@ -2086,7 +2259,8 @@
     "properties": {
     "LGA_NAME":"GLEN EIRA",
     "DAY_OF_WEE":"Friday",
-    "Casualty":226
+    "Casualty":226,
+    "Day":"Fri"
     }
   },
   {
@@ -2098,7 +2272,8 @@
     "properties": {
     "LGA_NAME":"GLEN EIRA",
     "DAY_OF_WEE":"Monday",
-    "Casualty":195
+    "Casualty":195,
+    "Day":"Mon"
     }
   },
   {
@@ -2110,7 +2285,8 @@
     "properties": {
     "LGA_NAME":"GLEN EIRA",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":111
+    "Casualty":111,
+    "Day":"Sat"
     }
   },
   {
@@ -2122,7 +2298,8 @@
     "properties": {
     "LGA_NAME":"GLEN EIRA",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":153
+    "Casualty":153,
+    "Day":"Sun"
     }
   },
   {
@@ -2134,7 +2311,8 @@
     "properties": {
     "LGA_NAME":"GLEN EIRA",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":219
+    "Casualty":219,
+    "Day":"Thu"
     }
   },
   {
@@ -2146,7 +2324,8 @@
     "properties": {
     "LGA_NAME":"GLEN EIRA",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":214
+    "Casualty":214,
+    "Day":"Tue"
     }
   },
   {
@@ -2158,7 +2337,8 @@
     "properties": {
     "LGA_NAME":"GLEN EIRA",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":216
+    "Casualty":216,
+    "Day":"Wed"
     }
   },
   {
@@ -2170,7 +2350,8 @@
     "properties": {
     "LGA_NAME":"GLENELG",
     "DAY_OF_WEE":"Friday",
-    "Casualty":46
+    "Casualty":46,
+    "Day":"Fri"
     }
   },
   {
@@ -2182,7 +2363,8 @@
     "properties": {
     "LGA_NAME":"GLENELG",
     "DAY_OF_WEE":"Monday",
-    "Casualty":32
+    "Casualty":32,
+    "Day":"Mon"
     }
   },
   {
@@ -2194,7 +2376,8 @@
     "properties": {
     "LGA_NAME":"GLENELG",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":28
+    "Casualty":28,
+    "Day":"Sat"
     }
   },
   {
@@ -2206,7 +2389,8 @@
     "properties": {
     "LGA_NAME":"GLENELG",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":45
+    "Casualty":45,
+    "Day":"Sun"
     }
   },
   {
@@ -2218,7 +2402,8 @@
     "properties": {
     "LGA_NAME":"GLENELG",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":30
+    "Casualty":30,
+    "Day":"Thu"
     }
   },
   {
@@ -2230,7 +2415,8 @@
     "properties": {
     "LGA_NAME":"GLENELG",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":33
+    "Casualty":33,
+    "Day":"Tue"
     }
   },
   {
@@ -2242,7 +2428,8 @@
     "properties": {
     "LGA_NAME":"GLENELG",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":45
+    "Casualty":45,
+    "Day":"Wed"
     }
   },
   {
@@ -2254,7 +2441,8 @@
     "properties": {
     "LGA_NAME":"GOLDEN PLAINS",
     "DAY_OF_WEE":"Friday",
-    "Casualty":40
+    "Casualty":40,
+    "Day":"Fri"
     }
   },
   {
@@ -2266,7 +2454,8 @@
     "properties": {
     "LGA_NAME":"GOLDEN PLAINS",
     "DAY_OF_WEE":"Monday",
-    "Casualty":45
+    "Casualty":45,
+    "Day":"Mon"
     }
   },
   {
@@ -2278,7 +2467,8 @@
     "properties": {
     "LGA_NAME":"GOLDEN PLAINS",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":61
+    "Casualty":61,
+    "Day":"Sat"
     }
   },
   {
@@ -2290,7 +2480,8 @@
     "properties": {
     "LGA_NAME":"GOLDEN PLAINS",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":78
+    "Casualty":78,
+    "Day":"Sun"
     }
   },
   {
@@ -2302,7 +2493,8 @@
     "properties": {
     "LGA_NAME":"GOLDEN PLAINS",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":45
+    "Casualty":45,
+    "Day":"Thu"
     }
   },
   {
@@ -2314,7 +2506,8 @@
     "properties": {
     "LGA_NAME":"GOLDEN PLAINS",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":44
+    "Casualty":44,
+    "Day":"Tue"
     }
   },
   {
@@ -2326,7 +2519,8 @@
     "properties": {
     "LGA_NAME":"GOLDEN PLAINS",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":60
+    "Casualty":60,
+    "Day":"Wed"
     }
   },
   {
@@ -2338,7 +2532,8 @@
     "properties": {
     "LGA_NAME":"HEPBURN",
     "DAY_OF_WEE":"Friday",
-    "Casualty":42
+    "Casualty":42,
+    "Day":"Fri"
     }
   },
   {
@@ -2350,7 +2545,8 @@
     "properties": {
     "LGA_NAME":"HEPBURN",
     "DAY_OF_WEE":"Monday",
-    "Casualty":33
+    "Casualty":33,
+    "Day":"Mon"
     }
   },
   {
@@ -2362,7 +2558,8 @@
     "properties": {
     "LGA_NAME":"HEPBURN",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":26
+    "Casualty":26,
+    "Day":"Sat"
     }
   },
   {
@@ -2374,7 +2571,8 @@
     "properties": {
     "LGA_NAME":"HEPBURN",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":54
+    "Casualty":54,
+    "Day":"Sun"
     }
   },
   {
@@ -2386,7 +2584,8 @@
     "properties": {
     "LGA_NAME":"HEPBURN",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":30
+    "Casualty":30,
+    "Day":"Thu"
     }
   },
   {
@@ -2398,7 +2597,8 @@
     "properties": {
     "LGA_NAME":"HEPBURN",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":25
+    "Casualty":25,
+    "Day":"Tue"
     }
   },
   {
@@ -2410,7 +2610,8 @@
     "properties": {
     "LGA_NAME":"HEPBURN",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":33
+    "Casualty":33,
+    "Day":"Wed"
     }
   },
   {
@@ -2422,7 +2623,8 @@
     "properties": {
     "LGA_NAME":"HINDMARSH",
     "DAY_OF_WEE":"Friday",
-    "Casualty":22
+    "Casualty":22,
+    "Day":"Fri"
     }
   },
   {
@@ -2434,7 +2636,8 @@
     "properties": {
     "LGA_NAME":"HINDMARSH",
     "DAY_OF_WEE":"Monday",
-    "Casualty":8
+    "Casualty":8,
+    "Day":"Mon"
     }
   },
   {
@@ -2446,7 +2649,8 @@
     "properties": {
     "LGA_NAME":"HINDMARSH",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":14
+    "Casualty":14,
+    "Day":"Sat"
     }
   },
   {
@@ -2458,7 +2662,8 @@
     "properties": {
     "LGA_NAME":"HINDMARSH",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":10
+    "Casualty":10,
+    "Day":"Sun"
     }
   },
   {
@@ -2470,7 +2675,8 @@
     "properties": {
     "LGA_NAME":"HINDMARSH",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":14
+    "Casualty":14,
+    "Day":"Thu"
     }
   },
   {
@@ -2482,7 +2688,8 @@
     "properties": {
     "LGA_NAME":"HINDMARSH",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":10
+    "Casualty":10,
+    "Day":"Tue"
     }
   },
   {
@@ -2494,7 +2701,8 @@
     "properties": {
     "LGA_NAME":"HINDMARSH",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":6
+    "Casualty":6,
+    "Day":"Wed"
     }
   },
   {
@@ -2506,7 +2714,8 @@
     "properties": {
     "LGA_NAME":"HOBSONS BAY",
     "DAY_OF_WEE":"Friday",
-    "Casualty":145
+    "Casualty":145,
+    "Day":"Fri"
     }
   },
   {
@@ -2518,7 +2727,8 @@
     "properties": {
     "LGA_NAME":"HOBSONS BAY",
     "DAY_OF_WEE":"Monday",
-    "Casualty":151
+    "Casualty":151,
+    "Day":"Mon"
     }
   },
   {
@@ -2530,7 +2740,8 @@
     "properties": {
     "LGA_NAME":"HOBSONS BAY",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":89
+    "Casualty":89,
+    "Day":"Sat"
     }
   },
   {
@@ -2542,7 +2753,8 @@
     "properties": {
     "LGA_NAME":"HOBSONS BAY",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":132
+    "Casualty":132,
+    "Day":"Sun"
     }
   },
   {
@@ -2554,7 +2766,8 @@
     "properties": {
     "LGA_NAME":"HOBSONS BAY",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":159
+    "Casualty":159,
+    "Day":"Thu"
     }
   },
   {
@@ -2566,7 +2779,8 @@
     "properties": {
     "LGA_NAME":"HOBSONS BAY",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":144
+    "Casualty":144,
+    "Day":"Tue"
     }
   },
   {
@@ -2578,7 +2792,8 @@
     "properties": {
     "LGA_NAME":"HOBSONS BAY",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":169
+    "Casualty":169,
+    "Day":"Wed"
     }
   },
   {
@@ -2590,7 +2805,8 @@
     "properties": {
     "LGA_NAME":"HORSHAM",
     "DAY_OF_WEE":"Friday",
-    "Casualty":41
+    "Casualty":41,
+    "Day":"Fri"
     }
   },
   {
@@ -2602,7 +2818,8 @@
     "properties": {
     "LGA_NAME":"HORSHAM",
     "DAY_OF_WEE":"Monday",
-    "Casualty":36
+    "Casualty":36,
+    "Day":"Mon"
     }
   },
   {
@@ -2614,7 +2831,8 @@
     "properties": {
     "LGA_NAME":"HORSHAM",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":24
+    "Casualty":24,
+    "Day":"Sat"
     }
   },
   {
@@ -2626,7 +2844,8 @@
     "properties": {
     "LGA_NAME":"HORSHAM",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":42
+    "Casualty":42,
+    "Day":"Sun"
     }
   },
   {
@@ -2638,7 +2857,8 @@
     "properties": {
     "LGA_NAME":"HORSHAM",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":37
+    "Casualty":37,
+    "Day":"Thu"
     }
   },
   {
@@ -2650,7 +2870,8 @@
     "properties": {
     "LGA_NAME":"HORSHAM",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":30
+    "Casualty":30,
+    "Day":"Tue"
     }
   },
   {
@@ -2662,7 +2883,8 @@
     "properties": {
     "LGA_NAME":"HORSHAM",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":35
+    "Casualty":35,
+    "Day":"Wed"
     }
   },
   {
@@ -2674,7 +2896,8 @@
     "properties": {
     "LGA_NAME":"HUME",
     "DAY_OF_WEE":"Friday",
-    "Casualty":378
+    "Casualty":378,
+    "Day":"Fri"
     }
   },
   {
@@ -2686,7 +2909,8 @@
     "properties": {
     "LGA_NAME":"HUME",
     "DAY_OF_WEE":"Monday",
-    "Casualty":372
+    "Casualty":372,
+    "Day":"Mon"
     }
   },
   {
@@ -2698,7 +2922,8 @@
     "properties": {
     "LGA_NAME":"HUME",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":206
+    "Casualty":206,
+    "Day":"Sat"
     }
   },
   {
@@ -2710,7 +2935,8 @@
     "properties": {
     "LGA_NAME":"HUME",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":320
+    "Casualty":320,
+    "Day":"Sun"
     }
   },
   {
@@ -2722,7 +2948,8 @@
     "properties": {
     "LGA_NAME":"HUME",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":380
+    "Casualty":380,
+    "Day":"Thu"
     }
   },
   {
@@ -2734,7 +2961,8 @@
     "properties": {
     "LGA_NAME":"HUME",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":390
+    "Casualty":390,
+    "Day":"Tue"
     }
   },
   {
@@ -2746,7 +2974,8 @@
     "properties": {
     "LGA_NAME":"HUME",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":397
+    "Casualty":397,
+    "Day":"Wed"
     }
   },
   {
@@ -2758,7 +2987,8 @@
     "properties": {
     "LGA_NAME":"INDIGO",
     "DAY_OF_WEE":"Friday",
-    "Casualty":37
+    "Casualty":37,
+    "Day":"Fri"
     }
   },
   {
@@ -2770,7 +3000,8 @@
     "properties": {
     "LGA_NAME":"INDIGO",
     "DAY_OF_WEE":"Monday",
-    "Casualty":23
+    "Casualty":23,
+    "Day":"Mon"
     }
   },
   {
@@ -2782,7 +3013,8 @@
     "properties": {
     "LGA_NAME":"INDIGO",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":38
+    "Casualty":38,
+    "Day":"Sat"
     }
   },
   {
@@ -2794,7 +3026,8 @@
     "properties": {
     "LGA_NAME":"INDIGO",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":46
+    "Casualty":46,
+    "Day":"Sun"
     }
   },
   {
@@ -2806,7 +3039,8 @@
     "properties": {
     "LGA_NAME":"INDIGO",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":33
+    "Casualty":33,
+    "Day":"Thu"
     }
   },
   {
@@ -2818,7 +3052,8 @@
     "properties": {
     "LGA_NAME":"INDIGO",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":25
+    "Casualty":25,
+    "Day":"Tue"
     }
   },
   {
@@ -2830,7 +3065,8 @@
     "properties": {
     "LGA_NAME":"INDIGO",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":25
+    "Casualty":25,
+    "Day":"Wed"
     }
   },
   {
@@ -2842,7 +3078,8 @@
     "properties": {
     "LGA_NAME":"KINGSTON",
     "DAY_OF_WEE":"Friday",
-    "Casualty":230
+    "Casualty":230,
+    "Day":"Fri"
     }
   },
   {
@@ -2854,7 +3091,8 @@
     "properties": {
     "LGA_NAME":"KINGSTON",
     "DAY_OF_WEE":"Monday",
-    "Casualty":248
+    "Casualty":248,
+    "Day":"Mon"
     }
   },
   {
@@ -2866,7 +3104,8 @@
     "properties": {
     "LGA_NAME":"KINGSTON",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":163
+    "Casualty":163,
+    "Day":"Sat"
     }
   },
   {
@@ -2878,7 +3117,8 @@
     "properties": {
     "LGA_NAME":"KINGSTON",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":201
+    "Casualty":201,
+    "Day":"Sun"
     }
   },
   {
@@ -2890,7 +3130,8 @@
     "properties": {
     "LGA_NAME":"KINGSTON",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":289
+    "Casualty":289,
+    "Day":"Thu"
     }
   },
   {
@@ -2902,7 +3143,8 @@
     "properties": {
     "LGA_NAME":"KINGSTON",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":262
+    "Casualty":262,
+    "Day":"Tue"
     }
   },
   {
@@ -2914,7 +3156,8 @@
     "properties": {
     "LGA_NAME":"KINGSTON",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":278
+    "Casualty":278,
+    "Day":"Wed"
     }
   },
   {
@@ -2926,7 +3169,8 @@
     "properties": {
     "LGA_NAME":"KNOX",
     "DAY_OF_WEE":"Friday",
-    "Casualty":213
+    "Casualty":213,
+    "Day":"Fri"
     }
   },
   {
@@ -2938,7 +3182,8 @@
     "properties": {
     "LGA_NAME":"KNOX",
     "DAY_OF_WEE":"Monday",
-    "Casualty":225
+    "Casualty":225,
+    "Day":"Mon"
     }
   },
   {
@@ -2950,7 +3195,8 @@
     "properties": {
     "LGA_NAME":"KNOX",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":122
+    "Casualty":122,
+    "Day":"Sat"
     }
   },
   {
@@ -2962,7 +3208,8 @@
     "properties": {
     "LGA_NAME":"KNOX",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":198
+    "Casualty":198,
+    "Day":"Sun"
     }
   },
   {
@@ -2974,7 +3221,8 @@
     "properties": {
     "LGA_NAME":"KNOX",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":213
+    "Casualty":213,
+    "Day":"Thu"
     }
   },
   {
@@ -2986,7 +3234,8 @@
     "properties": {
     "LGA_NAME":"KNOX",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":229
+    "Casualty":229,
+    "Day":"Tue"
     }
   },
   {
@@ -2998,7 +3247,8 @@
     "properties": {
     "LGA_NAME":"KNOX",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":226
+    "Casualty":226,
+    "Day":"Wed"
     }
   },
   {
@@ -3010,7 +3260,8 @@
     "properties": {
     "LGA_NAME":"LATROBE",
     "DAY_OF_WEE":"Friday",
-    "Casualty":137
+    "Casualty":137,
+    "Day":"Fri"
     }
   },
   {
@@ -3022,7 +3273,8 @@
     "properties": {
     "LGA_NAME":"LATROBE",
     "DAY_OF_WEE":"Monday",
-    "Casualty":127
+    "Casualty":127,
+    "Day":"Mon"
     }
   },
   {
@@ -3034,7 +3286,8 @@
     "properties": {
     "LGA_NAME":"LATROBE",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":97
+    "Casualty":97,
+    "Day":"Sat"
     }
   },
   {
@@ -3046,7 +3299,8 @@
     "properties": {
     "LGA_NAME":"LATROBE",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":114
+    "Casualty":114,
+    "Day":"Sun"
     }
   },
   {
@@ -3058,7 +3312,8 @@
     "properties": {
     "LGA_NAME":"LATROBE",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":113
+    "Casualty":113,
+    "Day":"Thu"
     }
   },
   {
@@ -3070,7 +3325,8 @@
     "properties": {
     "LGA_NAME":"LATROBE",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":124
+    "Casualty":124,
+    "Day":"Tue"
     }
   },
   {
@@ -3082,7 +3338,8 @@
     "properties": {
     "LGA_NAME":"LATROBE",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":120
+    "Casualty":120,
+    "Day":"Wed"
     }
   },
   {
@@ -3094,7 +3351,8 @@
     "properties": {
     "LGA_NAME":"LODDON",
     "DAY_OF_WEE":"Friday",
-    "Casualty":33
+    "Casualty":33,
+    "Day":"Fri"
     }
   },
   {
@@ -3106,7 +3364,8 @@
     "properties": {
     "LGA_NAME":"LODDON",
     "DAY_OF_WEE":"Monday",
-    "Casualty":22
+    "Casualty":22,
+    "Day":"Mon"
     }
   },
   {
@@ -3118,7 +3377,8 @@
     "properties": {
     "LGA_NAME":"LODDON",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":13
+    "Casualty":13,
+    "Day":"Sat"
     }
   },
   {
@@ -3130,7 +3390,8 @@
     "properties": {
     "LGA_NAME":"LODDON",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":18
+    "Casualty":18,
+    "Day":"Sun"
     }
   },
   {
@@ -3142,7 +3403,8 @@
     "properties": {
     "LGA_NAME":"LODDON",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":17
+    "Casualty":17,
+    "Day":"Thu"
     }
   },
   {
@@ -3154,7 +3416,8 @@
     "properties": {
     "LGA_NAME":"LODDON",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":18
+    "Casualty":18,
+    "Day":"Tue"
     }
   },
   {
@@ -3166,7 +3429,8 @@
     "properties": {
     "LGA_NAME":"LODDON",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":17
+    "Casualty":17,
+    "Day":"Wed"
     }
   },
   {
@@ -3178,7 +3442,8 @@
     "properties": {
     "LGA_NAME":"MACEDON RANGES",
     "DAY_OF_WEE":"Friday",
-    "Casualty":71
+    "Casualty":71,
+    "Day":"Fri"
     }
   },
   {
@@ -3190,7 +3455,8 @@
     "properties": {
     "LGA_NAME":"MACEDON RANGES",
     "DAY_OF_WEE":"Monday",
-    "Casualty":77
+    "Casualty":77,
+    "Day":"Mon"
     }
   },
   {
@@ -3202,7 +3468,8 @@
     "properties": {
     "LGA_NAME":"MACEDON RANGES",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":77
+    "Casualty":77,
+    "Day":"Sat"
     }
   },
   {
@@ -3214,7 +3481,8 @@
     "properties": {
     "LGA_NAME":"MACEDON RANGES",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":103
+    "Casualty":103,
+    "Day":"Sun"
     }
   },
   {
@@ -3226,7 +3494,8 @@
     "properties": {
     "LGA_NAME":"MACEDON RANGES",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":74
+    "Casualty":74,
+    "Day":"Thu"
     }
   },
   {
@@ -3238,7 +3507,8 @@
     "properties": {
     "LGA_NAME":"MACEDON RANGES",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":77
+    "Casualty":77,
+    "Day":"Tue"
     }
   },
   {
@@ -3250,7 +3520,8 @@
     "properties": {
     "LGA_NAME":"MACEDON RANGES",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":80
+    "Casualty":80,
+    "Day":"Wed"
     }
   },
   {
@@ -3262,7 +3533,8 @@
     "properties": {
     "LGA_NAME":"MANNINGHAM",
     "DAY_OF_WEE":"Friday",
-    "Casualty":151
+    "Casualty":151,
+    "Day":"Fri"
     }
   },
   {
@@ -3274,7 +3546,8 @@
     "properties": {
     "LGA_NAME":"MANNINGHAM",
     "DAY_OF_WEE":"Monday",
-    "Casualty":139
+    "Casualty":139,
+    "Day":"Mon"
     }
   },
   {
@@ -3286,7 +3559,8 @@
     "properties": {
     "LGA_NAME":"MANNINGHAM",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":86
+    "Casualty":86,
+    "Day":"Sat"
     }
   },
   {
@@ -3298,7 +3572,8 @@
     "properties": {
     "LGA_NAME":"MANNINGHAM",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":125
+    "Casualty":125,
+    "Day":"Sun"
     }
   },
   {
@@ -3310,7 +3585,8 @@
     "properties": {
     "LGA_NAME":"MANNINGHAM",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":150
+    "Casualty":150,
+    "Day":"Thu"
     }
   },
   {
@@ -3322,7 +3598,8 @@
     "properties": {
     "LGA_NAME":"MANNINGHAM",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":127
+    "Casualty":127,
+    "Day":"Tue"
     }
   },
   {
@@ -3334,7 +3611,8 @@
     "properties": {
     "LGA_NAME":"MANNINGHAM",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":147
+    "Casualty":147,
+    "Day":"Wed"
     }
   },
   {
@@ -3346,7 +3624,8 @@
     "properties": {
     "LGA_NAME":"MANSFIELD",
     "DAY_OF_WEE":"Friday",
-    "Casualty":73
+    "Casualty":73,
+    "Day":"Fri"
     }
   },
   {
@@ -3358,7 +3637,8 @@
     "properties": {
     "LGA_NAME":"MANSFIELD",
     "DAY_OF_WEE":"Monday",
-    "Casualty":36
+    "Casualty":36,
+    "Day":"Mon"
     }
   },
   {
@@ -3370,7 +3650,8 @@
     "properties": {
     "LGA_NAME":"MANSFIELD",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":80
+    "Casualty":80,
+    "Day":"Sat"
     }
   },
   {
@@ -3382,7 +3663,8 @@
     "properties": {
     "LGA_NAME":"MANSFIELD",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":65
+    "Casualty":65,
+    "Day":"Sun"
     }
   },
   {
@@ -3394,7 +3676,8 @@
     "properties": {
     "LGA_NAME":"MANSFIELD",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":26
+    "Casualty":26,
+    "Day":"Thu"
     }
   },
   {
@@ -3406,7 +3689,8 @@
     "properties": {
     "LGA_NAME":"MANSFIELD",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":23
+    "Casualty":23,
+    "Day":"Tue"
     }
   },
   {
@@ -3418,7 +3702,8 @@
     "properties": {
     "LGA_NAME":"MANSFIELD",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":31
+    "Casualty":31,
+    "Day":"Wed"
     }
   },
   {
@@ -3430,7 +3715,8 @@
     "properties": {
     "LGA_NAME":"MARIBYRNONG",
     "DAY_OF_WEE":"Friday",
-    "Casualty":142
+    "Casualty":142,
+    "Day":"Fri"
     }
   },
   {
@@ -3442,7 +3728,8 @@
     "properties": {
     "LGA_NAME":"MARIBYRNONG",
     "DAY_OF_WEE":"Monday",
-    "Casualty":157
+    "Casualty":157,
+    "Day":"Mon"
     }
   },
   {
@@ -3454,7 +3741,8 @@
     "properties": {
     "LGA_NAME":"MARIBYRNONG",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":85
+    "Casualty":85,
+    "Day":"Sat"
     }
   },
   {
@@ -3466,7 +3754,8 @@
     "properties": {
     "LGA_NAME":"MARIBYRNONG",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":123
+    "Casualty":123,
+    "Day":"Sun"
     }
   },
   {
@@ -3478,7 +3767,8 @@
     "properties": {
     "LGA_NAME":"MARIBYRNONG",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":182
+    "Casualty":182,
+    "Day":"Thu"
     }
   },
   {
@@ -3490,7 +3780,8 @@
     "properties": {
     "LGA_NAME":"MARIBYRNONG",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":139
+    "Casualty":139,
+    "Day":"Tue"
     }
   },
   {
@@ -3502,7 +3793,8 @@
     "properties": {
     "LGA_NAME":"MARIBYRNONG",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":174
+    "Casualty":174,
+    "Day":"Wed"
     }
   },
   {
@@ -3514,7 +3806,8 @@
     "properties": {
     "LGA_NAME":"MAROONDAH",
     "DAY_OF_WEE":"Friday",
-    "Casualty":175
+    "Casualty":175,
+    "Day":"Fri"
     }
   },
   {
@@ -3526,7 +3819,8 @@
     "properties": {
     "LGA_NAME":"MAROONDAH",
     "DAY_OF_WEE":"Monday",
-    "Casualty":173
+    "Casualty":173,
+    "Day":"Mon"
     }
   },
   {
@@ -3538,7 +3832,8 @@
     "properties": {
     "LGA_NAME":"MAROONDAH",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":101
+    "Casualty":101,
+    "Day":"Sat"
     }
   },
   {
@@ -3550,7 +3845,8 @@
     "properties": {
     "LGA_NAME":"MAROONDAH",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":134
+    "Casualty":134,
+    "Day":"Sun"
     }
   },
   {
@@ -3562,7 +3858,8 @@
     "properties": {
     "LGA_NAME":"MAROONDAH",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":168
+    "Casualty":168,
+    "Day":"Thu"
     }
   },
   {
@@ -3574,7 +3871,8 @@
     "properties": {
     "LGA_NAME":"MAROONDAH",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":158
+    "Casualty":158,
+    "Day":"Tue"
     }
   },
   {
@@ -3586,7 +3884,8 @@
     "properties": {
     "LGA_NAME":"MAROONDAH",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":158
+    "Casualty":158,
+    "Day":"Wed"
     }
   },
   {
@@ -3598,7 +3897,8 @@
     "properties": {
     "LGA_NAME":"MELBOURNE",
     "DAY_OF_WEE":"Friday",
-    "Casualty":551
+    "Casualty":551,
+    "Day":"Fri"
     }
   },
   {
@@ -3610,7 +3910,8 @@
     "properties": {
     "LGA_NAME":"MELBOURNE",
     "DAY_OF_WEE":"Monday",
-    "Casualty":512
+    "Casualty":512,
+    "Day":"Mon"
     }
   },
   {
@@ -3622,7 +3923,8 @@
     "properties": {
     "LGA_NAME":"MELBOURNE",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":315
+    "Casualty":315,
+    "Day":"Sat"
     }
   },
   {
@@ -3634,7 +3936,8 @@
     "properties": {
     "LGA_NAME":"MELBOURNE",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":417
+    "Casualty":417,
+    "Day":"Sun"
     }
   },
   {
@@ -3646,7 +3949,8 @@
     "properties": {
     "LGA_NAME":"MELBOURNE",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":634
+    "Casualty":634,
+    "Day":"Thu"
     }
   },
   {
@@ -3658,7 +3962,8 @@
     "properties": {
     "LGA_NAME":"MELBOURNE",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":554
+    "Casualty":554,
+    "Day":"Tue"
     }
   },
   {
@@ -3670,7 +3975,8 @@
     "properties": {
     "LGA_NAME":"MELBOURNE",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":664
+    "Casualty":664,
+    "Day":"Wed"
     }
   },
   {
@@ -3682,7 +3988,8 @@
     "properties": {
     "LGA_NAME":"MELTON",
     "DAY_OF_WEE":"Friday",
-    "Casualty":187
+    "Casualty":187,
+    "Day":"Fri"
     }
   },
   {
@@ -3694,7 +4001,8 @@
     "properties": {
     "LGA_NAME":"MELTON",
     "DAY_OF_WEE":"Monday",
-    "Casualty":178
+    "Casualty":178,
+    "Day":"Mon"
     }
   },
   {
@@ -3706,7 +4014,8 @@
     "properties": {
     "LGA_NAME":"MELTON",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":126
+    "Casualty":126,
+    "Day":"Sat"
     }
   },
   {
@@ -3718,7 +4027,8 @@
     "properties": {
     "LGA_NAME":"MELTON",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":170
+    "Casualty":170,
+    "Day":"Sun"
     }
   },
   {
@@ -3730,7 +4040,8 @@
     "properties": {
     "LGA_NAME":"MELTON",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":196
+    "Casualty":196,
+    "Day":"Thu"
     }
   },
   {
@@ -3742,7 +4053,8 @@
     "properties": {
     "LGA_NAME":"MELTON",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":194
+    "Casualty":194,
+    "Day":"Tue"
     }
   },
   {
@@ -3754,7 +4066,8 @@
     "properties": {
     "LGA_NAME":"MELTON",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":215
+    "Casualty":215,
+    "Day":"Wed"
     }
   },
   {
@@ -3766,7 +4079,8 @@
     "properties": {
     "LGA_NAME":"MILDURA",
     "DAY_OF_WEE":"Friday",
-    "Casualty":95
+    "Casualty":95,
+    "Day":"Fri"
     }
   },
   {
@@ -3778,7 +4092,8 @@
     "properties": {
     "LGA_NAME":"MILDURA",
     "DAY_OF_WEE":"Monday",
-    "Casualty":85
+    "Casualty":85,
+    "Day":"Mon"
     }
   },
   {
@@ -3790,7 +4105,8 @@
     "properties": {
     "LGA_NAME":"MILDURA",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":82
+    "Casualty":82,
+    "Day":"Sat"
     }
   },
   {
@@ -3802,7 +4118,8 @@
     "properties": {
     "LGA_NAME":"MILDURA",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":98
+    "Casualty":98,
+    "Day":"Sun"
     }
   },
   {
@@ -3814,7 +4131,8 @@
     "properties": {
     "LGA_NAME":"MILDURA",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":98
+    "Casualty":98,
+    "Day":"Thu"
     }
   },
   {
@@ -3826,7 +4144,8 @@
     "properties": {
     "LGA_NAME":"MILDURA",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":74
+    "Casualty":74,
+    "Day":"Tue"
     }
   },
   {
@@ -3838,7 +4157,8 @@
     "properties": {
     "LGA_NAME":"MILDURA",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":90
+    "Casualty":90,
+    "Day":"Wed"
     }
   },
   {
@@ -3850,7 +4170,8 @@
     "properties": {
     "LGA_NAME":"MITCHELL",
     "DAY_OF_WEE":"Friday",
-    "Casualty":129
+    "Casualty":129,
+    "Day":"Fri"
     }
   },
   {
@@ -3862,7 +4183,8 @@
     "properties": {
     "LGA_NAME":"MITCHELL",
     "DAY_OF_WEE":"Monday",
-    "Casualty":82
+    "Casualty":82,
+    "Day":"Mon"
     }
   },
   {
@@ -3874,7 +4196,8 @@
     "properties": {
     "LGA_NAME":"MITCHELL",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":98
+    "Casualty":98,
+    "Day":"Sat"
     }
   },
   {
@@ -3886,7 +4209,8 @@
     "properties": {
     "LGA_NAME":"MITCHELL",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":120
+    "Casualty":120,
+    "Day":"Sun"
     }
   },
   {
@@ -3898,7 +4222,8 @@
     "properties": {
     "LGA_NAME":"MITCHELL",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":111
+    "Casualty":111,
+    "Day":"Thu"
     }
   },
   {
@@ -3910,7 +4235,8 @@
     "properties": {
     "LGA_NAME":"MITCHELL",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":95
+    "Casualty":95,
+    "Day":"Tue"
     }
   },
   {
@@ -3922,7 +4248,8 @@
     "properties": {
     "LGA_NAME":"MITCHELL",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":103
+    "Casualty":103,
+    "Day":"Wed"
     }
   },
   {
@@ -3934,7 +4261,8 @@
     "properties": {
     "LGA_NAME":"MOIRA",
     "DAY_OF_WEE":"Friday",
-    "Casualty":72
+    "Casualty":72,
+    "Day":"Fri"
     }
   },
   {
@@ -3946,7 +4274,8 @@
     "properties": {
     "LGA_NAME":"MOIRA",
     "DAY_OF_WEE":"Monday",
-    "Casualty":52
+    "Casualty":52,
+    "Day":"Mon"
     }
   },
   {
@@ -3958,7 +4287,8 @@
     "properties": {
     "LGA_NAME":"MOIRA",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":43
+    "Casualty":43,
+    "Day":"Sat"
     }
   },
   {
@@ -3970,7 +4300,8 @@
     "properties": {
     "LGA_NAME":"MOIRA",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":49
+    "Casualty":49,
+    "Day":"Sun"
     }
   },
   {
@@ -3982,7 +4313,8 @@
     "properties": {
     "LGA_NAME":"MOIRA",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":59
+    "Casualty":59,
+    "Day":"Thu"
     }
   },
   {
@@ -3994,7 +4326,8 @@
     "properties": {
     "LGA_NAME":"MOIRA",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":47
+    "Casualty":47,
+    "Day":"Tue"
     }
   },
   {
@@ -4006,7 +4339,8 @@
     "properties": {
     "LGA_NAME":"MOIRA",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":64
+    "Casualty":64,
+    "Day":"Wed"
     }
   },
   {
@@ -4018,7 +4352,8 @@
     "properties": {
     "LGA_NAME":"MONASH",
     "DAY_OF_WEE":"Friday",
-    "Casualty":316
+    "Casualty":316,
+    "Day":"Fri"
     }
   },
   {
@@ -4030,7 +4365,8 @@
     "properties": {
     "LGA_NAME":"MONASH",
     "DAY_OF_WEE":"Monday",
-    "Casualty":313
+    "Casualty":313,
+    "Day":"Mon"
     }
   },
   {
@@ -4042,7 +4378,8 @@
     "properties": {
     "LGA_NAME":"MONASH",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":172
+    "Casualty":172,
+    "Day":"Sat"
     }
   },
   {
@@ -4054,7 +4391,8 @@
     "properties": {
     "LGA_NAME":"MONASH",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":232
+    "Casualty":232,
+    "Day":"Sun"
     }
   },
   {
@@ -4066,7 +4404,8 @@
     "properties": {
     "LGA_NAME":"MONASH",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":395
+    "Casualty":395,
+    "Day":"Thu"
     }
   },
   {
@@ -4078,7 +4417,8 @@
     "properties": {
     "LGA_NAME":"MONASH",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":351
+    "Casualty":351,
+    "Day":"Tue"
     }
   },
   {
@@ -4090,7 +4430,8 @@
     "properties": {
     "LGA_NAME":"MONASH",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":369
+    "Casualty":369,
+    "Day":"Wed"
     }
   },
   {
@@ -4102,7 +4443,8 @@
     "properties": {
     "LGA_NAME":"MOONEE VALLEY",
     "DAY_OF_WEE":"Friday",
-    "Casualty":202
+    "Casualty":202,
+    "Day":"Fri"
     }
   },
   {
@@ -4114,7 +4456,8 @@
     "properties": {
     "LGA_NAME":"MOONEE VALLEY",
     "DAY_OF_WEE":"Monday",
-    "Casualty":150
+    "Casualty":150,
+    "Day":"Mon"
     }
   },
   {
@@ -4126,7 +4469,8 @@
     "properties": {
     "LGA_NAME":"MOONEE VALLEY",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":109
+    "Casualty":109,
+    "Day":"Sat"
     }
   },
   {
@@ -4138,7 +4482,8 @@
     "properties": {
     "LGA_NAME":"MOONEE VALLEY",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":121
+    "Casualty":121,
+    "Day":"Sun"
     }
   },
   {
@@ -4150,7 +4495,8 @@
     "properties": {
     "LGA_NAME":"MOONEE VALLEY",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":204
+    "Casualty":204,
+    "Day":"Thu"
     }
   },
   {
@@ -4162,7 +4508,8 @@
     "properties": {
     "LGA_NAME":"MOONEE VALLEY",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":178
+    "Casualty":178,
+    "Day":"Tue"
     }
   },
   {
@@ -4174,7 +4521,8 @@
     "properties": {
     "LGA_NAME":"MOONEE VALLEY",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":177
+    "Casualty":177,
+    "Day":"Wed"
     }
   },
   {
@@ -4186,7 +4534,8 @@
     "properties": {
     "LGA_NAME":"MOORABOOL",
     "DAY_OF_WEE":"Friday",
-    "Casualty":81
+    "Casualty":81,
+    "Day":"Fri"
     }
   },
   {
@@ -4198,7 +4547,8 @@
     "properties": {
     "LGA_NAME":"MOORABOOL",
     "DAY_OF_WEE":"Monday",
-    "Casualty":65
+    "Casualty":65,
+    "Day":"Mon"
     }
   },
   {
@@ -4210,7 +4560,8 @@
     "properties": {
     "LGA_NAME":"MOORABOOL",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":78
+    "Casualty":78,
+    "Day":"Sat"
     }
   },
   {
@@ -4222,7 +4573,8 @@
     "properties": {
     "LGA_NAME":"MOORABOOL",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":132
+    "Casualty":132,
+    "Day":"Sun"
     }
   },
   {
@@ -4234,7 +4586,8 @@
     "properties": {
     "LGA_NAME":"MOORABOOL",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":63
+    "Casualty":63,
+    "Day":"Thu"
     }
   },
   {
@@ -4246,7 +4599,8 @@
     "properties": {
     "LGA_NAME":"MOORABOOL",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":74
+    "Casualty":74,
+    "Day":"Tue"
     }
   },
   {
@@ -4258,7 +4612,8 @@
     "properties": {
     "LGA_NAME":"MOORABOOL",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":75
+    "Casualty":75,
+    "Day":"Wed"
     }
   },
   {
@@ -4270,7 +4625,8 @@
     "properties": {
     "LGA_NAME":"MORELAND",
     "DAY_OF_WEE":"Friday",
-    "Casualty":317
+    "Casualty":317,
+    "Day":"Fri"
     }
   },
   {
@@ -4282,7 +4638,8 @@
     "properties": {
     "LGA_NAME":"MORELAND",
     "DAY_OF_WEE":"Monday",
-    "Casualty":287
+    "Casualty":287,
+    "Day":"Mon"
     }
   },
   {
@@ -4294,7 +4651,8 @@
     "properties": {
     "LGA_NAME":"MORELAND",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":178
+    "Casualty":178,
+    "Day":"Sat"
     }
   },
   {
@@ -4306,7 +4664,8 @@
     "properties": {
     "LGA_NAME":"MORELAND",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":229
+    "Casualty":229,
+    "Day":"Sun"
     }
   },
   {
@@ -4318,7 +4677,8 @@
     "properties": {
     "LGA_NAME":"MORELAND",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":310
+    "Casualty":310,
+    "Day":"Thu"
     }
   },
   {
@@ -4330,7 +4690,8 @@
     "properties": {
     "LGA_NAME":"MORELAND",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":315
+    "Casualty":315,
+    "Day":"Tue"
     }
   },
   {
@@ -4342,7 +4703,8 @@
     "properties": {
     "LGA_NAME":"MORELAND",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":338
+    "Casualty":338,
+    "Day":"Wed"
     }
   },
   {
@@ -4354,7 +4716,8 @@
     "properties": {
     "LGA_NAME":"MORNINGTON PENINSULA",
     "DAY_OF_WEE":"Friday",
-    "Casualty":214
+    "Casualty":214,
+    "Day":"Fri"
     }
   },
   {
@@ -4366,7 +4729,8 @@
     "properties": {
     "LGA_NAME":"MORNINGTON PENINSULA",
     "DAY_OF_WEE":"Monday",
-    "Casualty":221
+    "Casualty":221,
+    "Day":"Mon"
     }
   },
   {
@@ -4378,7 +4742,8 @@
     "properties": {
     "LGA_NAME":"MORNINGTON PENINSULA",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":161
+    "Casualty":161,
+    "Day":"Sat"
     }
   },
   {
@@ -4390,7 +4755,8 @@
     "properties": {
     "LGA_NAME":"MORNINGTON PENINSULA",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":220
+    "Casualty":220,
+    "Day":"Sun"
     }
   },
   {
@@ -4402,7 +4768,8 @@
     "properties": {
     "LGA_NAME":"MORNINGTON PENINSULA",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":235
+    "Casualty":235,
+    "Day":"Thu"
     }
   },
   {
@@ -4414,7 +4781,8 @@
     "properties": {
     "LGA_NAME":"MORNINGTON PENINSULA",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":208
+    "Casualty":208,
+    "Day":"Tue"
     }
   },
   {
@@ -4426,7 +4794,8 @@
     "properties": {
     "LGA_NAME":"MORNINGTON PENINSULA",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":232
+    "Casualty":232,
+    "Day":"Wed"
     }
   },
   {
@@ -4438,7 +4807,8 @@
     "properties": {
     "LGA_NAME":"MOUNT ALEXANDER",
     "DAY_OF_WEE":"Friday",
-    "Casualty":41
+    "Casualty":41,
+    "Day":"Fri"
     }
   },
   {
@@ -4450,7 +4820,8 @@
     "properties": {
     "LGA_NAME":"MOUNT ALEXANDER",
     "DAY_OF_WEE":"Monday",
-    "Casualty":26
+    "Casualty":26,
+    "Day":"Mon"
     }
   },
   {
@@ -4462,7 +4833,8 @@
     "properties": {
     "LGA_NAME":"MOUNT ALEXANDER",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":29
+    "Casualty":29,
+    "Day":"Sat"
     }
   },
   {
@@ -4474,7 +4846,8 @@
     "properties": {
     "LGA_NAME":"MOUNT ALEXANDER",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":35
+    "Casualty":35,
+    "Day":"Sun"
     }
   },
   {
@@ -4486,7 +4859,8 @@
     "properties": {
     "LGA_NAME":"MOUNT ALEXANDER",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":34
+    "Casualty":34,
+    "Day":"Thu"
     }
   },
   {
@@ -4498,7 +4872,8 @@
     "properties": {
     "LGA_NAME":"MOUNT ALEXANDER",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":28
+    "Casualty":28,
+    "Day":"Tue"
     }
   },
   {
@@ -4510,7 +4885,8 @@
     "properties": {
     "LGA_NAME":"MOUNT ALEXANDER",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":23
+    "Casualty":23,
+    "Day":"Wed"
     }
   },
   {
@@ -4522,7 +4898,8 @@
     "properties": {
     "LGA_NAME":"MOUNT BULLER ALPINE RESOR",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":1
+    "Casualty":1,
+    "Day":"Sun"
     }
   },
   {
@@ -4534,7 +4911,8 @@
     "properties": {
     "LGA_NAME":"MOUNT STIRLING ALPINE RES",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":1
+    "Casualty":1,
+    "Day":"Thu"
     }
   },
   {
@@ -4546,7 +4924,8 @@
     "properties": {
     "LGA_NAME":"MOYNE",
     "DAY_OF_WEE":"Friday",
-    "Casualty":38
+    "Casualty":38,
+    "Day":"Fri"
     }
   },
   {
@@ -4558,7 +4937,8 @@
     "properties": {
     "LGA_NAME":"MOYNE",
     "DAY_OF_WEE":"Monday",
-    "Casualty":38
+    "Casualty":38,
+    "Day":"Mon"
     }
   },
   {
@@ -4570,7 +4950,8 @@
     "properties": {
     "LGA_NAME":"MOYNE",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":26
+    "Casualty":26,
+    "Day":"Sat"
     }
   },
   {
@@ -4582,7 +4963,8 @@
     "properties": {
     "LGA_NAME":"MOYNE",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":42
+    "Casualty":42,
+    "Day":"Sun"
     }
   },
   {
@@ -4594,7 +4976,8 @@
     "properties": {
     "LGA_NAME":"MOYNE",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":47
+    "Casualty":47,
+    "Day":"Thu"
     }
   },
   {
@@ -4606,7 +4989,8 @@
     "properties": {
     "LGA_NAME":"MOYNE",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":38
+    "Casualty":38,
+    "Day":"Tue"
     }
   },
   {
@@ -4618,7 +5002,8 @@
     "properties": {
     "LGA_NAME":"MOYNE",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":26
+    "Casualty":26,
+    "Day":"Wed"
     }
   },
   {
@@ -4630,7 +5015,8 @@
     "properties": {
     "LGA_NAME":"MURRINDINDI",
     "DAY_OF_WEE":"Friday",
-    "Casualty":121
+    "Casualty":121,
+    "Day":"Fri"
     }
   },
   {
@@ -4642,7 +5028,8 @@
     "properties": {
     "LGA_NAME":"MURRINDINDI",
     "DAY_OF_WEE":"Monday",
-    "Casualty":55
+    "Casualty":55,
+    "Day":"Mon"
     }
   },
   {
@@ -4654,7 +5041,8 @@
     "properties": {
     "LGA_NAME":"MURRINDINDI",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":101
+    "Casualty":101,
+    "Day":"Sat"
     }
   },
   {
@@ -4666,7 +5054,8 @@
     "properties": {
     "LGA_NAME":"MURRINDINDI",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":168
+    "Casualty":168,
+    "Day":"Sun"
     }
   },
   {
@@ -4678,7 +5067,8 @@
     "properties": {
     "LGA_NAME":"MURRINDINDI",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":54
+    "Casualty":54,
+    "Day":"Thu"
     }
   },
   {
@@ -4690,7 +5080,8 @@
     "properties": {
     "LGA_NAME":"MURRINDINDI",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":45
+    "Casualty":45,
+    "Day":"Tue"
     }
   },
   {
@@ -4702,7 +5093,8 @@
     "properties": {
     "LGA_NAME":"MURRINDINDI",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":47
+    "Casualty":47,
+    "Day":"Wed"
     }
   },
   {
@@ -4714,7 +5106,8 @@
     "properties": {
     "LGA_NAME":"NILLUMBIK",
     "DAY_OF_WEE":"Friday",
-    "Casualty":106
+    "Casualty":106,
+    "Day":"Fri"
     }
   },
   {
@@ -4726,7 +5119,8 @@
     "properties": {
     "LGA_NAME":"NILLUMBIK",
     "DAY_OF_WEE":"Monday",
-    "Casualty":92
+    "Casualty":92,
+    "Day":"Mon"
     }
   },
   {
@@ -4738,7 +5132,8 @@
     "properties": {
     "LGA_NAME":"NILLUMBIK",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":94
+    "Casualty":94,
+    "Day":"Sat"
     }
   },
   {
@@ -4750,7 +5145,8 @@
     "properties": {
     "LGA_NAME":"NILLUMBIK",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":100
+    "Casualty":100,
+    "Day":"Sun"
     }
   },
   {
@@ -4762,7 +5158,8 @@
     "properties": {
     "LGA_NAME":"NILLUMBIK",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":96
+    "Casualty":96,
+    "Day":"Thu"
     }
   },
   {
@@ -4774,7 +5171,8 @@
     "properties": {
     "LGA_NAME":"NILLUMBIK",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":101
+    "Casualty":101,
+    "Day":"Tue"
     }
   },
   {
@@ -4786,7 +5184,8 @@
     "properties": {
     "LGA_NAME":"NILLUMBIK",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":88
+    "Casualty":88,
+    "Day":"Wed"
     }
   },
   {
@@ -4798,7 +5197,8 @@
     "properties": {
     "LGA_NAME":"NORTHERN GRAMPIANS",
     "DAY_OF_WEE":"Friday",
-    "Casualty":43
+    "Casualty":43,
+    "Day":"Fri"
     }
   },
   {
@@ -4810,7 +5210,8 @@
     "properties": {
     "LGA_NAME":"NORTHERN GRAMPIANS",
     "DAY_OF_WEE":"Monday",
-    "Casualty":31
+    "Casualty":31,
+    "Day":"Mon"
     }
   },
   {
@@ -4822,7 +5223,8 @@
     "properties": {
     "LGA_NAME":"NORTHERN GRAMPIANS",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":31
+    "Casualty":31,
+    "Day":"Sat"
     }
   },
   {
@@ -4834,7 +5236,8 @@
     "properties": {
     "LGA_NAME":"NORTHERN GRAMPIANS",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":30
+    "Casualty":30,
+    "Day":"Sun"
     }
   },
   {
@@ -4846,7 +5249,8 @@
     "properties": {
     "LGA_NAME":"NORTHERN GRAMPIANS",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":22
+    "Casualty":22,
+    "Day":"Thu"
     }
   },
   {
@@ -4858,7 +5262,8 @@
     "properties": {
     "LGA_NAME":"NORTHERN GRAMPIANS",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":15
+    "Casualty":15,
+    "Day":"Tue"
     }
   },
   {
@@ -4870,7 +5275,8 @@
     "properties": {
     "LGA_NAME":"NORTHERN GRAMPIANS",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":32
+    "Casualty":32,
+    "Day":"Wed"
     }
   },
   {
@@ -4882,7 +5288,8 @@
     "properties": {
     "LGA_NAME":"PORT PHILLIP",
     "DAY_OF_WEE":"Friday",
-    "Casualty":220
+    "Casualty":220,
+    "Day":"Fri"
     }
   },
   {
@@ -4894,7 +5301,8 @@
     "properties": {
     "LGA_NAME":"PORT PHILLIP",
     "DAY_OF_WEE":"Monday",
-    "Casualty":186
+    "Casualty":186,
+    "Day":"Mon"
     }
   },
   {
@@ -4906,7 +5314,8 @@
     "properties": {
     "LGA_NAME":"PORT PHILLIP",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":130
+    "Casualty":130,
+    "Day":"Sat"
     }
   },
   {
@@ -4918,7 +5327,8 @@
     "properties": {
     "LGA_NAME":"PORT PHILLIP",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":161
+    "Casualty":161,
+    "Day":"Sun"
     }
   },
   {
@@ -4930,7 +5340,8 @@
     "properties": {
     "LGA_NAME":"PORT PHILLIP",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":207
+    "Casualty":207,
+    "Day":"Thu"
     }
   },
   {
@@ -4942,7 +5353,8 @@
     "properties": {
     "LGA_NAME":"PORT PHILLIP",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":216
+    "Casualty":216,
+    "Day":"Tue"
     }
   },
   {
@@ -4954,7 +5366,8 @@
     "properties": {
     "LGA_NAME":"PORT PHILLIP",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":211
+    "Casualty":211,
+    "Day":"Wed"
     }
   },
   {
@@ -4966,7 +5379,8 @@
     "properties": {
     "LGA_NAME":"PYRENEES",
     "DAY_OF_WEE":"Friday",
-    "Casualty":34
+    "Casualty":34,
+    "Day":"Fri"
     }
   },
   {
@@ -4978,7 +5392,8 @@
     "properties": {
     "LGA_NAME":"PYRENEES",
     "DAY_OF_WEE":"Monday",
-    "Casualty":27
+    "Casualty":27,
+    "Day":"Mon"
     }
   },
   {
@@ -4990,7 +5405,8 @@
     "properties": {
     "LGA_NAME":"PYRENEES",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":32
+    "Casualty":32,
+    "Day":"Sat"
     }
   },
   {
@@ -5002,7 +5418,8 @@
     "properties": {
     "LGA_NAME":"PYRENEES",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":36
+    "Casualty":36,
+    "Day":"Sun"
     }
   },
   {
@@ -5014,7 +5431,8 @@
     "properties": {
     "LGA_NAME":"PYRENEES",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":21
+    "Casualty":21,
+    "Day":"Thu"
     }
   },
   {
@@ -5026,7 +5444,8 @@
     "properties": {
     "LGA_NAME":"PYRENEES",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":18
+    "Casualty":18,
+    "Day":"Tue"
     }
   },
   {
@@ -5038,7 +5457,8 @@
     "properties": {
     "LGA_NAME":"PYRENEES",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":15
+    "Casualty":15,
+    "Day":"Wed"
     }
   },
   {
@@ -5050,7 +5470,8 @@
     "properties": {
     "LGA_NAME":"QUEENSCLIFFE",
     "DAY_OF_WEE":"Friday",
-    "Casualty":2
+    "Casualty":2,
+    "Day":"Fri"
     }
   },
   {
@@ -5062,7 +5483,8 @@
     "properties": {
     "LGA_NAME":"QUEENSCLIFFE",
     "DAY_OF_WEE":"Monday",
-    "Casualty":3
+    "Casualty":3,
+    "Day":"Mon"
     }
   },
   {
@@ -5074,7 +5496,8 @@
     "properties": {
     "LGA_NAME":"QUEENSCLIFFE",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":1
+    "Casualty":1,
+    "Day":"Sat"
     }
   },
   {
@@ -5086,7 +5509,8 @@
     "properties": {
     "LGA_NAME":"QUEENSCLIFFE",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":2
+    "Casualty":2,
+    "Day":"Sun"
     }
   },
   {
@@ -5098,7 +5522,8 @@
     "properties": {
     "LGA_NAME":"QUEENSCLIFFE",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":5
+    "Casualty":5,
+    "Day":"Thu"
     }
   },
   {
@@ -5110,7 +5535,8 @@
     "properties": {
     "LGA_NAME":"QUEENSCLIFFE",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":3
+    "Casualty":3,
+    "Day":"Tue"
     }
   },
   {
@@ -5122,7 +5548,8 @@
     "properties": {
     "LGA_NAME":"QUEENSCLIFFE",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":1
+    "Casualty":1,
+    "Day":"Wed"
     }
   },
   {
@@ -5134,7 +5561,8 @@
     "properties": {
     "LGA_NAME":"SHEPPARTON",
     "DAY_OF_WEE":"Friday",
-    "Casualty":135
+    "Casualty":135,
+    "Day":"Fri"
     }
   },
   {
@@ -5146,7 +5574,8 @@
     "properties": {
     "LGA_NAME":"SHEPPARTON",
     "DAY_OF_WEE":"Monday",
-    "Casualty":127
+    "Casualty":127,
+    "Day":"Mon"
     }
   },
   {
@@ -5158,7 +5587,8 @@
     "properties": {
     "LGA_NAME":"SHEPPARTON",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":72
+    "Casualty":72,
+    "Day":"Sat"
     }
   },
   {
@@ -5170,7 +5600,8 @@
     "properties": {
     "LGA_NAME":"SHEPPARTON",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":115
+    "Casualty":115,
+    "Day":"Sun"
     }
   },
   {
@@ -5182,7 +5613,8 @@
     "properties": {
     "LGA_NAME":"SHEPPARTON",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":152
+    "Casualty":152,
+    "Day":"Thu"
     }
   },
   {
@@ -5194,7 +5626,8 @@
     "properties": {
     "LGA_NAME":"SHEPPARTON",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":118
+    "Casualty":118,
+    "Day":"Tue"
     }
   },
   {
@@ -5206,7 +5639,8 @@
     "properties": {
     "LGA_NAME":"SHEPPARTON",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":148
+    "Casualty":148,
+    "Day":"Wed"
     }
   },
   {
@@ -5218,7 +5652,8 @@
     "properties": {
     "LGA_NAME":"SOUTH GIPPSLAND",
     "DAY_OF_WEE":"Friday",
-    "Casualty":69
+    "Casualty":69,
+    "Day":"Fri"
     }
   },
   {
@@ -5230,7 +5665,8 @@
     "properties": {
     "LGA_NAME":"SOUTH GIPPSLAND",
     "DAY_OF_WEE":"Monday",
-    "Casualty":66
+    "Casualty":66,
+    "Day":"Mon"
     }
   },
   {
@@ -5242,7 +5678,8 @@
     "properties": {
     "LGA_NAME":"SOUTH GIPPSLAND",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":63
+    "Casualty":63,
+    "Day":"Sat"
     }
   },
   {
@@ -5254,7 +5691,8 @@
     "properties": {
     "LGA_NAME":"SOUTH GIPPSLAND",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":80
+    "Casualty":80,
+    "Day":"Sun"
     }
   },
   {
@@ -5266,7 +5704,8 @@
     "properties": {
     "LGA_NAME":"SOUTH GIPPSLAND",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":65
+    "Casualty":65,
+    "Day":"Thu"
     }
   },
   {
@@ -5278,7 +5717,8 @@
     "properties": {
     "LGA_NAME":"SOUTH GIPPSLAND",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":62
+    "Casualty":62,
+    "Day":"Tue"
     }
   },
   {
@@ -5290,7 +5730,8 @@
     "properties": {
     "LGA_NAME":"SOUTH GIPPSLAND",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":78
+    "Casualty":78,
+    "Day":"Wed"
     }
   },
   {
@@ -5302,7 +5743,8 @@
     "properties": {
     "LGA_NAME":"SOUTHERN GRAMPIANS",
     "DAY_OF_WEE":"Friday",
-    "Casualty":27
+    "Casualty":27,
+    "Day":"Fri"
     }
   },
   {
@@ -5314,7 +5756,8 @@
     "properties": {
     "LGA_NAME":"SOUTHERN GRAMPIANS",
     "DAY_OF_WEE":"Monday",
-    "Casualty":24
+    "Casualty":24,
+    "Day":"Mon"
     }
   },
   {
@@ -5326,7 +5769,8 @@
     "properties": {
     "LGA_NAME":"SOUTHERN GRAMPIANS",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":23
+    "Casualty":23,
+    "Day":"Sat"
     }
   },
   {
@@ -5338,7 +5782,8 @@
     "properties": {
     "LGA_NAME":"SOUTHERN GRAMPIANS",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":26
+    "Casualty":26,
+    "Day":"Sun"
     }
   },
   {
@@ -5350,7 +5795,8 @@
     "properties": {
     "LGA_NAME":"SOUTHERN GRAMPIANS",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":28
+    "Casualty":28,
+    "Day":"Thu"
     }
   },
   {
@@ -5362,7 +5808,8 @@
     "properties": {
     "LGA_NAME":"SOUTHERN GRAMPIANS",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":33
+    "Casualty":33,
+    "Day":"Tue"
     }
   },
   {
@@ -5374,7 +5821,8 @@
     "properties": {
     "LGA_NAME":"SOUTHERN GRAMPIANS",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":29
+    "Casualty":29,
+    "Day":"Wed"
     }
   },
   {
@@ -5386,7 +5834,8 @@
     "properties": {
     "LGA_NAME":"STONNINGTON",
     "DAY_OF_WEE":"Friday",
-    "Casualty":228
+    "Casualty":228,
+    "Day":"Fri"
     }
   },
   {
@@ -5398,7 +5847,8 @@
     "properties": {
     "LGA_NAME":"STONNINGTON",
     "DAY_OF_WEE":"Monday",
-    "Casualty":215
+    "Casualty":215,
+    "Day":"Mon"
     }
   },
   {
@@ -5410,7 +5860,8 @@
     "properties": {
     "LGA_NAME":"STONNINGTON",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":118
+    "Casualty":118,
+    "Day":"Sat"
     }
   },
   {
@@ -5422,7 +5873,8 @@
     "properties": {
     "LGA_NAME":"STONNINGTON",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":176
+    "Casualty":176,
+    "Day":"Sun"
     }
   },
   {
@@ -5434,7 +5886,8 @@
     "properties": {
     "LGA_NAME":"STONNINGTON",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":227
+    "Casualty":227,
+    "Day":"Thu"
     }
   },
   {
@@ -5446,7 +5899,8 @@
     "properties": {
     "LGA_NAME":"STONNINGTON",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":240
+    "Casualty":240,
+    "Day":"Tue"
     }
   },
   {
@@ -5458,7 +5912,8 @@
     "properties": {
     "LGA_NAME":"STONNINGTON",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":230
+    "Casualty":230,
+    "Day":"Wed"
     }
   },
   {
@@ -5470,7 +5925,8 @@
     "properties": {
     "LGA_NAME":"STRATHBOGIE",
     "DAY_OF_WEE":"Friday",
-    "Casualty":37
+    "Casualty":37,
+    "Day":"Fri"
     }
   },
   {
@@ -5482,7 +5938,8 @@
     "properties": {
     "LGA_NAME":"STRATHBOGIE",
     "DAY_OF_WEE":"Monday",
-    "Casualty":24
+    "Casualty":24,
+    "Day":"Mon"
     }
   },
   {
@@ -5494,7 +5951,8 @@
     "properties": {
     "LGA_NAME":"STRATHBOGIE",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":38
+    "Casualty":38,
+    "Day":"Sat"
     }
   },
   {
@@ -5506,7 +5964,8 @@
     "properties": {
     "LGA_NAME":"STRATHBOGIE",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":38
+    "Casualty":38,
+    "Day":"Sun"
     }
   },
   {
@@ -5518,7 +5977,8 @@
     "properties": {
     "LGA_NAME":"STRATHBOGIE",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":35
+    "Casualty":35,
+    "Day":"Thu"
     }
   },
   {
@@ -5530,7 +5990,8 @@
     "properties": {
     "LGA_NAME":"STRATHBOGIE",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":30
+    "Casualty":30,
+    "Day":"Tue"
     }
   },
   {
@@ -5542,7 +6003,8 @@
     "properties": {
     "LGA_NAME":"STRATHBOGIE",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":33
+    "Casualty":33,
+    "Day":"Wed"
     }
   },
   {
@@ -5554,7 +6016,8 @@
     "properties": {
     "LGA_NAME":"SURF COAST",
     "DAY_OF_WEE":"Friday",
-    "Casualty":80
+    "Casualty":80,
+    "Day":"Fri"
     }
   },
   {
@@ -5566,7 +6029,8 @@
     "properties": {
     "LGA_NAME":"SURF COAST",
     "DAY_OF_WEE":"Monday",
-    "Casualty":56
+    "Casualty":56,
+    "Day":"Mon"
     }
   },
   {
@@ -5578,7 +6042,8 @@
     "properties": {
     "LGA_NAME":"SURF COAST",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":83
+    "Casualty":83,
+    "Day":"Sat"
     }
   },
   {
@@ -5590,7 +6055,8 @@
     "properties": {
     "LGA_NAME":"SURF COAST",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":95
+    "Casualty":95,
+    "Day":"Sun"
     }
   },
   {
@@ -5602,7 +6068,8 @@
     "properties": {
     "LGA_NAME":"SURF COAST",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":64
+    "Casualty":64,
+    "Day":"Thu"
     }
   },
   {
@@ -5614,7 +6081,8 @@
     "properties": {
     "LGA_NAME":"SURF COAST",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":51
+    "Casualty":51,
+    "Day":"Tue"
     }
   },
   {
@@ -5626,7 +6094,8 @@
     "properties": {
     "LGA_NAME":"SURF COAST",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":55
+    "Casualty":55,
+    "Day":"Wed"
     }
   },
   {
@@ -5638,7 +6107,8 @@
     "properties": {
     "LGA_NAME":"SWAN HILL",
     "DAY_OF_WEE":"Friday",
-    "Casualty":35
+    "Casualty":35,
+    "Day":"Fri"
     }
   },
   {
@@ -5650,7 +6120,8 @@
     "properties": {
     "LGA_NAME":"SWAN HILL",
     "DAY_OF_WEE":"Monday",
-    "Casualty":33
+    "Casualty":33,
+    "Day":"Mon"
     }
   },
   {
@@ -5662,7 +6133,8 @@
     "properties": {
     "LGA_NAME":"SWAN HILL",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":33
+    "Casualty":33,
+    "Day":"Sat"
     }
   },
   {
@@ -5674,7 +6146,8 @@
     "properties": {
     "LGA_NAME":"SWAN HILL",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":26
+    "Casualty":26,
+    "Day":"Sun"
     }
   },
   {
@@ -5686,7 +6159,8 @@
     "properties": {
     "LGA_NAME":"SWAN HILL",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":37
+    "Casualty":37,
+    "Day":"Thu"
     }
   },
   {
@@ -5698,7 +6172,8 @@
     "properties": {
     "LGA_NAME":"SWAN HILL",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":38
+    "Casualty":38,
+    "Day":"Tue"
     }
   },
   {
@@ -5710,7 +6185,8 @@
     "properties": {
     "LGA_NAME":"SWAN HILL",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":38
+    "Casualty":38,
+    "Day":"Wed"
     }
   },
   {
@@ -5722,7 +6198,8 @@
     "properties": {
     "LGA_NAME":"TOWONG",
     "DAY_OF_WEE":"Friday",
-    "Casualty":30
+    "Casualty":30,
+    "Day":"Fri"
     }
   },
   {
@@ -5734,7 +6211,8 @@
     "properties": {
     "LGA_NAME":"TOWONG",
     "DAY_OF_WEE":"Monday",
-    "Casualty":19
+    "Casualty":19,
+    "Day":"Mon"
     }
   },
   {
@@ -5746,7 +6224,8 @@
     "properties": {
     "LGA_NAME":"TOWONG",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":30
+    "Casualty":30,
+    "Day":"Sat"
     }
   },
   {
@@ -5758,7 +6237,8 @@
     "properties": {
     "LGA_NAME":"TOWONG",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":29
+    "Casualty":29,
+    "Day":"Sun"
     }
   },
   {
@@ -5770,7 +6250,8 @@
     "properties": {
     "LGA_NAME":"TOWONG",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":15
+    "Casualty":15,
+    "Day":"Thu"
     }
   },
   {
@@ -5782,7 +6263,8 @@
     "properties": {
     "LGA_NAME":"TOWONG",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":29
+    "Casualty":29,
+    "Day":"Tue"
     }
   },
   {
@@ -5794,7 +6276,8 @@
     "properties": {
     "LGA_NAME":"TOWONG",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":23
+    "Casualty":23,
+    "Day":"Wed"
     }
   },
   {
@@ -5806,7 +6289,8 @@
     "properties": {
     "LGA_NAME":"WANGARATTA",
     "DAY_OF_WEE":"Friday",
-    "Casualty":77
+    "Casualty":77,
+    "Day":"Fri"
     }
   },
   {
@@ -5818,7 +6302,8 @@
     "properties": {
     "LGA_NAME":"WANGARATTA",
     "DAY_OF_WEE":"Monday",
-    "Casualty":62
+    "Casualty":62,
+    "Day":"Mon"
     }
   },
   {
@@ -5830,7 +6315,8 @@
     "properties": {
     "LGA_NAME":"WANGARATTA",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":47
+    "Casualty":47,
+    "Day":"Sat"
     }
   },
   {
@@ -5842,7 +6328,8 @@
     "properties": {
     "LGA_NAME":"WANGARATTA",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":44
+    "Casualty":44,
+    "Day":"Sun"
     }
   },
   {
@@ -5854,7 +6341,8 @@
     "properties": {
     "LGA_NAME":"WANGARATTA",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":54
+    "Casualty":54,
+    "Day":"Thu"
     }
   },
   {
@@ -5866,7 +6354,8 @@
     "properties": {
     "LGA_NAME":"WANGARATTA",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":52
+    "Casualty":52,
+    "Day":"Tue"
     }
   },
   {
@@ -5878,7 +6367,8 @@
     "properties": {
     "LGA_NAME":"WANGARATTA",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":52
+    "Casualty":52,
+    "Day":"Wed"
     }
   },
   {
@@ -5890,7 +6380,8 @@
     "properties": {
     "LGA_NAME":"WARRNAMBOOL",
     "DAY_OF_WEE":"Friday",
-    "Casualty":37
+    "Casualty":37,
+    "Day":"Fri"
     }
   },
   {
@@ -5902,7 +6393,8 @@
     "properties": {
     "LGA_NAME":"WARRNAMBOOL",
     "DAY_OF_WEE":"Monday",
-    "Casualty":44
+    "Casualty":44,
+    "Day":"Mon"
     }
   },
   {
@@ -5914,7 +6406,8 @@
     "properties": {
     "LGA_NAME":"WARRNAMBOOL",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":31
+    "Casualty":31,
+    "Day":"Sat"
     }
   },
   {
@@ -5926,7 +6419,8 @@
     "properties": {
     "LGA_NAME":"WARRNAMBOOL",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":45
+    "Casualty":45,
+    "Day":"Sun"
     }
   },
   {
@@ -5938,7 +6432,8 @@
     "properties": {
     "LGA_NAME":"WARRNAMBOOL",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":61
+    "Casualty":61,
+    "Day":"Thu"
     }
   },
   {
@@ -5950,7 +6445,8 @@
     "properties": {
     "LGA_NAME":"WARRNAMBOOL",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":56
+    "Casualty":56,
+    "Day":"Tue"
     }
   },
   {
@@ -5962,7 +6458,8 @@
     "properties": {
     "LGA_NAME":"WARRNAMBOOL",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":49
+    "Casualty":49,
+    "Day":"Wed"
     }
   },
   {
@@ -5974,7 +6471,8 @@
     "properties": {
     "LGA_NAME":"WELLINGTON",
     "DAY_OF_WEE":"Friday",
-    "Casualty":124
+    "Casualty":124,
+    "Day":"Fri"
     }
   },
   {
@@ -5986,7 +6484,8 @@
     "properties": {
     "LGA_NAME":"WELLINGTON",
     "DAY_OF_WEE":"Monday",
-    "Casualty":98
+    "Casualty":98,
+    "Day":"Mon"
     }
   },
   {
@@ -5998,7 +6497,8 @@
     "properties": {
     "LGA_NAME":"WELLINGTON",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":89
+    "Casualty":89,
+    "Day":"Sat"
     }
   },
   {
@@ -6010,7 +6510,8 @@
     "properties": {
     "LGA_NAME":"WELLINGTON",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":128
+    "Casualty":128,
+    "Day":"Sun"
     }
   },
   {
@@ -6022,7 +6523,8 @@
     "properties": {
     "LGA_NAME":"WELLINGTON",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":102
+    "Casualty":102,
+    "Day":"Thu"
     }
   },
   {
@@ -6034,7 +6536,8 @@
     "properties": {
     "LGA_NAME":"WELLINGTON",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":101
+    "Casualty":101,
+    "Day":"Tue"
     }
   },
   {
@@ -6046,7 +6549,8 @@
     "properties": {
     "LGA_NAME":"WELLINGTON",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":89
+    "Casualty":89,
+    "Day":"Wed"
     }
   },
   {
@@ -6058,7 +6562,8 @@
     "properties": {
     "LGA_NAME":"WEST WIMMERA",
     "DAY_OF_WEE":"Friday",
-    "Casualty":16
+    "Casualty":16,
+    "Day":"Fri"
     }
   },
   {
@@ -6070,7 +6575,8 @@
     "properties": {
     "LGA_NAME":"WEST WIMMERA",
     "DAY_OF_WEE":"Monday",
-    "Casualty":7
+    "Casualty":7,
+    "Day":"Mon"
     }
   },
   {
@@ -6082,7 +6588,8 @@
     "properties": {
     "LGA_NAME":"WEST WIMMERA",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":9
+    "Casualty":9,
+    "Day":"Sat"
     }
   },
   {
@@ -6094,7 +6601,8 @@
     "properties": {
     "LGA_NAME":"WEST WIMMERA",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":11
+    "Casualty":11,
+    "Day":"Sun"
     }
   },
   {
@@ -6106,7 +6614,8 @@
     "properties": {
     "LGA_NAME":"WEST WIMMERA",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":7
+    "Casualty":7,
+    "Day":"Thu"
     }
   },
   {
@@ -6118,7 +6627,8 @@
     "properties": {
     "LGA_NAME":"WEST WIMMERA",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":14
+    "Casualty":14,
+    "Day":"Tue"
     }
   },
   {
@@ -6130,7 +6640,8 @@
     "properties": {
     "LGA_NAME":"WEST WIMMERA",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":12
+    "Casualty":12,
+    "Day":"Wed"
     }
   },
   {
@@ -6142,7 +6653,8 @@
     "properties": {
     "LGA_NAME":"WHITEHORSE",
     "DAY_OF_WEE":"Friday",
-    "Casualty":224
+    "Casualty":224,
+    "Day":"Fri"
     }
   },
   {
@@ -6154,7 +6666,8 @@
     "properties": {
     "LGA_NAME":"WHITEHORSE",
     "DAY_OF_WEE":"Monday",
-    "Casualty":214
+    "Casualty":214,
+    "Day":"Mon"
     }
   },
   {
@@ -6166,7 +6679,8 @@
     "properties": {
     "LGA_NAME":"WHITEHORSE",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":161
+    "Casualty":161,
+    "Day":"Sat"
     }
   },
   {
@@ -6178,7 +6692,8 @@
     "properties": {
     "LGA_NAME":"WHITEHORSE",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":179
+    "Casualty":179,
+    "Day":"Sun"
     }
   },
   {
@@ -6190,7 +6705,8 @@
     "properties": {
     "LGA_NAME":"WHITEHORSE",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":249
+    "Casualty":249,
+    "Day":"Thu"
     }
   },
   {
@@ -6202,7 +6718,8 @@
     "properties": {
     "LGA_NAME":"WHITEHORSE",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":231
+    "Casualty":231,
+    "Day":"Tue"
     }
   },
   {
@@ -6214,7 +6731,8 @@
     "properties": {
     "LGA_NAME":"WHITEHORSE",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":249
+    "Casualty":249,
+    "Day":"Wed"
     }
   },
   {
@@ -6226,7 +6744,8 @@
     "properties": {
     "LGA_NAME":"WHITTLESEA",
     "DAY_OF_WEE":"Friday",
-    "Casualty":322
+    "Casualty":322,
+    "Day":"Fri"
     }
   },
   {
@@ -6238,7 +6757,8 @@
     "properties": {
     "LGA_NAME":"WHITTLESEA",
     "DAY_OF_WEE":"Monday",
-    "Casualty":309
+    "Casualty":309,
+    "Day":"Mon"
     }
   },
   {
@@ -6250,7 +6770,8 @@
     "properties": {
     "LGA_NAME":"WHITTLESEA",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":199
+    "Casualty":199,
+    "Day":"Sat"
     }
   },
   {
@@ -6262,7 +6783,8 @@
     "properties": {
     "LGA_NAME":"WHITTLESEA",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":275
+    "Casualty":275,
+    "Day":"Sun"
     }
   },
   {
@@ -6274,7 +6796,8 @@
     "properties": {
     "LGA_NAME":"WHITTLESEA",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":334
+    "Casualty":334,
+    "Day":"Thu"
     }
   },
   {
@@ -6286,7 +6809,8 @@
     "properties": {
     "LGA_NAME":"WHITTLESEA",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":320
+    "Casualty":320,
+    "Day":"Tue"
     }
   },
   {
@@ -6298,7 +6822,8 @@
     "properties": {
     "LGA_NAME":"WHITTLESEA",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":361
+    "Casualty":361,
+    "Day":"Wed"
     }
   },
   {
@@ -6310,7 +6835,8 @@
     "properties": {
     "LGA_NAME":"WODONGA",
     "DAY_OF_WEE":"Friday",
-    "Casualty":48
+    "Casualty":48,
+    "Day":"Fri"
     }
   },
   {
@@ -6322,7 +6848,8 @@
     "properties": {
     "LGA_NAME":"WODONGA",
     "DAY_OF_WEE":"Monday",
-    "Casualty":59
+    "Casualty":59,
+    "Day":"Mon"
     }
   },
   {
@@ -6334,7 +6861,8 @@
     "properties": {
     "LGA_NAME":"WODONGA",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":27
+    "Casualty":27,
+    "Day":"Sat"
     }
   },
   {
@@ -6346,7 +6874,8 @@
     "properties": {
     "LGA_NAME":"WODONGA",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":33
+    "Casualty":33,
+    "Day":"Sun"
     }
   },
   {
@@ -6358,7 +6887,8 @@
     "properties": {
     "LGA_NAME":"WODONGA",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":38
+    "Casualty":38,
+    "Day":"Thu"
     }
   },
   {
@@ -6370,7 +6900,8 @@
     "properties": {
     "LGA_NAME":"WODONGA",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":56
+    "Casualty":56,
+    "Day":"Tue"
     }
   },
   {
@@ -6382,7 +6913,8 @@
     "properties": {
     "LGA_NAME":"WODONGA",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":49
+    "Casualty":49,
+    "Day":"Wed"
     }
   },
   {
@@ -6394,7 +6926,8 @@
     "properties": {
     "LGA_NAME":"WYNDHAM",
     "DAY_OF_WEE":"Friday",
-    "Casualty":281
+    "Casualty":281,
+    "Day":"Fri"
     }
   },
   {
@@ -6406,7 +6939,8 @@
     "properties": {
     "LGA_NAME":"WYNDHAM",
     "DAY_OF_WEE":"Monday",
-    "Casualty":277
+    "Casualty":277,
+    "Day":"Mon"
     }
   },
   {
@@ -6418,7 +6952,8 @@
     "properties": {
     "LGA_NAME":"WYNDHAM",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":163
+    "Casualty":163,
+    "Day":"Sat"
     }
   },
   {
@@ -6430,7 +6965,8 @@
     "properties": {
     "LGA_NAME":"WYNDHAM",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":193
+    "Casualty":193,
+    "Day":"Sun"
     }
   },
   {
@@ -6442,7 +6978,8 @@
     "properties": {
     "LGA_NAME":"WYNDHAM",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":266
+    "Casualty":266,
+    "Day":"Thu"
     }
   },
   {
@@ -6454,7 +6991,8 @@
     "properties": {
     "LGA_NAME":"WYNDHAM",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":273
+    "Casualty":273,
+    "Day":"Tue"
     }
   },
   {
@@ -6466,7 +7004,8 @@
     "properties": {
     "LGA_NAME":"WYNDHAM",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":312
+    "Casualty":312,
+    "Day":"Wed"
     }
   },
   {
@@ -6478,7 +7017,8 @@
     "properties": {
     "LGA_NAME":"YARRA",
     "DAY_OF_WEE":"Friday",
-    "Casualty":246
+    "Casualty":246,
+    "Day":"Fri"
     }
   },
   {
@@ -6490,7 +7030,8 @@
     "properties": {
     "LGA_NAME":"YARRA",
     "DAY_OF_WEE":"Monday",
-    "Casualty":265
+    "Casualty":265,
+    "Day":"Mon"
     }
   },
   {
@@ -6502,7 +7043,8 @@
     "properties": {
     "LGA_NAME":"YARRA",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":130
+    "Casualty":130,
+    "Day":"Sat"
     }
   },
   {
@@ -6514,7 +7056,8 @@
     "properties": {
     "LGA_NAME":"YARRA",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":180
+    "Casualty":180,
+    "Day":"Sun"
     }
   },
   {
@@ -6526,7 +7069,8 @@
     "properties": {
     "LGA_NAME":"YARRA",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":304
+    "Casualty":304,
+    "Day":"Thu"
     }
   },
   {
@@ -6538,7 +7082,8 @@
     "properties": {
     "LGA_NAME":"YARRA",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":273
+    "Casualty":273,
+    "Day":"Tue"
     }
   },
   {
@@ -6550,7 +7095,8 @@
     "properties": {
     "LGA_NAME":"YARRA",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":272
+    "Casualty":272,
+    "Day":"Wed"
     }
   },
   {
@@ -6562,7 +7108,8 @@
     "properties": {
     "LGA_NAME":"YARRA RANGES",
     "DAY_OF_WEE":"Friday",
-    "Casualty":332
+    "Casualty":332,
+    "Day":"Fri"
     }
   },
   {
@@ -6574,7 +7121,8 @@
     "properties": {
     "LGA_NAME":"YARRA RANGES",
     "DAY_OF_WEE":"Monday",
-    "Casualty":265
+    "Casualty":265,
+    "Day":"Mon"
     }
   },
   {
@@ -6586,7 +7134,8 @@
     "properties": {
     "LGA_NAME":"YARRA RANGES",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":247
+    "Casualty":247,
+    "Day":"Sat"
     }
   },
   {
@@ -6598,7 +7147,8 @@
     "properties": {
     "LGA_NAME":"YARRA RANGES",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":366
+    "Casualty":366,
+    "Day":"Sun"
     }
   },
   {
@@ -6610,7 +7160,8 @@
     "properties": {
     "LGA_NAME":"YARRA RANGES",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":259
+    "Casualty":259,
+    "Day":"Thu"
     }
   },
   {
@@ -6622,7 +7173,8 @@
     "properties": {
     "LGA_NAME":"YARRA RANGES",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":285
+    "Casualty":285,
+    "Day":"Tue"
     }
   },
   {
@@ -6634,7 +7186,8 @@
     "properties": {
     "LGA_NAME":"YARRA RANGES",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":276
+    "Casualty":276,
+    "Day":"Wed"
     }
   },
   {
@@ -6646,7 +7199,8 @@
     "properties": {
     "LGA_NAME":"YARRIAMBIACK",
     "DAY_OF_WEE":"Friday",
-    "Casualty":8
+    "Casualty":8,
+    "Day":"Fri"
     }
   },
   {
@@ -6658,7 +7212,8 @@
     "properties": {
     "LGA_NAME":"YARRIAMBIACK",
     "DAY_OF_WEE":"Monday",
-    "Casualty":3
+    "Casualty":3,
+    "Day":"Mon"
     }
   },
   {
@@ -6670,7 +7225,8 @@
     "properties": {
     "LGA_NAME":"YARRIAMBIACK",
     "DAY_OF_WEE":"Saturday",
-    "Casualty":9
+    "Casualty":9,
+    "Day":"Sat"
     }
   },
   {
@@ -6682,7 +7238,8 @@
     "properties": {
     "LGA_NAME":"YARRIAMBIACK",
     "DAY_OF_WEE":"Sunday",
-    "Casualty":13
+    "Casualty":13,
+    "Day":"Sun"
     }
   },
   {
@@ -6694,7 +7251,8 @@
     "properties": {
     "LGA_NAME":"YARRIAMBIACK",
     "DAY_OF_WEE":"Thursday",
-    "Casualty":9
+    "Casualty":9,
+    "Day":"Thu"
     }
   },
   {
@@ -6706,7 +7264,8 @@
     "properties": {
     "LGA_NAME":"YARRIAMBIACK",
     "DAY_OF_WEE":"Tuesday",
-    "Casualty":13
+    "Casualty":13,
+    "Day":"Tue"
     }
   },
   {
@@ -6718,7 +7277,8 @@
     "properties": {
     "LGA_NAME":"YARRIAMBIACK",
     "DAY_OF_WEE":"Wednesday",
-    "Casualty":6
+    "Casualty":6,
+    "Day":"Wed"
     }
   }
 ]
