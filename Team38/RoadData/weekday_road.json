@@ -1,0 +1,6725 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.0371073,-36.41301369 ]
+    },
+    "properties": {
+    "LGA_NAME":"ALPINE",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":61
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.0371073,-36.41301369 ]
+    },
+    "properties": {
+    "LGA_NAME":"ALPINE",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.0371073,-36.41301369 ]
+    },
+    "properties": {
+    "LGA_NAME":"ALPINE",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":56
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.0371073,-36.41301369 ]
+    },
+    "properties": {
+    "LGA_NAME":"ALPINE",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":67
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.0371073,-36.41301369 ]
+    },
+    "properties": {
+    "LGA_NAME":"ALPINE",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.0371073,-36.41301369 ]
+    },
+    "properties": {
+    "LGA_NAME":"ALPINE",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.0371073,-36.41301369 ]
+    },
+    "properties": {
+    "LGA_NAME":"ALPINE",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.8844702,-37.20501458 ]
+    },
+    "properties": {
+    "LGA_NAME":"ARARAT",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":37
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.8844702,-37.20501458 ]
+    },
+    "properties": {
+    "LGA_NAME":"ARARAT",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.8844702,-37.20501458 ]
+    },
+    "properties": {
+    "LGA_NAME":"ARARAT",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.8844702,-37.20501458 ]
+    },
+    "properties": {
+    "LGA_NAME":"ARARAT",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.8844702,-37.20501458 ]
+    },
+    "properties": {
+    "LGA_NAME":"ARARAT",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":32
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.8844702,-37.20501458 ]
+    },
+    "properties": {
+    "LGA_NAME":"ARARAT",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.8844702,-37.20501458 ]
+    },
+    "properties": {
+    "LGA_NAME":"ARARAT",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.8575051,-37.56339464 ]
+    },
+    "properties": {
+    "LGA_NAME":"BALLARAT",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":209
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.8575051,-37.56339464 ]
+    },
+    "properties": {
+    "LGA_NAME":"BALLARAT",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":221
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.8575051,-37.56339464 ]
+    },
+    "properties": {
+    "LGA_NAME":"BALLARAT",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":124
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.8575051,-37.56339464 ]
+    },
+    "properties": {
+    "LGA_NAME":"BALLARAT",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":155
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.8575051,-37.56339464 ]
+    },
+    "properties": {
+    "LGA_NAME":"BALLARAT",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":231
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.8575051,-37.56339464 ]
+    },
+    "properties": {
+    "LGA_NAME":"BALLARAT",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":222
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.8575051,-37.56339464 ]
+    },
+    "properties": {
+    "LGA_NAME":"BALLARAT",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":196
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.069526,-37.757163 ]
+    },
+    "properties": {
+    "LGA_NAME":"BANYULE",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":176
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.069526,-37.757163 ]
+    },
+    "properties": {
+    "LGA_NAME":"BANYULE",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":157
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.069526,-37.757163 ]
+    },
+    "properties": {
+    "LGA_NAME":"BANYULE",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":86
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.069526,-37.757163 ]
+    },
+    "properties": {
+    "LGA_NAME":"BANYULE",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":105
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.069526,-37.757163 ]
+    },
+    "properties": {
+    "LGA_NAME":"BANYULE",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":172
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.069526,-37.757163 ]
+    },
+    "properties": {
+    "LGA_NAME":"BANYULE",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":201
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.069526,-37.757163 ]
+    },
+    "properties": {
+    "LGA_NAME":"BANYULE",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":174
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.2389662,-38.45485379 ]
+    },
+    "properties": {
+    "LGA_NAME":"BASS COAST",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":60
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.2389662,-38.45485379 ]
+    },
+    "properties": {
+    "LGA_NAME":"BASS COAST",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":62
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.2389662,-38.45485379 ]
+    },
+    "properties": {
+    "LGA_NAME":"BASS COAST",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":51
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.2389662,-38.45485379 ]
+    },
+    "properties": {
+    "LGA_NAME":"BASS COAST",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":70
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.2389662,-38.45485379 ]
+    },
+    "properties": {
+    "LGA_NAME":"BASS COAST",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":64
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.2389662,-38.45485379 ]
+    },
+    "properties": {
+    "LGA_NAME":"BASS COAST",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":48
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.2389662,-38.45485379 ]
+    },
+    "properties": {
+    "LGA_NAME":"BASS COAST",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":61
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.165036,-38.28783315 ]
+    },
+    "properties": {
+    "LGA_NAME":"BAW BAW",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":145
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.165036,-38.28783315 ]
+    },
+    "properties": {
+    "LGA_NAME":"BAW BAW",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":119
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.165036,-38.28783315 ]
+    },
+    "properties": {
+    "LGA_NAME":"BAW BAW",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":151
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.165036,-38.28783315 ]
+    },
+    "properties": {
+    "LGA_NAME":"BAW BAW",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":185
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.165036,-38.28783315 ]
+    },
+    "properties": {
+    "LGA_NAME":"BAW BAW",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":112
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.165036,-38.28783315 ]
+    },
+    "properties": {
+    "LGA_NAME":"BAW BAW",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":106
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.165036,-38.28783315 ]
+    },
+    "properties": {
+    "LGA_NAME":"BAW BAW",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":93
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9971902,-37.93608653 ]
+    },
+    "properties": {
+    "LGA_NAME":"BAYSIDE",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":147
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9971902,-37.93608653 ]
+    },
+    "properties": {
+    "LGA_NAME":"BAYSIDE",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":113
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9971902,-37.93608653 ]
+    },
+    "properties": {
+    "LGA_NAME":"BAYSIDE",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":86
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9971902,-37.93608653 ]
+    },
+    "properties": {
+    "LGA_NAME":"BAYSIDE",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":99
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9971902,-37.93608653 ]
+    },
+    "properties": {
+    "LGA_NAME":"BAYSIDE",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":160
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9971902,-37.93608653 ]
+    },
+    "properties": {
+    "LGA_NAME":"BAYSIDE",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":116
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9971902,-37.93608653 ]
+    },
+    "properties": {
+    "LGA_NAME":"BAYSIDE",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":145
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.1584428,-36.3062912 ]
+    },
+    "properties": {
+    "LGA_NAME":"BENALLA",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":47
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.1584428,-36.3062912 ]
+    },
+    "properties": {
+    "LGA_NAME":"BENALLA",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":30
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.1584428,-36.3062912 ]
+    },
+    "properties": {
+    "LGA_NAME":"BENALLA",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":30
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.1584428,-36.3062912 ]
+    },
+    "properties": {
+    "LGA_NAME":"BENALLA",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":37
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.1584428,-36.3062912 ]
+    },
+    "properties": {
+    "LGA_NAME":"BENALLA",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.1584428,-36.3062912 ]
+    },
+    "properties": {
+    "LGA_NAME":"BENALLA",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.1584428,-36.3062912 ]
+    },
+    "properties": {
+    "LGA_NAME":"BENALLA",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.2635405,-36.75373965 ]
+    },
+    "properties": {
+    "LGA_NAME":"BENDIGO",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":209
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.2635405,-36.75373965 ]
+    },
+    "properties": {
+    "LGA_NAME":"BENDIGO",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":224
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.2635405,-36.75373965 ]
+    },
+    "properties": {
+    "LGA_NAME":"BENDIGO",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":148
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.2635405,-36.75373965 ]
+    },
+    "properties": {
+    "LGA_NAME":"BENDIGO",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":194
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.2635405,-36.75373965 ]
+    },
+    "properties": {
+    "LGA_NAME":"BENDIGO",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":221
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.2635405,-36.75373965 ]
+    },
+    "properties": {
+    "LGA_NAME":"BENDIGO",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":210
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.2635405,-36.75373965 ]
+    },
+    "properties": {
+    "LGA_NAME":"BENDIGO",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":189
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.0527443,-37.79952672 ]
+    },
+    "properties": {
+    "LGA_NAME":"BOROONDARA",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":235
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.0527443,-37.79952672 ]
+    },
+    "properties": {
+    "LGA_NAME":"BOROONDARA",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":235
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.0527443,-37.79952672 ]
+    },
+    "properties": {
+    "LGA_NAME":"BOROONDARA",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":119
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.0527443,-37.79952672 ]
+    },
+    "properties": {
+    "LGA_NAME":"BOROONDARA",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":144
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.0527443,-37.79952672 ]
+    },
+    "properties": {
+    "LGA_NAME":"BOROONDARA",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":259
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.0527443,-37.79952672 ]
+    },
+    "properties": {
+    "LGA_NAME":"BOROONDARA",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":254
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.0527443,-37.79952672 ]
+    },
+    "properties": {
+    "LGA_NAME":"BOROONDARA",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":265
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.83101,-37.77544308 ]
+    },
+    "properties": {
+    "LGA_NAME":"BRIMBANK",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":325
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.83101,-37.77544308 ]
+    },
+    "properties": {
+    "LGA_NAME":"BRIMBANK",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":299
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.83101,-37.77544308 ]
+    },
+    "properties": {
+    "LGA_NAME":"BRIMBANK",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":185
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.83101,-37.77544308 ]
+    },
+    "properties": {
+    "LGA_NAME":"BRIMBANK",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":274
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.83101,-37.77544308 ]
+    },
+    "properties": {
+    "LGA_NAME":"BRIMBANK",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":346
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.83101,-37.77544308 ]
+    },
+    "properties": {
+    "LGA_NAME":"BRIMBANK",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":365
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.83101,-37.77544308 ]
+    },
+    "properties": {
+    "LGA_NAME":"BRIMBANK",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":361
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1,-1 ]
+    },
+    "properties": {
+    "LGA_NAME":"BULOKE",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1,-1 ]
+    },
+    "properties": {
+    "LGA_NAME":"BULOKE",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1,-1 ]
+    },
+    "properties": {
+    "LGA_NAME":"BULOKE",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1,-1 ]
+    },
+    "properties": {
+    "LGA_NAME":"BULOKE",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1,-1 ]
+    },
+    "properties": {
+    "LGA_NAME":"BULOKE",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1,-1 ]
+    },
+    "properties": {
+    "LGA_NAME":"BULOKE",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1,-1 ]
+    },
+    "properties": {
+    "LGA_NAME":"BULOKE",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.7546778,-36.15165102 ]
+    },
+    "properties": {
+    "LGA_NAME":"CAMPASPE",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":85
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.7546778,-36.15165102 ]
+    },
+    "properties": {
+    "LGA_NAME":"CAMPASPE",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":63
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.7546778,-36.15165102 ]
+    },
+    "properties": {
+    "LGA_NAME":"CAMPASPE",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":53
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.7546778,-36.15165102 ]
+    },
+    "properties": {
+    "LGA_NAME":"CAMPASPE",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":63
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.7546778,-36.15165102 ]
+    },
+    "properties": {
+    "LGA_NAME":"CAMPASPE",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":71
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.7546778,-36.15165102 ]
+    },
+    "properties": {
+    "LGA_NAME":"CAMPASPE",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":77
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.7546778,-36.15165102 ]
+    },
+    "properties": {
+    "LGA_NAME":"CAMPASPE",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":67
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.4939934,-38.02874783 ]
+    },
+    "properties": {
+    "LGA_NAME":"CARDINIA",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":165
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.4939934,-38.02874783 ]
+    },
+    "properties": {
+    "LGA_NAME":"CARDINIA",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":167
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.4939934,-38.02874783 ]
+    },
+    "properties": {
+    "LGA_NAME":"CARDINIA",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":129
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.4939934,-38.02874783 ]
+    },
+    "properties": {
+    "LGA_NAME":"CARDINIA",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":186
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.4939934,-38.02874783 ]
+    },
+    "properties": {
+    "LGA_NAME":"CARDINIA",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":176
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.4939934,-38.02874783 ]
+    },
+    "properties": {
+    "LGA_NAME":"CARDINIA",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":148
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.4939934,-38.02874783 ]
+    },
+    "properties": {
+    "LGA_NAME":"CARDINIA",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":175
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.2372195,-37.97120886 ]
+    },
+    "properties": {
+    "LGA_NAME":"CASEY",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":507
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.2372195,-37.97120886 ]
+    },
+    "properties": {
+    "LGA_NAME":"CASEY",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":459
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.2372195,-37.97120886 ]
+    },
+    "properties": {
+    "LGA_NAME":"CASEY",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":302
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.2372195,-37.97120886 ]
+    },
+    "properties": {
+    "LGA_NAME":"CASEY",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":372
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.2372195,-37.97120886 ]
+    },
+    "properties": {
+    "LGA_NAME":"CASEY",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":494
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.2372195,-37.97120886 ]
+    },
+    "properties": {
+    "LGA_NAME":"CASEY",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":458
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.2372195,-37.97120886 ]
+    },
+    "properties": {
+    "LGA_NAME":"CASEY",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":440
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.7810853,-37.04822709 ]
+    },
+    "properties": {
+    "LGA_NAME":"CENTRAL GOLDFIELDS",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.7810853,-37.04822709 ]
+    },
+    "properties": {
+    "LGA_NAME":"CENTRAL GOLDFIELDS",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.7810853,-37.04822709 ]
+    },
+    "properties": {
+    "LGA_NAME":"CENTRAL GOLDFIELDS",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.7810853,-37.04822709 ]
+    },
+    "properties": {
+    "LGA_NAME":"CENTRAL GOLDFIELDS",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.7810853,-37.04822709 ]
+    },
+    "properties": {
+    "LGA_NAME":"CENTRAL GOLDFIELDS",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.7810853,-37.04822709 ]
+    },
+    "properties": {
+    "LGA_NAME":"CENTRAL GOLDFIELDS",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.7810853,-37.04822709 ]
+    },
+    "properties": {
+    "LGA_NAME":"CENTRAL GOLDFIELDS",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.7909977,-38.07295833 ]
+    },
+    "properties": {
+    "LGA_NAME":"COLAC OTWAY",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":72
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.7909977,-38.07295833 ]
+    },
+    "properties": {
+    "LGA_NAME":"COLAC OTWAY",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":60
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.7909977,-38.07295833 ]
+    },
+    "properties": {
+    "LGA_NAME":"COLAC OTWAY",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":62
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.7909977,-38.07295833 ]
+    },
+    "properties": {
+    "LGA_NAME":"COLAC OTWAY",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":86
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.7909977,-38.07295833 ]
+    },
+    "properties": {
+    "LGA_NAME":"COLAC OTWAY",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":70
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.7909977,-38.07295833 ]
+    },
+    "properties": {
+    "LGA_NAME":"COLAC OTWAY",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":62
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.7909977,-38.07295833 ]
+    },
+    "properties": {
+    "LGA_NAME":"COLAC OTWAY",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":48
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.5867301,-38.34036701 ]
+    },
+    "properties": {
+    "LGA_NAME":"COLAC-OTWAY",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.5867301,-38.34036701 ]
+    },
+    "properties": {
+    "LGA_NAME":"COLAC-OTWAY",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.5867301,-38.34036701 ]
+    },
+    "properties": {
+    "LGA_NAME":"COLAC-OTWAY",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.5867301,-38.34036701 ]
+    },
+    "properties": {
+    "LGA_NAME":"COLAC-OTWAY",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.5867301,-38.34036701 ]
+    },
+    "properties": {
+    "LGA_NAME":"COLAC-OTWAY",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.2511056,-38.01585656 ]
+    },
+    "properties": {
+    "LGA_NAME":"CORANGAMITE",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":46
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.2511056,-38.01585656 ]
+    },
+    "properties": {
+    "LGA_NAME":"CORANGAMITE",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":43
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.2511056,-38.01585656 ]
+    },
+    "properties": {
+    "LGA_NAME":"CORANGAMITE",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":38
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.2511056,-38.01585656 ]
+    },
+    "properties": {
+    "LGA_NAME":"CORANGAMITE",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.2511056,-38.01585656 ]
+    },
+    "properties": {
+    "LGA_NAME":"CORANGAMITE",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":40
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.2511056,-38.01585656 ]
+    },
+    "properties": {
+    "LGA_NAME":"CORANGAMITE",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":33
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.2511056,-38.01585656 ]
+    },
+    "properties": {
+    "LGA_NAME":"CORANGAMITE",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":33
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.188348,-37.99335596 ]
+    },
+    "properties": {
+    "LGA_NAME":"DANDENONG",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":361
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.188348,-37.99335596 ]
+    },
+    "properties": {
+    "LGA_NAME":"DANDENONG",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":371
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.188348,-37.99335596 ]
+    },
+    "properties": {
+    "LGA_NAME":"DANDENONG",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":228
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.188348,-37.99335596 ]
+    },
+    "properties": {
+    "LGA_NAME":"DANDENONG",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":293
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.188348,-37.99335596 ]
+    },
+    "properties": {
+    "LGA_NAME":"DANDENONG",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":376
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.188348,-37.99335596 ]
+    },
+    "properties": {
+    "LGA_NAME":"DANDENONG",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":388
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.188348,-37.99335596 ]
+    },
+    "properties": {
+    "LGA_NAME":"DANDENONG",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":401
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.0185921,-37.77625666 ]
+    },
+    "properties": {
+    "LGA_NAME":"DAREBIN",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":281
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.0185921,-37.77625666 ]
+    },
+    "properties": {
+    "LGA_NAME":"DAREBIN",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":255
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.0185921,-37.77625666 ]
+    },
+    "properties": {
+    "LGA_NAME":"DAREBIN",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":175
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.0185921,-37.77625666 ]
+    },
+    "properties": {
+    "LGA_NAME":"DAREBIN",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":188
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.0185921,-37.77625666 ]
+    },
+    "properties": {
+    "LGA_NAME":"DAREBIN",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":306
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.0185921,-37.77625666 ]
+    },
+    "properties": {
+    "LGA_NAME":"DAREBIN",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":307
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.0185921,-37.77625666 ]
+    },
+    "properties": {
+    "LGA_NAME":"DAREBIN",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":281
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.6095264,-37.81894471 ]
+    },
+    "properties": {
+    "LGA_NAME":"EAST GIPPSLAND",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":133
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.6095264,-37.81894471 ]
+    },
+    "properties": {
+    "LGA_NAME":"EAST GIPPSLAND",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":82
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.6095264,-37.81894471 ]
+    },
+    "properties": {
+    "LGA_NAME":"EAST GIPPSLAND",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":86
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.6095264,-37.81894471 ]
+    },
+    "properties": {
+    "LGA_NAME":"EAST GIPPSLAND",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":115
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.6095264,-37.81894471 ]
+    },
+    "properties": {
+    "LGA_NAME":"EAST GIPPSLAND",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":109
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.6095264,-37.81894471 ]
+    },
+    "properties": {
+    "LGA_NAME":"EAST GIPPSLAND",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.6095264,-37.81894471 ]
+    },
+    "properties": {
+    "LGA_NAME":"EAST GIPPSLAND",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":90
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.1721196,-38.08605688 ]
+    },
+    "properties": {
+    "LGA_NAME":"FRANKSTON",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":214
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.1721196,-38.08605688 ]
+    },
+    "properties": {
+    "LGA_NAME":"FRANKSTON",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":176
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.1721196,-38.08605688 ]
+    },
+    "properties": {
+    "LGA_NAME":"FRANKSTON",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":122
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.1721196,-38.08605688 ]
+    },
+    "properties": {
+    "LGA_NAME":"FRANKSTON",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":151
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.1721196,-38.08605688 ]
+    },
+    "properties": {
+    "LGA_NAME":"FRANKSTON",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":221
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.1721196,-38.08605688 ]
+    },
+    "properties": {
+    "LGA_NAME":"FRANKSTON",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":185
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.1721196,-38.08605688 ]
+    },
+    "properties": {
+    "LGA_NAME":"FRANKSTON",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":191
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.40871,-35.88699462 ]
+    },
+    "properties": {
+    "LGA_NAME":"GANNAWARRA",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.40871,-35.88699462 ]
+    },
+    "properties": {
+    "LGA_NAME":"GANNAWARRA",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.40871,-35.88699462 ]
+    },
+    "properties": {
+    "LGA_NAME":"GANNAWARRA",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.40871,-35.88699462 ]
+    },
+    "properties": {
+    "LGA_NAME":"GANNAWARRA",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.40871,-35.88699462 ]
+    },
+    "properties": {
+    "LGA_NAME":"GANNAWARRA",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.40871,-35.88699462 ]
+    },
+    "properties": {
+    "LGA_NAME":"GANNAWARRA",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.40871,-35.88699462 ]
+    },
+    "properties": {
+    "LGA_NAME":"GANNAWARRA",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.3684268,-38.17736877 ]
+    },
+    "properties": {
+    "LGA_NAME":"GEELONG",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":413
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.3684268,-38.17736877 ]
+    },
+    "properties": {
+    "LGA_NAME":"GEELONG",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":407
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.3684268,-38.17736877 ]
+    },
+    "properties": {
+    "LGA_NAME":"GEELONG",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":273
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.3684268,-38.17736877 ]
+    },
+    "properties": {
+    "LGA_NAME":"GEELONG",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":342
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.3684268,-38.17736877 ]
+    },
+    "properties": {
+    "LGA_NAME":"GEELONG",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":452
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.3684268,-38.17736877 ]
+    },
+    "properties": {
+    "LGA_NAME":"GEELONG",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":466
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.3684268,-38.17736877 ]
+    },
+    "properties": {
+    "LGA_NAME":"GEELONG",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":457
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.0151012,-37.88500672 ]
+    },
+    "properties": {
+    "LGA_NAME":"GLEN EIRA",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":226
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.0151012,-37.88500672 ]
+    },
+    "properties": {
+    "LGA_NAME":"GLEN EIRA",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":195
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.0151012,-37.88500672 ]
+    },
+    "properties": {
+    "LGA_NAME":"GLEN EIRA",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":111
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.0151012,-37.88500672 ]
+    },
+    "properties": {
+    "LGA_NAME":"GLEN EIRA",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":153
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.0151012,-37.88500672 ]
+    },
+    "properties": {
+    "LGA_NAME":"GLEN EIRA",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":219
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.0151012,-37.88500672 ]
+    },
+    "properties": {
+    "LGA_NAME":"GLEN EIRA",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":214
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.0151012,-37.88500672 ]
+    },
+    "properties": {
+    "LGA_NAME":"GLEN EIRA",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":216
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.610066,-38.38048573 ]
+    },
+    "properties": {
+    "LGA_NAME":"GLENELG",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":46
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.610066,-38.38048573 ]
+    },
+    "properties": {
+    "LGA_NAME":"GLENELG",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":32
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.610066,-38.38048573 ]
+    },
+    "properties": {
+    "LGA_NAME":"GLENELG",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.610066,-38.38048573 ]
+    },
+    "properties": {
+    "LGA_NAME":"GLENELG",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":45
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.610066,-38.38048573 ]
+    },
+    "properties": {
+    "LGA_NAME":"GLENELG",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":30
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.610066,-38.38048573 ]
+    },
+    "properties": {
+    "LGA_NAME":"GLENELG",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":33
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.610066,-38.38048573 ]
+    },
+    "properties": {
+    "LGA_NAME":"GLENELG",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":45
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.7075059,-37.55787691 ]
+    },
+    "properties": {
+    "LGA_NAME":"GOLDEN PLAINS",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":40
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.7075059,-37.55787691 ]
+    },
+    "properties": {
+    "LGA_NAME":"GOLDEN PLAINS",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":45
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.7075059,-37.55787691 ]
+    },
+    "properties": {
+    "LGA_NAME":"GOLDEN PLAINS",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":61
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.7075059,-37.55787691 ]
+    },
+    "properties": {
+    "LGA_NAME":"GOLDEN PLAINS",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":78
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.7075059,-37.55787691 ]
+    },
+    "properties": {
+    "LGA_NAME":"GOLDEN PLAINS",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":45
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.7075059,-37.55787691 ]
+    },
+    "properties": {
+    "LGA_NAME":"GOLDEN PLAINS",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":44
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.7075059,-37.55787691 ]
+    },
+    "properties": {
+    "LGA_NAME":"GOLDEN PLAINS",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":60
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.1405699,-37.30890314 ]
+    },
+    "properties": {
+    "LGA_NAME":"HEPBURN",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":42
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.1405699,-37.30890314 ]
+    },
+    "properties": {
+    "LGA_NAME":"HEPBURN",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":33
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.1405699,-37.30890314 ]
+    },
+    "properties": {
+    "LGA_NAME":"HEPBURN",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.1405699,-37.30890314 ]
+    },
+    "properties": {
+    "LGA_NAME":"HEPBURN",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":54
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.1405699,-37.30890314 ]
+    },
+    "properties": {
+    "LGA_NAME":"HEPBURN",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":30
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.1405699,-37.30890314 ]
+    },
+    "properties": {
+    "LGA_NAME":"HEPBURN",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.1405699,-37.30890314 ]
+    },
+    "properties": {
+    "LGA_NAME":"HEPBURN",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":33
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.0345076,-36.23440494 ]
+    },
+    "properties": {
+    "LGA_NAME":"HINDMARSH",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.0345076,-36.23440494 ]
+    },
+    "properties": {
+    "LGA_NAME":"HINDMARSH",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.0345076,-36.23440494 ]
+    },
+    "properties": {
+    "LGA_NAME":"HINDMARSH",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.0345076,-36.23440494 ]
+    },
+    "properties": {
+    "LGA_NAME":"HINDMARSH",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.0345076,-36.23440494 ]
+    },
+    "properties": {
+    "LGA_NAME":"HINDMARSH",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.0345076,-36.23440494 ]
+    },
+    "properties": {
+    "LGA_NAME":"HINDMARSH",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.0345076,-36.23440494 ]
+    },
+    "properties": {
+    "LGA_NAME":"HINDMARSH",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.8517275,-37.82739845 ]
+    },
+    "properties": {
+    "LGA_NAME":"HOBSONS BAY",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":145
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.8517275,-37.82739845 ]
+    },
+    "properties": {
+    "LGA_NAME":"HOBSONS BAY",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":151
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.8517275,-37.82739845 ]
+    },
+    "properties": {
+    "LGA_NAME":"HOBSONS BAY",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":89
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.8517275,-37.82739845 ]
+    },
+    "properties": {
+    "LGA_NAME":"HOBSONS BAY",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":132
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.8517275,-37.82739845 ]
+    },
+    "properties": {
+    "LGA_NAME":"HOBSONS BAY",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":159
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.8517275,-37.82739845 ]
+    },
+    "properties": {
+    "LGA_NAME":"HOBSONS BAY",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":144
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.8517275,-37.82739845 ]
+    },
+    "properties": {
+    "LGA_NAME":"HOBSONS BAY",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":169
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.2008295,-36.70533847 ]
+    },
+    "properties": {
+    "LGA_NAME":"HORSHAM",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":41
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.2008295,-36.70533847 ]
+    },
+    "properties": {
+    "LGA_NAME":"HORSHAM",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":36
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.2008295,-36.70533847 ]
+    },
+    "properties": {
+    "LGA_NAME":"HORSHAM",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.2008295,-36.70533847 ]
+    },
+    "properties": {
+    "LGA_NAME":"HORSHAM",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":42
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.2008295,-36.70533847 ]
+    },
+    "properties": {
+    "LGA_NAME":"HORSHAM",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":37
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.2008295,-36.70533847 ]
+    },
+    "properties": {
+    "LGA_NAME":"HORSHAM",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":30
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.2008295,-36.70533847 ]
+    },
+    "properties": {
+    "LGA_NAME":"HORSHAM",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.7102594,-37.57848211 ]
+    },
+    "properties": {
+    "LGA_NAME":"HUME",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":378
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.7102594,-37.57848211 ]
+    },
+    "properties": {
+    "LGA_NAME":"HUME",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":372
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.7102594,-37.57848211 ]
+    },
+    "properties": {
+    "LGA_NAME":"HUME",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":206
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.7102594,-37.57848211 ]
+    },
+    "properties": {
+    "LGA_NAME":"HUME",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":320
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.7102594,-37.57848211 ]
+    },
+    "properties": {
+    "LGA_NAME":"HUME",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":380
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.7102594,-37.57848211 ]
+    },
+    "properties": {
+    "LGA_NAME":"HUME",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":390
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.7102594,-37.57848211 ]
+    },
+    "properties": {
+    "LGA_NAME":"HUME",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":397
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.0836721,-36.27037376 ]
+    },
+    "properties": {
+    "LGA_NAME":"INDIGO",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":37
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.0836721,-36.27037376 ]
+    },
+    "properties": {
+    "LGA_NAME":"INDIGO",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.0836721,-36.27037376 ]
+    },
+    "properties": {
+    "LGA_NAME":"INDIGO",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":38
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.0836721,-36.27037376 ]
+    },
+    "properties": {
+    "LGA_NAME":"INDIGO",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":46
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.0836721,-36.27037376 ]
+    },
+    "properties": {
+    "LGA_NAME":"INDIGO",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":33
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.0836721,-36.27037376 ]
+    },
+    "properties": {
+    "LGA_NAME":"INDIGO",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.0836721,-36.27037376 ]
+    },
+    "properties": {
+    "LGA_NAME":"INDIGO",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.1244488,-38.07134156 ]
+    },
+    "properties": {
+    "LGA_NAME":"KINGSTON",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":230
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.1244488,-38.07134156 ]
+    },
+    "properties": {
+    "LGA_NAME":"KINGSTON",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":248
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.1244488,-38.07134156 ]
+    },
+    "properties": {
+    "LGA_NAME":"KINGSTON",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":163
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.1244488,-38.07134156 ]
+    },
+    "properties": {
+    "LGA_NAME":"KINGSTON",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":201
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.1244488,-38.07134156 ]
+    },
+    "properties": {
+    "LGA_NAME":"KINGSTON",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":289
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.1244488,-38.07134156 ]
+    },
+    "properties": {
+    "LGA_NAME":"KINGSTON",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":262
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.1244488,-38.07134156 ]
+    },
+    "properties": {
+    "LGA_NAME":"KINGSTON",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":278
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.236461,-37.91067896 ]
+    },
+    "properties": {
+    "LGA_NAME":"KNOX",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":213
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.236461,-37.91067896 ]
+    },
+    "properties": {
+    "LGA_NAME":"KNOX",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":225
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.236461,-37.91067896 ]
+    },
+    "properties": {
+    "LGA_NAME":"KNOX",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":122
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.236461,-37.91067896 ]
+    },
+    "properties": {
+    "LGA_NAME":"KNOX",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":198
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.236461,-37.91067896 ]
+    },
+    "properties": {
+    "LGA_NAME":"KNOX",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":213
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.236461,-37.91067896 ]
+    },
+    "properties": {
+    "LGA_NAME":"KNOX",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":229
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.236461,-37.91067896 ]
+    },
+    "properties": {
+    "LGA_NAME":"KNOX",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":226
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.420602,-38.3083383 ]
+    },
+    "properties": {
+    "LGA_NAME":"LATROBE",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":137
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.420602,-38.3083383 ]
+    },
+    "properties": {
+    "LGA_NAME":"LATROBE",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":127
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.420602,-38.3083383 ]
+    },
+    "properties": {
+    "LGA_NAME":"LATROBE",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":97
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.420602,-38.3083383 ]
+    },
+    "properties": {
+    "LGA_NAME":"LATROBE",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":114
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.420602,-38.3083383 ]
+    },
+    "properties": {
+    "LGA_NAME":"LATROBE",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":113
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.420602,-38.3083383 ]
+    },
+    "properties": {
+    "LGA_NAME":"LATROBE",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":124
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.420602,-38.3083383 ]
+    },
+    "properties": {
+    "LGA_NAME":"LATROBE",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":120
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.6521295,-36.44352624 ]
+    },
+    "properties": {
+    "LGA_NAME":"LODDON",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":33
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.6521295,-36.44352624 ]
+    },
+    "properties": {
+    "LGA_NAME":"LODDON",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.6521295,-36.44352624 ]
+    },
+    "properties": {
+    "LGA_NAME":"LODDON",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.6521295,-36.44352624 ]
+    },
+    "properties": {
+    "LGA_NAME":"LODDON",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.6521295,-36.44352624 ]
+    },
+    "properties": {
+    "LGA_NAME":"LODDON",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.6521295,-36.44352624 ]
+    },
+    "properties": {
+    "LGA_NAME":"LODDON",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.6521295,-36.44352624 ]
+    },
+    "properties": {
+    "LGA_NAME":"LODDON",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.4774998,-37.51917819 ]
+    },
+    "properties": {
+    "LGA_NAME":"MACEDON RANGES",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":71
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.4774998,-37.51917819 ]
+    },
+    "properties": {
+    "LGA_NAME":"MACEDON RANGES",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":77
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.4774998,-37.51917819 ]
+    },
+    "properties": {
+    "LGA_NAME":"MACEDON RANGES",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":77
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.4774998,-37.51917819 ]
+    },
+    "properties": {
+    "LGA_NAME":"MACEDON RANGES",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":103
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.4774998,-37.51917819 ]
+    },
+    "properties": {
+    "LGA_NAME":"MACEDON RANGES",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":74
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.4774998,-37.51917819 ]
+    },
+    "properties": {
+    "LGA_NAME":"MACEDON RANGES",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":77
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.4774998,-37.51917819 ]
+    },
+    "properties": {
+    "LGA_NAME":"MACEDON RANGES",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":80
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.1055566,-37.78645162 ]
+    },
+    "properties": {
+    "LGA_NAME":"MANNINGHAM",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":151
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.1055566,-37.78645162 ]
+    },
+    "properties": {
+    "LGA_NAME":"MANNINGHAM",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":139
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.1055566,-37.78645162 ]
+    },
+    "properties": {
+    "LGA_NAME":"MANNINGHAM",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":86
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.1055566,-37.78645162 ]
+    },
+    "properties": {
+    "LGA_NAME":"MANNINGHAM",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":125
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.1055566,-37.78645162 ]
+    },
+    "properties": {
+    "LGA_NAME":"MANNINGHAM",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":150
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.1055566,-37.78645162 ]
+    },
+    "properties": {
+    "LGA_NAME":"MANNINGHAM",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":127
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.1055566,-37.78645162 ]
+    },
+    "properties": {
+    "LGA_NAME":"MANNINGHAM",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":147
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.2578059,-37.57108126 ]
+    },
+    "properties": {
+    "LGA_NAME":"MANSFIELD",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":73
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.2578059,-37.57108126 ]
+    },
+    "properties": {
+    "LGA_NAME":"MANSFIELD",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":36
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.2578059,-37.57108126 ]
+    },
+    "properties": {
+    "LGA_NAME":"MANSFIELD",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":80
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.2578059,-37.57108126 ]
+    },
+    "properties": {
+    "LGA_NAME":"MANSFIELD",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":65
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.2578059,-37.57108126 ]
+    },
+    "properties": {
+    "LGA_NAME":"MANSFIELD",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.2578059,-37.57108126 ]
+    },
+    "properties": {
+    "LGA_NAME":"MANSFIELD",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.2578059,-37.57108126 ]
+    },
+    "properties": {
+    "LGA_NAME":"MANSFIELD",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.8944421,-37.81600659 ]
+    },
+    "properties": {
+    "LGA_NAME":"MARIBYRNONG",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":142
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.8944421,-37.81600659 ]
+    },
+    "properties": {
+    "LGA_NAME":"MARIBYRNONG",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":157
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.8944421,-37.81600659 ]
+    },
+    "properties": {
+    "LGA_NAME":"MARIBYRNONG",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":85
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.8944421,-37.81600659 ]
+    },
+    "properties": {
+    "LGA_NAME":"MARIBYRNONG",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":123
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.8944421,-37.81600659 ]
+    },
+    "properties": {
+    "LGA_NAME":"MARIBYRNONG",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":182
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.8944421,-37.81600659 ]
+    },
+    "properties": {
+    "LGA_NAME":"MARIBYRNONG",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":139
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.8944421,-37.81600659 ]
+    },
+    "properties": {
+    "LGA_NAME":"MARIBYRNONG",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":174
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.2561791,-37.80634516 ]
+    },
+    "properties": {
+    "LGA_NAME":"MAROONDAH",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":175
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.2561791,-37.80634516 ]
+    },
+    "properties": {
+    "LGA_NAME":"MAROONDAH",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":173
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.2561791,-37.80634516 ]
+    },
+    "properties": {
+    "LGA_NAME":"MAROONDAH",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":101
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.2561791,-37.80634516 ]
+    },
+    "properties": {
+    "LGA_NAME":"MAROONDAH",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":134
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.2561791,-37.80634516 ]
+    },
+    "properties": {
+    "LGA_NAME":"MAROONDAH",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":168
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.2561791,-37.80634516 ]
+    },
+    "properties": {
+    "LGA_NAME":"MAROONDAH",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":158
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.2561791,-37.80634516 ]
+    },
+    "properties": {
+    "LGA_NAME":"MAROONDAH",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":158
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9539699,-37.81254782 ]
+    },
+    "properties": {
+    "LGA_NAME":"MELBOURNE",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":551
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9539699,-37.81254782 ]
+    },
+    "properties": {
+    "LGA_NAME":"MELBOURNE",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":512
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9539699,-37.81254782 ]
+    },
+    "properties": {
+    "LGA_NAME":"MELBOURNE",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":315
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9539699,-37.81254782 ]
+    },
+    "properties": {
+    "LGA_NAME":"MELBOURNE",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":417
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9539699,-37.81254782 ]
+    },
+    "properties": {
+    "LGA_NAME":"MELBOURNE",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":634
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9539699,-37.81254782 ]
+    },
+    "properties": {
+    "LGA_NAME":"MELBOURNE",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":554
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9539699,-37.81254782 ]
+    },
+    "properties": {
+    "LGA_NAME":"MELBOURNE",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":664
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.5597674,-37.69325742 ]
+    },
+    "properties": {
+    "LGA_NAME":"MELTON",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":187
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.5597674,-37.69325742 ]
+    },
+    "properties": {
+    "LGA_NAME":"MELTON",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":178
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.5597674,-37.69325742 ]
+    },
+    "properties": {
+    "LGA_NAME":"MELTON",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":126
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.5597674,-37.69325742 ]
+    },
+    "properties": {
+    "LGA_NAME":"MELTON",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":170
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.5597674,-37.69325742 ]
+    },
+    "properties": {
+    "LGA_NAME":"MELTON",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":196
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.5597674,-37.69325742 ]
+    },
+    "properties": {
+    "LGA_NAME":"MELTON",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":194
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.5597674,-37.69325742 ]
+    },
+    "properties": {
+    "LGA_NAME":"MELTON",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":215
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.3746902,-35.15865303 ]
+    },
+    "properties": {
+    "LGA_NAME":"MILDURA",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":95
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.3746902,-35.15865303 ]
+    },
+    "properties": {
+    "LGA_NAME":"MILDURA",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":85
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.3746902,-35.15865303 ]
+    },
+    "properties": {
+    "LGA_NAME":"MILDURA",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":82
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.3746902,-35.15865303 ]
+    },
+    "properties": {
+    "LGA_NAME":"MILDURA",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":98
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.3746902,-35.15865303 ]
+    },
+    "properties": {
+    "LGA_NAME":"MILDURA",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":98
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.3746902,-35.15865303 ]
+    },
+    "properties": {
+    "LGA_NAME":"MILDURA",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":74
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.3746902,-35.15865303 ]
+    },
+    "properties": {
+    "LGA_NAME":"MILDURA",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":90
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.0021495,-37.41934552 ]
+    },
+    "properties": {
+    "LGA_NAME":"MITCHELL",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":129
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.0021495,-37.41934552 ]
+    },
+    "properties": {
+    "LGA_NAME":"MITCHELL",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":82
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.0021495,-37.41934552 ]
+    },
+    "properties": {
+    "LGA_NAME":"MITCHELL",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":98
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.0021495,-37.41934552 ]
+    },
+    "properties": {
+    "LGA_NAME":"MITCHELL",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":120
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.0021495,-37.41934552 ]
+    },
+    "properties": {
+    "LGA_NAME":"MITCHELL",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":111
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.0021495,-37.41934552 ]
+    },
+    "properties": {
+    "LGA_NAME":"MITCHELL",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":95
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.0021495,-37.41934552 ]
+    },
+    "properties": {
+    "LGA_NAME":"MITCHELL",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":103
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.6319078,-35.96826297 ]
+    },
+    "properties": {
+    "LGA_NAME":"MOIRA",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":72
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.6319078,-35.96826297 ]
+    },
+    "properties": {
+    "LGA_NAME":"MOIRA",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":52
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.6319078,-35.96826297 ]
+    },
+    "properties": {
+    "LGA_NAME":"MOIRA",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":43
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.6319078,-35.96826297 ]
+    },
+    "properties": {
+    "LGA_NAME":"MOIRA",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":49
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.6319078,-35.96826297 ]
+    },
+    "properties": {
+    "LGA_NAME":"MOIRA",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":59
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.6319078,-35.96826297 ]
+    },
+    "properties": {
+    "LGA_NAME":"MOIRA",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":47
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.6319078,-35.96826297 ]
+    },
+    "properties": {
+    "LGA_NAME":"MOIRA",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":64
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.0934127,-37.89349304 ]
+    },
+    "properties": {
+    "LGA_NAME":"MONASH",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":316
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.0934127,-37.89349304 ]
+    },
+    "properties": {
+    "LGA_NAME":"MONASH",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":313
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.0934127,-37.89349304 ]
+    },
+    "properties": {
+    "LGA_NAME":"MONASH",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":172
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.0934127,-37.89349304 ]
+    },
+    "properties": {
+    "LGA_NAME":"MONASH",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":232
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.0934127,-37.89349304 ]
+    },
+    "properties": {
+    "LGA_NAME":"MONASH",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":395
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.0934127,-37.89349304 ]
+    },
+    "properties": {
+    "LGA_NAME":"MONASH",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":351
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.0934127,-37.89349304 ]
+    },
+    "properties": {
+    "LGA_NAME":"MONASH",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":369
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.897559,-37.73483305 ]
+    },
+    "properties": {
+    "LGA_NAME":"MOONEE VALLEY",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":202
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.897559,-37.73483305 ]
+    },
+    "properties": {
+    "LGA_NAME":"MOONEE VALLEY",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":150
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.897559,-37.73483305 ]
+    },
+    "properties": {
+    "LGA_NAME":"MOONEE VALLEY",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":109
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.897559,-37.73483305 ]
+    },
+    "properties": {
+    "LGA_NAME":"MOONEE VALLEY",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":121
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.897559,-37.73483305 ]
+    },
+    "properties": {
+    "LGA_NAME":"MOONEE VALLEY",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":204
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.897559,-37.73483305 ]
+    },
+    "properties": {
+    "LGA_NAME":"MOONEE VALLEY",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":178
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.897559,-37.73483305 ]
+    },
+    "properties": {
+    "LGA_NAME":"MOONEE VALLEY",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":177
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.4698773,-37.61830399 ]
+    },
+    "properties": {
+    "LGA_NAME":"MOORABOOL",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":81
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.4698773,-37.61830399 ]
+    },
+    "properties": {
+    "LGA_NAME":"MOORABOOL",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":65
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.4698773,-37.61830399 ]
+    },
+    "properties": {
+    "LGA_NAME":"MOORABOOL",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":78
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.4698773,-37.61830399 ]
+    },
+    "properties": {
+    "LGA_NAME":"MOORABOOL",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":132
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.4698773,-37.61830399 ]
+    },
+    "properties": {
+    "LGA_NAME":"MOORABOOL",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":63
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.4698773,-37.61830399 ]
+    },
+    "properties": {
+    "LGA_NAME":"MOORABOOL",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":74
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.4698773,-37.61830399 ]
+    },
+    "properties": {
+    "LGA_NAME":"MOORABOOL",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":75
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9719039,-37.74184685 ]
+    },
+    "properties": {
+    "LGA_NAME":"MORELAND",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":317
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9719039,-37.74184685 ]
+    },
+    "properties": {
+    "LGA_NAME":"MORELAND",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":287
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9719039,-37.74184685 ]
+    },
+    "properties": {
+    "LGA_NAME":"MORELAND",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":178
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9719039,-37.74184685 ]
+    },
+    "properties": {
+    "LGA_NAME":"MORELAND",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":229
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9719039,-37.74184685 ]
+    },
+    "properties": {
+    "LGA_NAME":"MORELAND",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":310
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9719039,-37.74184685 ]
+    },
+    "properties": {
+    "LGA_NAME":"MORELAND",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":315
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9719039,-37.74184685 ]
+    },
+    "properties": {
+    "LGA_NAME":"MORELAND",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":338
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.8897762,-38.35990846 ]
+    },
+    "properties": {
+    "LGA_NAME":"MORNINGTON PENINSULA",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":214
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.8897762,-38.35990846 ]
+    },
+    "properties": {
+    "LGA_NAME":"MORNINGTON PENINSULA",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":221
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.8897762,-38.35990846 ]
+    },
+    "properties": {
+    "LGA_NAME":"MORNINGTON PENINSULA",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":161
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.8897762,-38.35990846 ]
+    },
+    "properties": {
+    "LGA_NAME":"MORNINGTON PENINSULA",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":220
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.8897762,-38.35990846 ]
+    },
+    "properties": {
+    "LGA_NAME":"MORNINGTON PENINSULA",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":235
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.8897762,-38.35990846 ]
+    },
+    "properties": {
+    "LGA_NAME":"MORNINGTON PENINSULA",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":208
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.8897762,-38.35990846 ]
+    },
+    "properties": {
+    "LGA_NAME":"MORNINGTON PENINSULA",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":232
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.2535713,-36.98622834 ]
+    },
+    "properties": {
+    "LGA_NAME":"MOUNT ALEXANDER",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":41
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.2535713,-36.98622834 ]
+    },
+    "properties": {
+    "LGA_NAME":"MOUNT ALEXANDER",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.2535713,-36.98622834 ]
+    },
+    "properties": {
+    "LGA_NAME":"MOUNT ALEXANDER",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.2535713,-36.98622834 ]
+    },
+    "properties": {
+    "LGA_NAME":"MOUNT ALEXANDER",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.2535713,-36.98622834 ]
+    },
+    "properties": {
+    "LGA_NAME":"MOUNT ALEXANDER",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":34
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.2535713,-36.98622834 ]
+    },
+    "properties": {
+    "LGA_NAME":"MOUNT ALEXANDER",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.2535713,-36.98622834 ]
+    },
+    "properties": {
+    "LGA_NAME":"MOUNT ALEXANDER",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.4374162,-37.14590399 ]
+    },
+    "properties": {
+    "LGA_NAME":"MOUNT BULLER ALPINE RESOR",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.5278248,-37.11776623 ]
+    },
+    "properties": {
+    "LGA_NAME":"MOUNT STIRLING ALPINE RES",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.5493413,-38.22692253 ]
+    },
+    "properties": {
+    "LGA_NAME":"MOYNE",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":38
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.5493413,-38.22692253 ]
+    },
+    "properties": {
+    "LGA_NAME":"MOYNE",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":38
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.5493413,-38.22692253 ]
+    },
+    "properties": {
+    "LGA_NAME":"MOYNE",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.5493413,-38.22692253 ]
+    },
+    "properties": {
+    "LGA_NAME":"MOYNE",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":42
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.5493413,-38.22692253 ]
+    },
+    "properties": {
+    "LGA_NAME":"MOYNE",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":47
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.5493413,-38.22692253 ]
+    },
+    "properties": {
+    "LGA_NAME":"MOYNE",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":38
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.5493413,-38.22692253 ]
+    },
+    "properties": {
+    "LGA_NAME":"MOYNE",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.732084,-37.20783818 ]
+    },
+    "properties": {
+    "LGA_NAME":"MURRINDINDI",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":121
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.732084,-37.20783818 ]
+    },
+    "properties": {
+    "LGA_NAME":"MURRINDINDI",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":55
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.732084,-37.20783818 ]
+    },
+    "properties": {
+    "LGA_NAME":"MURRINDINDI",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":101
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.732084,-37.20783818 ]
+    },
+    "properties": {
+    "LGA_NAME":"MURRINDINDI",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":168
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.732084,-37.20783818 ]
+    },
+    "properties": {
+    "LGA_NAME":"MURRINDINDI",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":54
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.732084,-37.20783818 ]
+    },
+    "properties": {
+    "LGA_NAME":"MURRINDINDI",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":45
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.732084,-37.20783818 ]
+    },
+    "properties": {
+    "LGA_NAME":"MURRINDINDI",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":47
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.1900215,-37.64744323 ]
+    },
+    "properties": {
+    "LGA_NAME":"NILLUMBIK",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":106
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.1900215,-37.64744323 ]
+    },
+    "properties": {
+    "LGA_NAME":"NILLUMBIK",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":92
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.1900215,-37.64744323 ]
+    },
+    "properties": {
+    "LGA_NAME":"NILLUMBIK",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.1900215,-37.64744323 ]
+    },
+    "properties": {
+    "LGA_NAME":"NILLUMBIK",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.1900215,-37.64744323 ]
+    },
+    "properties": {
+    "LGA_NAME":"NILLUMBIK",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":96
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.1900215,-37.64744323 ]
+    },
+    "properties": {
+    "LGA_NAME":"NILLUMBIK",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":101
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.1900215,-37.64744323 ]
+    },
+    "properties": {
+    "LGA_NAME":"NILLUMBIK",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":88
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.8009003,-37.01147561 ]
+    },
+    "properties": {
+    "LGA_NAME":"NORTHERN GRAMPIANS",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":43
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.8009003,-37.01147561 ]
+    },
+    "properties": {
+    "LGA_NAME":"NORTHERN GRAMPIANS",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.8009003,-37.01147561 ]
+    },
+    "properties": {
+    "LGA_NAME":"NORTHERN GRAMPIANS",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.8009003,-37.01147561 ]
+    },
+    "properties": {
+    "LGA_NAME":"NORTHERN GRAMPIANS",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":30
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.8009003,-37.01147561 ]
+    },
+    "properties": {
+    "LGA_NAME":"NORTHERN GRAMPIANS",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.8009003,-37.01147561 ]
+    },
+    "properties": {
+    "LGA_NAME":"NORTHERN GRAMPIANS",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.8009003,-37.01147561 ]
+    },
+    "properties": {
+    "LGA_NAME":"NORTHERN GRAMPIANS",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":32
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9680168,-37.83801186 ]
+    },
+    "properties": {
+    "LGA_NAME":"PORT PHILLIP",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":220
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9680168,-37.83801186 ]
+    },
+    "properties": {
+    "LGA_NAME":"PORT PHILLIP",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":186
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9680168,-37.83801186 ]
+    },
+    "properties": {
+    "LGA_NAME":"PORT PHILLIP",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":130
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9680168,-37.83801186 ]
+    },
+    "properties": {
+    "LGA_NAME":"PORT PHILLIP",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":161
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9680168,-37.83801186 ]
+    },
+    "properties": {
+    "LGA_NAME":"PORT PHILLIP",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":207
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9680168,-37.83801186 ]
+    },
+    "properties": {
+    "LGA_NAME":"PORT PHILLIP",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":216
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9680168,-37.83801186 ]
+    },
+    "properties": {
+    "LGA_NAME":"PORT PHILLIP",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":211
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.45146,-37.11659684 ]
+    },
+    "properties": {
+    "LGA_NAME":"PYRENEES",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":34
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.45146,-37.11659684 ]
+    },
+    "properties": {
+    "LGA_NAME":"PYRENEES",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.45146,-37.11659684 ]
+    },
+    "properties": {
+    "LGA_NAME":"PYRENEES",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":32
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.45146,-37.11659684 ]
+    },
+    "properties": {
+    "LGA_NAME":"PYRENEES",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":36
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.45146,-37.11659684 ]
+    },
+    "properties": {
+    "LGA_NAME":"PYRENEES",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.45146,-37.11659684 ]
+    },
+    "properties": {
+    "LGA_NAME":"PYRENEES",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.45146,-37.11659684 ]
+    },
+    "properties": {
+    "LGA_NAME":"PYRENEES",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.6262537,-38.27222764 ]
+    },
+    "properties": {
+    "LGA_NAME":"QUEENSCLIFFE",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.6262537,-38.27222764 ]
+    },
+    "properties": {
+    "LGA_NAME":"QUEENSCLIFFE",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.6262537,-38.27222764 ]
+    },
+    "properties": {
+    "LGA_NAME":"QUEENSCLIFFE",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.6262537,-38.27222764 ]
+    },
+    "properties": {
+    "LGA_NAME":"QUEENSCLIFFE",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.6262537,-38.27222764 ]
+    },
+    "properties": {
+    "LGA_NAME":"QUEENSCLIFFE",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.6262537,-38.27222764 ]
+    },
+    "properties": {
+    "LGA_NAME":"QUEENSCLIFFE",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.6262537,-38.27222764 ]
+    },
+    "properties": {
+    "LGA_NAME":"QUEENSCLIFFE",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.3557804,-36.39532106 ]
+    },
+    "properties": {
+    "LGA_NAME":"SHEPPARTON",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":135
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.3557804,-36.39532106 ]
+    },
+    "properties": {
+    "LGA_NAME":"SHEPPARTON",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":127
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.3557804,-36.39532106 ]
+    },
+    "properties": {
+    "LGA_NAME":"SHEPPARTON",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":72
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.3557804,-36.39532106 ]
+    },
+    "properties": {
+    "LGA_NAME":"SHEPPARTON",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":115
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.3557804,-36.39532106 ]
+    },
+    "properties": {
+    "LGA_NAME":"SHEPPARTON",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":152
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.3557804,-36.39532106 ]
+    },
+    "properties": {
+    "LGA_NAME":"SHEPPARTON",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":118
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.3557804,-36.39532106 ]
+    },
+    "properties": {
+    "LGA_NAME":"SHEPPARTON",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":148
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.3567043,-38.62849296 ]
+    },
+    "properties": {
+    "LGA_NAME":"SOUTH GIPPSLAND",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":69
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.3567043,-38.62849296 ]
+    },
+    "properties": {
+    "LGA_NAME":"SOUTH GIPPSLAND",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":66
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.3567043,-38.62849296 ]
+    },
+    "properties": {
+    "LGA_NAME":"SOUTH GIPPSLAND",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":63
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.3567043,-38.62849296 ]
+    },
+    "properties": {
+    "LGA_NAME":"SOUTH GIPPSLAND",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":80
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.3567043,-38.62849296 ]
+    },
+    "properties": {
+    "LGA_NAME":"SOUTH GIPPSLAND",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":65
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.3567043,-38.62849296 ]
+    },
+    "properties": {
+    "LGA_NAME":"SOUTH GIPPSLAND",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":62
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.3567043,-38.62849296 ]
+    },
+    "properties": {
+    "LGA_NAME":"SOUTH GIPPSLAND",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":78
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.0093542,-37.75768062 ]
+    },
+    "properties": {
+    "LGA_NAME":"SOUTHERN GRAMPIANS",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.0093542,-37.75768062 ]
+    },
+    "properties": {
+    "LGA_NAME":"SOUTHERN GRAMPIANS",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.0093542,-37.75768062 ]
+    },
+    "properties": {
+    "LGA_NAME":"SOUTHERN GRAMPIANS",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.0093542,-37.75768062 ]
+    },
+    "properties": {
+    "LGA_NAME":"SOUTHERN GRAMPIANS",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.0093542,-37.75768062 ]
+    },
+    "properties": {
+    "LGA_NAME":"SOUTHERN GRAMPIANS",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.0093542,-37.75768062 ]
+    },
+    "properties": {
+    "LGA_NAME":"SOUTHERN GRAMPIANS",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":33
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.0093542,-37.75768062 ]
+    },
+    "properties": {
+    "LGA_NAME":"SOUTHERN GRAMPIANS",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.0851423,-37.87710075 ]
+    },
+    "properties": {
+    "LGA_NAME":"STONNINGTON",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":228
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.0851423,-37.87710075 ]
+    },
+    "properties": {
+    "LGA_NAME":"STONNINGTON",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":215
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.0851423,-37.87710075 ]
+    },
+    "properties": {
+    "LGA_NAME":"STONNINGTON",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":118
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.0851423,-37.87710075 ]
+    },
+    "properties": {
+    "LGA_NAME":"STONNINGTON",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":176
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.0851423,-37.87710075 ]
+    },
+    "properties": {
+    "LGA_NAME":"STONNINGTON",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":227
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.0851423,-37.87710075 ]
+    },
+    "properties": {
+    "LGA_NAME":"STONNINGTON",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":240
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.0851423,-37.87710075 ]
+    },
+    "properties": {
+    "LGA_NAME":"STONNINGTON",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":230
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.1081446,-36.74651882 ]
+    },
+    "properties": {
+    "LGA_NAME":"STRATHBOGIE",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":37
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.1081446,-36.74651882 ]
+    },
+    "properties": {
+    "LGA_NAME":"STRATHBOGIE",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.1081446,-36.74651882 ]
+    },
+    "properties": {
+    "LGA_NAME":"STRATHBOGIE",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":38
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.1081446,-36.74651882 ]
+    },
+    "properties": {
+    "LGA_NAME":"STRATHBOGIE",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":38
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.1081446,-36.74651882 ]
+    },
+    "properties": {
+    "LGA_NAME":"STRATHBOGIE",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.1081446,-36.74651882 ]
+    },
+    "properties": {
+    "LGA_NAME":"STRATHBOGIE",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":30
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.1081446,-36.74651882 ]
+    },
+    "properties": {
+    "LGA_NAME":"STRATHBOGIE",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":33
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.2215991,-38.16945638 ]
+    },
+    "properties": {
+    "LGA_NAME":"SURF COAST",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":80
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.2215991,-38.16945638 ]
+    },
+    "properties": {
+    "LGA_NAME":"SURF COAST",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":56
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.2215991,-38.16945638 ]
+    },
+    "properties": {
+    "LGA_NAME":"SURF COAST",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":83
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.2215991,-38.16945638 ]
+    },
+    "properties": {
+    "LGA_NAME":"SURF COAST",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":95
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.2215991,-38.16945638 ]
+    },
+    "properties": {
+    "LGA_NAME":"SURF COAST",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":64
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.2215991,-38.16945638 ]
+    },
+    "properties": {
+    "LGA_NAME":"SURF COAST",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":51
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.2215991,-38.16945638 ]
+    },
+    "properties": {
+    "LGA_NAME":"SURF COAST",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":55
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.5501506,-35.3377187 ]
+    },
+    "properties": {
+    "LGA_NAME":"SWAN HILL",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.5501506,-35.3377187 ]
+    },
+    "properties": {
+    "LGA_NAME":"SWAN HILL",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":33
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.5501506,-35.3377187 ]
+    },
+    "properties": {
+    "LGA_NAME":"SWAN HILL",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":33
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.5501506,-35.3377187 ]
+    },
+    "properties": {
+    "LGA_NAME":"SWAN HILL",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.5501506,-35.3377187 ]
+    },
+    "properties": {
+    "LGA_NAME":"SWAN HILL",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":37
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.5501506,-35.3377187 ]
+    },
+    "properties": {
+    "LGA_NAME":"SWAN HILL",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":38
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.5501506,-35.3377187 ]
+    },
+    "properties": {
+    "LGA_NAME":"SWAN HILL",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":38
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.5257962,-36.31956587 ]
+    },
+    "properties": {
+    "LGA_NAME":"TOWONG",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":30
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.5257962,-36.31956587 ]
+    },
+    "properties": {
+    "LGA_NAME":"TOWONG",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.5257962,-36.31956587 ]
+    },
+    "properties": {
+    "LGA_NAME":"TOWONG",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":30
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.5257962,-36.31956587 ]
+    },
+    "properties": {
+    "LGA_NAME":"TOWONG",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.5257962,-36.31956587 ]
+    },
+    "properties": {
+    "LGA_NAME":"TOWONG",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.5257962,-36.31956587 ]
+    },
+    "properties": {
+    "LGA_NAME":"TOWONG",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.5257962,-36.31956587 ]
+    },
+    "properties": {
+    "LGA_NAME":"TOWONG",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.3084747,-36.36038628 ]
+    },
+    "properties": {
+    "LGA_NAME":"WANGARATTA",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":77
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.3084747,-36.36038628 ]
+    },
+    "properties": {
+    "LGA_NAME":"WANGARATTA",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":62
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.3084747,-36.36038628 ]
+    },
+    "properties": {
+    "LGA_NAME":"WANGARATTA",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":47
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.3084747,-36.36038628 ]
+    },
+    "properties": {
+    "LGA_NAME":"WANGARATTA",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":44
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.3084747,-36.36038628 ]
+    },
+    "properties": {
+    "LGA_NAME":"WANGARATTA",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":54
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.3084747,-36.36038628 ]
+    },
+    "properties": {
+    "LGA_NAME":"WANGARATTA",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":52
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.3084747,-36.36038628 ]
+    },
+    "properties": {
+    "LGA_NAME":"WANGARATTA",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":52
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.4530877,-38.35971333 ]
+    },
+    "properties": {
+    "LGA_NAME":"WARRNAMBOOL",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":37
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.4530877,-38.35971333 ]
+    },
+    "properties": {
+    "LGA_NAME":"WARRNAMBOOL",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":44
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.4530877,-38.35971333 ]
+    },
+    "properties": {
+    "LGA_NAME":"WARRNAMBOOL",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.4530877,-38.35971333 ]
+    },
+    "properties": {
+    "LGA_NAME":"WARRNAMBOOL",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":45
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.4530877,-38.35971333 ]
+    },
+    "properties": {
+    "LGA_NAME":"WARRNAMBOOL",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":61
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.4530877,-38.35971333 ]
+    },
+    "properties": {
+    "LGA_NAME":"WARRNAMBOOL",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":56
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.4530877,-38.35971333 ]
+    },
+    "properties": {
+    "LGA_NAME":"WARRNAMBOOL",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":49
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.0609878,-38.10542305 ]
+    },
+    "properties": {
+    "LGA_NAME":"WELLINGTON",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":124
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.0609878,-38.10542305 ]
+    },
+    "properties": {
+    "LGA_NAME":"WELLINGTON",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":98
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.0609878,-38.10542305 ]
+    },
+    "properties": {
+    "LGA_NAME":"WELLINGTON",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":89
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.0609878,-38.10542305 ]
+    },
+    "properties": {
+    "LGA_NAME":"WELLINGTON",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":128
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.0609878,-38.10542305 ]
+    },
+    "properties": {
+    "LGA_NAME":"WELLINGTON",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":102
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.0609878,-38.10542305 ]
+    },
+    "properties": {
+    "LGA_NAME":"WELLINGTON",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":101
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.0609878,-38.10542305 ]
+    },
+    "properties": {
+    "LGA_NAME":"WELLINGTON",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":89
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.5081845,-37.20729285 ]
+    },
+    "properties": {
+    "LGA_NAME":"WEST WIMMERA",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.5081845,-37.20729285 ]
+    },
+    "properties": {
+    "LGA_NAME":"WEST WIMMERA",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.5081845,-37.20729285 ]
+    },
+    "properties": {
+    "LGA_NAME":"WEST WIMMERA",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.5081845,-37.20729285 ]
+    },
+    "properties": {
+    "LGA_NAME":"WEST WIMMERA",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.5081845,-37.20729285 ]
+    },
+    "properties": {
+    "LGA_NAME":"WEST WIMMERA",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.5081845,-37.20729285 ]
+    },
+    "properties": {
+    "LGA_NAME":"WEST WIMMERA",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.5081845,-37.20729285 ]
+    },
+    "properties": {
+    "LGA_NAME":"WEST WIMMERA",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.1628635,-37.83566284 ]
+    },
+    "properties": {
+    "LGA_NAME":"WHITEHORSE",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":224
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.1628635,-37.83566284 ]
+    },
+    "properties": {
+    "LGA_NAME":"WHITEHORSE",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":214
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.1628635,-37.83566284 ]
+    },
+    "properties": {
+    "LGA_NAME":"WHITEHORSE",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":161
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.1628635,-37.83566284 ]
+    },
+    "properties": {
+    "LGA_NAME":"WHITEHORSE",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":179
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.1628635,-37.83566284 ]
+    },
+    "properties": {
+    "LGA_NAME":"WHITEHORSE",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":249
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.1628635,-37.83566284 ]
+    },
+    "properties": {
+    "LGA_NAME":"WHITEHORSE",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":231
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.1628635,-37.83566284 ]
+    },
+    "properties": {
+    "LGA_NAME":"WHITEHORSE",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":249
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.0799938,-37.65605189 ]
+    },
+    "properties": {
+    "LGA_NAME":"WHITTLESEA",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":322
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.0799938,-37.65605189 ]
+    },
+    "properties": {
+    "LGA_NAME":"WHITTLESEA",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":309
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.0799938,-37.65605189 ]
+    },
+    "properties": {
+    "LGA_NAME":"WHITTLESEA",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":199
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.0799938,-37.65605189 ]
+    },
+    "properties": {
+    "LGA_NAME":"WHITTLESEA",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":275
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.0799938,-37.65605189 ]
+    },
+    "properties": {
+    "LGA_NAME":"WHITTLESEA",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":334
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.0799938,-37.65605189 ]
+    },
+    "properties": {
+    "LGA_NAME":"WHITTLESEA",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":320
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.0799938,-37.65605189 ]
+    },
+    "properties": {
+    "LGA_NAME":"WHITTLESEA",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":361
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.8946962,-36.11126643 ]
+    },
+    "properties": {
+    "LGA_NAME":"WODONGA",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":48
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.8946962,-36.11126643 ]
+    },
+    "properties": {
+    "LGA_NAME":"WODONGA",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":59
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.8946962,-36.11126643 ]
+    },
+    "properties": {
+    "LGA_NAME":"WODONGA",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.8946962,-36.11126643 ]
+    },
+    "properties": {
+    "LGA_NAME":"WODONGA",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":33
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.8946962,-36.11126643 ]
+    },
+    "properties": {
+    "LGA_NAME":"WODONGA",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":38
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.8946962,-36.11126643 ]
+    },
+    "properties": {
+    "LGA_NAME":"WODONGA",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":56
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.8946962,-36.11126643 ]
+    },
+    "properties": {
+    "LGA_NAME":"WODONGA",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":49
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.7331699,-37.8684244 ]
+    },
+    "properties": {
+    "LGA_NAME":"WYNDHAM",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":281
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.7331699,-37.8684244 ]
+    },
+    "properties": {
+    "LGA_NAME":"WYNDHAM",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":277
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.7331699,-37.8684244 ]
+    },
+    "properties": {
+    "LGA_NAME":"WYNDHAM",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":163
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.7331699,-37.8684244 ]
+    },
+    "properties": {
+    "LGA_NAME":"WYNDHAM",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":193
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.7331699,-37.8684244 ]
+    },
+    "properties": {
+    "LGA_NAME":"WYNDHAM",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":266
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.7331699,-37.8684244 ]
+    },
+    "properties": {
+    "LGA_NAME":"WYNDHAM",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":273
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.7331699,-37.8684244 ]
+    },
+    "properties": {
+    "LGA_NAME":"WYNDHAM",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":312
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9862106,-37.78517376 ]
+    },
+    "properties": {
+    "LGA_NAME":"YARRA",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":246
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9862106,-37.78517376 ]
+    },
+    "properties": {
+    "LGA_NAME":"YARRA",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":265
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9862106,-37.78517376 ]
+    },
+    "properties": {
+    "LGA_NAME":"YARRA",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":130
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9862106,-37.78517376 ]
+    },
+    "properties": {
+    "LGA_NAME":"YARRA",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":180
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9862106,-37.78517376 ]
+    },
+    "properties": {
+    "LGA_NAME":"YARRA",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":304
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9862106,-37.78517376 ]
+    },
+    "properties": {
+    "LGA_NAME":"YARRA",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":273
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9862106,-37.78517376 ]
+    },
+    "properties": {
+    "LGA_NAME":"YARRA",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":272
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.4412187,-37.89493135 ]
+    },
+    "properties": {
+    "LGA_NAME":"YARRA RANGES",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":332
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.4412187,-37.89493135 ]
+    },
+    "properties": {
+    "LGA_NAME":"YARRA RANGES",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":265
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.4412187,-37.89493135 ]
+    },
+    "properties": {
+    "LGA_NAME":"YARRA RANGES",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":247
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.4412187,-37.89493135 ]
+    },
+    "properties": {
+    "LGA_NAME":"YARRA RANGES",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":366
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.4412187,-37.89493135 ]
+    },
+    "properties": {
+    "LGA_NAME":"YARRA RANGES",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":259
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.4412187,-37.89493135 ]
+    },
+    "properties": {
+    "LGA_NAME":"YARRA RANGES",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":285
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.4412187,-37.89493135 ]
+    },
+    "properties": {
+    "LGA_NAME":"YARRA RANGES",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":276
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.152759,-35.71783682 ]
+    },
+    "properties": {
+    "LGA_NAME":"YARRIAMBIACK",
+    "DAY_OF_WEE":"Friday",
+    "Casualty":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.152759,-35.71783682 ]
+    },
+    "properties": {
+    "LGA_NAME":"YARRIAMBIACK",
+    "DAY_OF_WEE":"Monday",
+    "Casualty":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.152759,-35.71783682 ]
+    },
+    "properties": {
+    "LGA_NAME":"YARRIAMBIACK",
+    "DAY_OF_WEE":"Saturday",
+    "Casualty":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.152759,-35.71783682 ]
+    },
+    "properties": {
+    "LGA_NAME":"YARRIAMBIACK",
+    "DAY_OF_WEE":"Sunday",
+    "Casualty":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.152759,-35.71783682 ]
+    },
+    "properties": {
+    "LGA_NAME":"YARRIAMBIACK",
+    "DAY_OF_WEE":"Thursday",
+    "Casualty":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.152759,-35.71783682 ]
+    },
+    "properties": {
+    "LGA_NAME":"YARRIAMBIACK",
+    "DAY_OF_WEE":"Tuesday",
+    "Casualty":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.152759,-35.71783682 ]
+    },
+    "properties": {
+    "LGA_NAME":"YARRIAMBIACK",
+    "DAY_OF_WEE":"Wednesday",
+    "Casualty":6
+    }
+  }
+]
+}
