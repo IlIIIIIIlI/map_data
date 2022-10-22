@@ -11,7 +11,8 @@
     "LGA_NAME":"ALPINE",
     "DAY_OF_WEE":"Friday",
     "Casualty":61,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":1
     }
   },
   {
@@ -24,7 +25,8 @@
     "LGA_NAME":"ALPINE",
     "DAY_OF_WEE":"Monday",
     "Casualty":26,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":1
     }
   },
   {
@@ -37,7 +39,8 @@
     "LGA_NAME":"ALPINE",
     "DAY_OF_WEE":"Saturday",
     "Casualty":56,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":1
     }
   },
   {
@@ -50,7 +53,8 @@
     "LGA_NAME":"ALPINE",
     "DAY_OF_WEE":"Sunday",
     "Casualty":67,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":1
     }
   },
   {
@@ -63,7 +67,8 @@
     "LGA_NAME":"ALPINE",
     "DAY_OF_WEE":"Thursday",
     "Casualty":22,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":1
     }
   },
   {
@@ -76,7 +81,8 @@
     "LGA_NAME":"ALPINE",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":27,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":1
     }
   },
   {
@@ -89,7 +95,8 @@
     "LGA_NAME":"ALPINE",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":20,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":1
     }
   },
   {
@@ -102,7 +109,8 @@
     "LGA_NAME":"ARARAT",
     "DAY_OF_WEE":"Friday",
     "Casualty":37,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":1
     }
   },
   {
@@ -115,7 +123,8 @@
     "LGA_NAME":"ARARAT",
     "DAY_OF_WEE":"Monday",
     "Casualty":29,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":1
     }
   },
   {
@@ -128,7 +137,8 @@
     "LGA_NAME":"ARARAT",
     "DAY_OF_WEE":"Saturday",
     "Casualty":16,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":1
     }
   },
   {
@@ -141,7 +151,8 @@
     "LGA_NAME":"ARARAT",
     "DAY_OF_WEE":"Sunday",
     "Casualty":27,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":1
     }
   },
   {
@@ -154,7 +165,8 @@
     "LGA_NAME":"ARARAT",
     "DAY_OF_WEE":"Thursday",
     "Casualty":32,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":1
     }
   },
   {
@@ -167,7 +179,8 @@
     "LGA_NAME":"ARARAT",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":22,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":1
     }
   },
   {
@@ -180,7 +193,8 @@
     "LGA_NAME":"ARARAT",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":15,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":1
     }
   },
   {
@@ -193,7 +207,8 @@
     "LGA_NAME":"BALLARAT",
     "DAY_OF_WEE":"Friday",
     "Casualty":209,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":2
     }
   },
   {
@@ -206,7 +221,8 @@
     "LGA_NAME":"BALLARAT",
     "DAY_OF_WEE":"Monday",
     "Casualty":221,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":2
     }
   },
   {
@@ -219,7 +235,8 @@
     "LGA_NAME":"BALLARAT",
     "DAY_OF_WEE":"Saturday",
     "Casualty":124,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":1
     }
   },
   {
@@ -232,7 +249,8 @@
     "LGA_NAME":"BALLARAT",
     "DAY_OF_WEE":"Sunday",
     "Casualty":155,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":2
     }
   },
   {
@@ -245,7 +263,8 @@
     "LGA_NAME":"BALLARAT",
     "DAY_OF_WEE":"Thursday",
     "Casualty":231,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":2
     }
   },
   {
@@ -258,7 +277,8 @@
     "LGA_NAME":"BALLARAT",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":222,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":2
     }
   },
   {
@@ -271,7 +291,8 @@
     "LGA_NAME":"BALLARAT",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":196,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":2
     }
   },
   {
@@ -284,7 +305,8 @@
     "LGA_NAME":"BANYULE",
     "DAY_OF_WEE":"Friday",
     "Casualty":176,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":2
     }
   },
   {
@@ -297,7 +319,8 @@
     "LGA_NAME":"BANYULE",
     "DAY_OF_WEE":"Monday",
     "Casualty":157,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":2
     }
   },
   {
@@ -310,7 +333,8 @@
     "LGA_NAME":"BANYULE",
     "DAY_OF_WEE":"Saturday",
     "Casualty":86,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":1
     }
   },
   {
@@ -323,7 +347,8 @@
     "LGA_NAME":"BANYULE",
     "DAY_OF_WEE":"Sunday",
     "Casualty":105,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":1
     }
   },
   {
@@ -336,7 +361,8 @@
     "LGA_NAME":"BANYULE",
     "DAY_OF_WEE":"Thursday",
     "Casualty":172,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":2
     }
   },
   {
@@ -349,7 +375,8 @@
     "LGA_NAME":"BANYULE",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":201,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":2
     }
   },
   {
@@ -362,7 +389,8 @@
     "LGA_NAME":"BANYULE",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":174,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":2
     }
   },
   {
@@ -375,7 +403,8 @@
     "LGA_NAME":"BASS COAST",
     "DAY_OF_WEE":"Friday",
     "Casualty":60,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":1
     }
   },
   {
@@ -388,7 +417,8 @@
     "LGA_NAME":"BASS COAST",
     "DAY_OF_WEE":"Monday",
     "Casualty":62,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":1
     }
   },
   {
@@ -401,7 +431,8 @@
     "LGA_NAME":"BASS COAST",
     "DAY_OF_WEE":"Saturday",
     "Casualty":51,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":1
     }
   },
   {
@@ -414,7 +445,8 @@
     "LGA_NAME":"BASS COAST",
     "DAY_OF_WEE":"Sunday",
     "Casualty":70,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":1
     }
   },
   {
@@ -427,7 +459,8 @@
     "LGA_NAME":"BASS COAST",
     "DAY_OF_WEE":"Thursday",
     "Casualty":64,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":1
     }
   },
   {
@@ -440,7 +473,8 @@
     "LGA_NAME":"BASS COAST",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":48,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":1
     }
   },
   {
@@ -453,7 +487,8 @@
     "LGA_NAME":"BASS COAST",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":61,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":1
     }
   },
   {
@@ -466,7 +501,8 @@
     "LGA_NAME":"BAW BAW",
     "DAY_OF_WEE":"Friday",
     "Casualty":145,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":2
     }
   },
   {
@@ -479,7 +515,8 @@
     "LGA_NAME":"BAW BAW",
     "DAY_OF_WEE":"Monday",
     "Casualty":119,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":1
     }
   },
   {
@@ -492,7 +529,8 @@
     "LGA_NAME":"BAW BAW",
     "DAY_OF_WEE":"Saturday",
     "Casualty":151,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":2
     }
   },
   {
@@ -505,7 +543,8 @@
     "LGA_NAME":"BAW BAW",
     "DAY_OF_WEE":"Sunday",
     "Casualty":185,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":2
     }
   },
   {
@@ -518,7 +557,8 @@
     "LGA_NAME":"BAW BAW",
     "DAY_OF_WEE":"Thursday",
     "Casualty":112,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":1
     }
   },
   {
@@ -531,7 +571,8 @@
     "LGA_NAME":"BAW BAW",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":106,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":1
     }
   },
   {
@@ -544,7 +585,8 @@
     "LGA_NAME":"BAW BAW",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":93,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":1
     }
   },
   {
@@ -557,7 +599,8 @@
     "LGA_NAME":"BAYSIDE",
     "DAY_OF_WEE":"Friday",
     "Casualty":147,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":2
     }
   },
   {
@@ -570,7 +613,8 @@
     "LGA_NAME":"BAYSIDE",
     "DAY_OF_WEE":"Monday",
     "Casualty":113,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":1
     }
   },
   {
@@ -583,7 +627,8 @@
     "LGA_NAME":"BAYSIDE",
     "DAY_OF_WEE":"Saturday",
     "Casualty":86,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":1
     }
   },
   {
@@ -596,7 +641,8 @@
     "LGA_NAME":"BAYSIDE",
     "DAY_OF_WEE":"Sunday",
     "Casualty":99,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":1
     }
   },
   {
@@ -609,7 +655,8 @@
     "LGA_NAME":"BAYSIDE",
     "DAY_OF_WEE":"Thursday",
     "Casualty":160,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":2
     }
   },
   {
@@ -622,7 +669,8 @@
     "LGA_NAME":"BAYSIDE",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":116,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":1
     }
   },
   {
@@ -635,7 +683,8 @@
     "LGA_NAME":"BAYSIDE",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":145,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":2
     }
   },
   {
@@ -648,7 +697,8 @@
     "LGA_NAME":"BENALLA",
     "DAY_OF_WEE":"Friday",
     "Casualty":47,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":1
     }
   },
   {
@@ -661,7 +711,8 @@
     "LGA_NAME":"BENALLA",
     "DAY_OF_WEE":"Monday",
     "Casualty":30,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":1
     }
   },
   {
@@ -674,7 +725,8 @@
     "LGA_NAME":"BENALLA",
     "DAY_OF_WEE":"Saturday",
     "Casualty":30,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":1
     }
   },
   {
@@ -687,7 +739,8 @@
     "LGA_NAME":"BENALLA",
     "DAY_OF_WEE":"Sunday",
     "Casualty":37,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":1
     }
   },
   {
@@ -700,7 +753,8 @@
     "LGA_NAME":"BENALLA",
     "DAY_OF_WEE":"Thursday",
     "Casualty":31,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":1
     }
   },
   {
@@ -713,7 +767,8 @@
     "LGA_NAME":"BENALLA",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":25,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":1
     }
   },
   {
@@ -726,7 +781,8 @@
     "LGA_NAME":"BENALLA",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":27,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":1
     }
   },
   {
@@ -739,7 +795,8 @@
     "LGA_NAME":"BENDIGO",
     "DAY_OF_WEE":"Friday",
     "Casualty":209,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":2
     }
   },
   {
@@ -752,7 +809,8 @@
     "LGA_NAME":"BENDIGO",
     "DAY_OF_WEE":"Monday",
     "Casualty":224,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":2
     }
   },
   {
@@ -765,7 +823,8 @@
     "LGA_NAME":"BENDIGO",
     "DAY_OF_WEE":"Saturday",
     "Casualty":148,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":2
     }
   },
   {
@@ -778,7 +837,8 @@
     "LGA_NAME":"BENDIGO",
     "DAY_OF_WEE":"Sunday",
     "Casualty":194,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":2
     }
   },
   {
@@ -791,7 +851,8 @@
     "LGA_NAME":"BENDIGO",
     "DAY_OF_WEE":"Thursday",
     "Casualty":221,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":2
     }
   },
   {
@@ -804,7 +865,8 @@
     "LGA_NAME":"BENDIGO",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":210,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":2
     }
   },
   {
@@ -817,7 +879,8 @@
     "LGA_NAME":"BENDIGO",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":189,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":2
     }
   },
   {
@@ -830,7 +893,8 @@
     "LGA_NAME":"BOROONDARA",
     "DAY_OF_WEE":"Friday",
     "Casualty":235,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":2
     }
   },
   {
@@ -843,7 +907,8 @@
     "LGA_NAME":"BOROONDARA",
     "DAY_OF_WEE":"Monday",
     "Casualty":235,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":2
     }
   },
   {
@@ -856,7 +921,8 @@
     "LGA_NAME":"BOROONDARA",
     "DAY_OF_WEE":"Saturday",
     "Casualty":119,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":1
     }
   },
   {
@@ -869,7 +935,8 @@
     "LGA_NAME":"BOROONDARA",
     "DAY_OF_WEE":"Sunday",
     "Casualty":144,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":2
     }
   },
   {
@@ -882,7 +949,8 @@
     "LGA_NAME":"BOROONDARA",
     "DAY_OF_WEE":"Thursday",
     "Casualty":259,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":2
     }
   },
   {
@@ -895,7 +963,8 @@
     "LGA_NAME":"BOROONDARA",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":254,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":2
     }
   },
   {
@@ -908,7 +977,8 @@
     "LGA_NAME":"BOROONDARA",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":265,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":2
     }
   },
   {
@@ -921,7 +991,8 @@
     "LGA_NAME":"BRIMBANK",
     "DAY_OF_WEE":"Friday",
     "Casualty":325,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":3
     }
   },
   {
@@ -934,7 +1005,8 @@
     "LGA_NAME":"BRIMBANK",
     "DAY_OF_WEE":"Monday",
     "Casualty":299,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":3
     }
   },
   {
@@ -947,7 +1019,8 @@
     "LGA_NAME":"BRIMBANK",
     "DAY_OF_WEE":"Saturday",
     "Casualty":185,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":2
     }
   },
   {
@@ -960,7 +1033,8 @@
     "LGA_NAME":"BRIMBANK",
     "DAY_OF_WEE":"Sunday",
     "Casualty":274,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":3
     }
   },
   {
@@ -973,7 +1047,8 @@
     "LGA_NAME":"BRIMBANK",
     "DAY_OF_WEE":"Thursday",
     "Casualty":346,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":3
     }
   },
   {
@@ -986,7 +1061,8 @@
     "LGA_NAME":"BRIMBANK",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":365,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":3
     }
   },
   {
@@ -999,7 +1075,8 @@
     "LGA_NAME":"BRIMBANK",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":361,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":3
     }
   },
   {
@@ -1012,7 +1089,8 @@
     "LGA_NAME":"BULOKE",
     "DAY_OF_WEE":"Friday",
     "Casualty":16,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":1
     }
   },
   {
@@ -1025,7 +1103,8 @@
     "LGA_NAME":"BULOKE",
     "DAY_OF_WEE":"Monday",
     "Casualty":12,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":1
     }
   },
   {
@@ -1038,7 +1117,8 @@
     "LGA_NAME":"BULOKE",
     "DAY_OF_WEE":"Saturday",
     "Casualty":10,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":1
     }
   },
   {
@@ -1051,7 +1131,8 @@
     "LGA_NAME":"BULOKE",
     "DAY_OF_WEE":"Sunday",
     "Casualty":6,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":1
     }
   },
   {
@@ -1064,7 +1145,8 @@
     "LGA_NAME":"BULOKE",
     "DAY_OF_WEE":"Thursday",
     "Casualty":13,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":1
     }
   },
   {
@@ -1077,7 +1159,8 @@
     "LGA_NAME":"BULOKE",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":9,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":1
     }
   },
   {
@@ -1090,7 +1173,8 @@
     "LGA_NAME":"BULOKE",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":13,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":1
     }
   },
   {
@@ -1103,7 +1187,8 @@
     "LGA_NAME":"CAMPASPE",
     "DAY_OF_WEE":"Friday",
     "Casualty":85,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":1
     }
   },
   {
@@ -1116,7 +1201,8 @@
     "LGA_NAME":"CAMPASPE",
     "DAY_OF_WEE":"Monday",
     "Casualty":63,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":1
     }
   },
   {
@@ -1129,7 +1215,8 @@
     "LGA_NAME":"CAMPASPE",
     "DAY_OF_WEE":"Saturday",
     "Casualty":53,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":1
     }
   },
   {
@@ -1142,7 +1229,8 @@
     "LGA_NAME":"CAMPASPE",
     "DAY_OF_WEE":"Sunday",
     "Casualty":63,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":1
     }
   },
   {
@@ -1155,7 +1243,8 @@
     "LGA_NAME":"CAMPASPE",
     "DAY_OF_WEE":"Thursday",
     "Casualty":71,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":1
     }
   },
   {
@@ -1168,7 +1257,8 @@
     "LGA_NAME":"CAMPASPE",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":77,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":1
     }
   },
   {
@@ -1181,7 +1271,8 @@
     "LGA_NAME":"CAMPASPE",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":67,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":1
     }
   },
   {
@@ -1194,7 +1285,8 @@
     "LGA_NAME":"CARDINIA",
     "DAY_OF_WEE":"Friday",
     "Casualty":165,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":2
     }
   },
   {
@@ -1207,7 +1299,8 @@
     "LGA_NAME":"CARDINIA",
     "DAY_OF_WEE":"Monday",
     "Casualty":167,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":2
     }
   },
   {
@@ -1220,7 +1313,8 @@
     "LGA_NAME":"CARDINIA",
     "DAY_OF_WEE":"Saturday",
     "Casualty":129,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":1
     }
   },
   {
@@ -1233,7 +1327,8 @@
     "LGA_NAME":"CARDINIA",
     "DAY_OF_WEE":"Sunday",
     "Casualty":186,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":2
     }
   },
   {
@@ -1246,7 +1341,8 @@
     "LGA_NAME":"CARDINIA",
     "DAY_OF_WEE":"Thursday",
     "Casualty":176,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":2
     }
   },
   {
@@ -1259,7 +1355,8 @@
     "LGA_NAME":"CARDINIA",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":148,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":2
     }
   },
   {
@@ -1272,7 +1369,8 @@
     "LGA_NAME":"CARDINIA",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":175,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":2
     }
   },
   {
@@ -1285,7 +1383,8 @@
     "LGA_NAME":"CASEY",
     "DAY_OF_WEE":"Friday",
     "Casualty":507,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":4
     }
   },
   {
@@ -1298,7 +1397,8 @@
     "LGA_NAME":"CASEY",
     "DAY_OF_WEE":"Monday",
     "Casualty":459,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":4
     }
   },
   {
@@ -1311,7 +1411,8 @@
     "LGA_NAME":"CASEY",
     "DAY_OF_WEE":"Saturday",
     "Casualty":302,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":3
     }
   },
   {
@@ -1324,7 +1425,8 @@
     "LGA_NAME":"CASEY",
     "DAY_OF_WEE":"Sunday",
     "Casualty":372,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":3
     }
   },
   {
@@ -1337,7 +1439,8 @@
     "LGA_NAME":"CASEY",
     "DAY_OF_WEE":"Thursday",
     "Casualty":494,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":4
     }
   },
   {
@@ -1350,7 +1453,8 @@
     "LGA_NAME":"CASEY",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":458,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":4
     }
   },
   {
@@ -1363,7 +1467,8 @@
     "LGA_NAME":"CASEY",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":440,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":4
     }
   },
   {
@@ -1376,7 +1481,8 @@
     "LGA_NAME":"CENTRAL GOLDFIELDS",
     "DAY_OF_WEE":"Friday",
     "Casualty":21,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":1
     }
   },
   {
@@ -1389,7 +1495,8 @@
     "LGA_NAME":"CENTRAL GOLDFIELDS",
     "DAY_OF_WEE":"Monday",
     "Casualty":22,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":1
     }
   },
   {
@@ -1402,7 +1509,8 @@
     "LGA_NAME":"CENTRAL GOLDFIELDS",
     "DAY_OF_WEE":"Saturday",
     "Casualty":19,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":1
     }
   },
   {
@@ -1415,7 +1523,8 @@
     "LGA_NAME":"CENTRAL GOLDFIELDS",
     "DAY_OF_WEE":"Sunday",
     "Casualty":22,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":1
     }
   },
   {
@@ -1428,7 +1537,8 @@
     "LGA_NAME":"CENTRAL GOLDFIELDS",
     "DAY_OF_WEE":"Thursday",
     "Casualty":22,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":1
     }
   },
   {
@@ -1441,7 +1551,8 @@
     "LGA_NAME":"CENTRAL GOLDFIELDS",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":20,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":1
     }
   },
   {
@@ -1454,7 +1565,8 @@
     "LGA_NAME":"CENTRAL GOLDFIELDS",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":21,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":1
     }
   },
   {
@@ -1467,7 +1579,8 @@
     "LGA_NAME":"COLAC OTWAY",
     "DAY_OF_WEE":"Friday",
     "Casualty":72,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":1
     }
   },
   {
@@ -1480,7 +1593,8 @@
     "LGA_NAME":"COLAC OTWAY",
     "DAY_OF_WEE":"Monday",
     "Casualty":60,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":1
     }
   },
   {
@@ -1493,7 +1607,8 @@
     "LGA_NAME":"COLAC OTWAY",
     "DAY_OF_WEE":"Saturday",
     "Casualty":62,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":1
     }
   },
   {
@@ -1506,7 +1621,8 @@
     "LGA_NAME":"COLAC OTWAY",
     "DAY_OF_WEE":"Sunday",
     "Casualty":86,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":1
     }
   },
   {
@@ -1519,7 +1635,8 @@
     "LGA_NAME":"COLAC OTWAY",
     "DAY_OF_WEE":"Thursday",
     "Casualty":70,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":1
     }
   },
   {
@@ -1532,7 +1649,8 @@
     "LGA_NAME":"COLAC OTWAY",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":62,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":1
     }
   },
   {
@@ -1545,7 +1663,8 @@
     "LGA_NAME":"COLAC OTWAY",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":48,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":1
     }
   },
   {
@@ -1558,7 +1677,8 @@
     "LGA_NAME":"COLAC-OTWAY",
     "DAY_OF_WEE":"Saturday",
     "Casualty":1,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":1
     }
   },
   {
@@ -1571,7 +1691,8 @@
     "LGA_NAME":"COLAC-OTWAY",
     "DAY_OF_WEE":"Sunday",
     "Casualty":1,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":1
     }
   },
   {
@@ -1584,7 +1705,8 @@
     "LGA_NAME":"COLAC-OTWAY",
     "DAY_OF_WEE":"Thursday",
     "Casualty":1,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":1
     }
   },
   {
@@ -1597,7 +1719,8 @@
     "LGA_NAME":"COLAC-OTWAY",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":2,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":1
     }
   },
   {
@@ -1610,7 +1733,8 @@
     "LGA_NAME":"COLAC-OTWAY",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":1,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":1
     }
   },
   {
@@ -1623,7 +1747,8 @@
     "LGA_NAME":"CORANGAMITE",
     "DAY_OF_WEE":"Friday",
     "Casualty":46,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":1
     }
   },
   {
@@ -1636,7 +1761,8 @@
     "LGA_NAME":"CORANGAMITE",
     "DAY_OF_WEE":"Monday",
     "Casualty":43,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":1
     }
   },
   {
@@ -1649,7 +1775,8 @@
     "LGA_NAME":"CORANGAMITE",
     "DAY_OF_WEE":"Saturday",
     "Casualty":38,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":1
     }
   },
   {
@@ -1662,7 +1789,8 @@
     "LGA_NAME":"CORANGAMITE",
     "DAY_OF_WEE":"Sunday",
     "Casualty":35,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":1
     }
   },
   {
@@ -1675,7 +1803,8 @@
     "LGA_NAME":"CORANGAMITE",
     "DAY_OF_WEE":"Thursday",
     "Casualty":40,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":1
     }
   },
   {
@@ -1688,7 +1817,8 @@
     "LGA_NAME":"CORANGAMITE",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":33,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":1
     }
   },
   {
@@ -1701,7 +1831,8 @@
     "LGA_NAME":"CORANGAMITE",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":33,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":1
     }
   },
   {
@@ -1714,7 +1845,8 @@
     "LGA_NAME":"DANDENONG",
     "DAY_OF_WEE":"Friday",
     "Casualty":361,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":3
     }
   },
   {
@@ -1727,7 +1859,8 @@
     "LGA_NAME":"DANDENONG",
     "DAY_OF_WEE":"Monday",
     "Casualty":371,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":3
     }
   },
   {
@@ -1740,7 +1873,8 @@
     "LGA_NAME":"DANDENONG",
     "DAY_OF_WEE":"Saturday",
     "Casualty":228,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":2
     }
   },
   {
@@ -1753,7 +1887,8 @@
     "LGA_NAME":"DANDENONG",
     "DAY_OF_WEE":"Sunday",
     "Casualty":293,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":3
     }
   },
   {
@@ -1766,7 +1901,8 @@
     "LGA_NAME":"DANDENONG",
     "DAY_OF_WEE":"Thursday",
     "Casualty":376,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":3
     }
   },
   {
@@ -1779,7 +1915,8 @@
     "LGA_NAME":"DANDENONG",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":388,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":3
     }
   },
   {
@@ -1792,7 +1929,8 @@
     "LGA_NAME":"DANDENONG",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":401,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":4
     }
   },
   {
@@ -1805,7 +1943,8 @@
     "LGA_NAME":"DAREBIN",
     "DAY_OF_WEE":"Friday",
     "Casualty":281,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":3
     }
   },
   {
@@ -1818,7 +1957,8 @@
     "LGA_NAME":"DAREBIN",
     "DAY_OF_WEE":"Monday",
     "Casualty":255,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":2
     }
   },
   {
@@ -1831,7 +1971,8 @@
     "LGA_NAME":"DAREBIN",
     "DAY_OF_WEE":"Saturday",
     "Casualty":175,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":2
     }
   },
   {
@@ -1844,7 +1985,8 @@
     "LGA_NAME":"DAREBIN",
     "DAY_OF_WEE":"Sunday",
     "Casualty":188,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":2
     }
   },
   {
@@ -1857,7 +1999,8 @@
     "LGA_NAME":"DAREBIN",
     "DAY_OF_WEE":"Thursday",
     "Casualty":306,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":3
     }
   },
   {
@@ -1870,7 +2013,8 @@
     "LGA_NAME":"DAREBIN",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":307,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":3
     }
   },
   {
@@ -1883,7 +2027,8 @@
     "LGA_NAME":"DAREBIN",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":281,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":3
     }
   },
   {
@@ -1896,7 +2041,8 @@
     "LGA_NAME":"EAST GIPPSLAND",
     "DAY_OF_WEE":"Friday",
     "Casualty":133,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":2
     }
   },
   {
@@ -1909,7 +2055,8 @@
     "LGA_NAME":"EAST GIPPSLAND",
     "DAY_OF_WEE":"Monday",
     "Casualty":82,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":1
     }
   },
   {
@@ -1922,7 +2069,8 @@
     "LGA_NAME":"EAST GIPPSLAND",
     "DAY_OF_WEE":"Saturday",
     "Casualty":86,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":1
     }
   },
   {
@@ -1935,7 +2083,8 @@
     "LGA_NAME":"EAST GIPPSLAND",
     "DAY_OF_WEE":"Sunday",
     "Casualty":115,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":1
     }
   },
   {
@@ -1948,7 +2097,8 @@
     "LGA_NAME":"EAST GIPPSLAND",
     "DAY_OF_WEE":"Thursday",
     "Casualty":109,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":1
     }
   },
   {
@@ -1961,7 +2111,8 @@
     "LGA_NAME":"EAST GIPPSLAND",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":94,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":1
     }
   },
   {
@@ -1974,7 +2125,8 @@
     "LGA_NAME":"EAST GIPPSLAND",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":90,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":1
     }
   },
   {
@@ -1987,7 +2139,8 @@
     "LGA_NAME":"FRANKSTON",
     "DAY_OF_WEE":"Friday",
     "Casualty":214,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":2
     }
   },
   {
@@ -2000,7 +2153,8 @@
     "LGA_NAME":"FRANKSTON",
     "DAY_OF_WEE":"Monday",
     "Casualty":176,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":2
     }
   },
   {
@@ -2013,7 +2167,8 @@
     "LGA_NAME":"FRANKSTON",
     "DAY_OF_WEE":"Saturday",
     "Casualty":122,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":1
     }
   },
   {
@@ -2026,7 +2181,8 @@
     "LGA_NAME":"FRANKSTON",
     "DAY_OF_WEE":"Sunday",
     "Casualty":151,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":2
     }
   },
   {
@@ -2039,7 +2195,8 @@
     "LGA_NAME":"FRANKSTON",
     "DAY_OF_WEE":"Thursday",
     "Casualty":221,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":2
     }
   },
   {
@@ -2052,7 +2209,8 @@
     "LGA_NAME":"FRANKSTON",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":185,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":2
     }
   },
   {
@@ -2065,7 +2223,8 @@
     "LGA_NAME":"FRANKSTON",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":191,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":2
     }
   },
   {
@@ -2078,7 +2237,8 @@
     "LGA_NAME":"GANNAWARRA",
     "DAY_OF_WEE":"Friday",
     "Casualty":22,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":1
     }
   },
   {
@@ -2091,7 +2251,8 @@
     "LGA_NAME":"GANNAWARRA",
     "DAY_OF_WEE":"Monday",
     "Casualty":19,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":1
     }
   },
   {
@@ -2104,7 +2265,8 @@
     "LGA_NAME":"GANNAWARRA",
     "DAY_OF_WEE":"Saturday",
     "Casualty":19,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":1
     }
   },
   {
@@ -2117,7 +2279,8 @@
     "LGA_NAME":"GANNAWARRA",
     "DAY_OF_WEE":"Sunday",
     "Casualty":27,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":1
     }
   },
   {
@@ -2130,7 +2293,8 @@
     "LGA_NAME":"GANNAWARRA",
     "DAY_OF_WEE":"Thursday",
     "Casualty":16,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":1
     }
   },
   {
@@ -2143,7 +2307,8 @@
     "LGA_NAME":"GANNAWARRA",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":16,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":1
     }
   },
   {
@@ -2156,7 +2321,8 @@
     "LGA_NAME":"GANNAWARRA",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":18,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":1
     }
   },
   {
@@ -2169,7 +2335,8 @@
     "LGA_NAME":"GEELONG",
     "DAY_OF_WEE":"Friday",
     "Casualty":413,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":4
     }
   },
   {
@@ -2182,7 +2349,8 @@
     "LGA_NAME":"GEELONG",
     "DAY_OF_WEE":"Monday",
     "Casualty":407,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":4
     }
   },
   {
@@ -2195,7 +2363,8 @@
     "LGA_NAME":"GEELONG",
     "DAY_OF_WEE":"Saturday",
     "Casualty":273,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":3
     }
   },
   {
@@ -2208,7 +2377,8 @@
     "LGA_NAME":"GEELONG",
     "DAY_OF_WEE":"Sunday",
     "Casualty":342,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":3
     }
   },
   {
@@ -2221,7 +2391,8 @@
     "LGA_NAME":"GEELONG",
     "DAY_OF_WEE":"Thursday",
     "Casualty":452,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":4
     }
   },
   {
@@ -2234,7 +2405,8 @@
     "LGA_NAME":"GEELONG",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":466,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":4
     }
   },
   {
@@ -2247,7 +2419,8 @@
     "LGA_NAME":"GEELONG",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":457,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":4
     }
   },
   {
@@ -2260,7 +2433,8 @@
     "LGA_NAME":"GLEN EIRA",
     "DAY_OF_WEE":"Friday",
     "Casualty":226,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":2
     }
   },
   {
@@ -2273,7 +2447,8 @@
     "LGA_NAME":"GLEN EIRA",
     "DAY_OF_WEE":"Monday",
     "Casualty":195,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":2
     }
   },
   {
@@ -2286,7 +2461,8 @@
     "LGA_NAME":"GLEN EIRA",
     "DAY_OF_WEE":"Saturday",
     "Casualty":111,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":1
     }
   },
   {
@@ -2299,7 +2475,8 @@
     "LGA_NAME":"GLEN EIRA",
     "DAY_OF_WEE":"Sunday",
     "Casualty":153,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":2
     }
   },
   {
@@ -2312,7 +2489,8 @@
     "LGA_NAME":"GLEN EIRA",
     "DAY_OF_WEE":"Thursday",
     "Casualty":219,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":2
     }
   },
   {
@@ -2325,7 +2503,8 @@
     "LGA_NAME":"GLEN EIRA",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":214,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":2
     }
   },
   {
@@ -2338,7 +2517,8 @@
     "LGA_NAME":"GLEN EIRA",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":216,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":2
     }
   },
   {
@@ -2351,7 +2531,8 @@
     "LGA_NAME":"GLENELG",
     "DAY_OF_WEE":"Friday",
     "Casualty":46,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":1
     }
   },
   {
@@ -2364,7 +2545,8 @@
     "LGA_NAME":"GLENELG",
     "DAY_OF_WEE":"Monday",
     "Casualty":32,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":1
     }
   },
   {
@@ -2377,7 +2559,8 @@
     "LGA_NAME":"GLENELG",
     "DAY_OF_WEE":"Saturday",
     "Casualty":28,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":1
     }
   },
   {
@@ -2390,7 +2573,8 @@
     "LGA_NAME":"GLENELG",
     "DAY_OF_WEE":"Sunday",
     "Casualty":45,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":1
     }
   },
   {
@@ -2403,7 +2587,8 @@
     "LGA_NAME":"GLENELG",
     "DAY_OF_WEE":"Thursday",
     "Casualty":30,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":1
     }
   },
   {
@@ -2416,7 +2601,8 @@
     "LGA_NAME":"GLENELG",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":33,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":1
     }
   },
   {
@@ -2429,7 +2615,8 @@
     "LGA_NAME":"GLENELG",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":45,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":1
     }
   },
   {
@@ -2442,7 +2629,8 @@
     "LGA_NAME":"GOLDEN PLAINS",
     "DAY_OF_WEE":"Friday",
     "Casualty":40,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":1
     }
   },
   {
@@ -2455,7 +2643,8 @@
     "LGA_NAME":"GOLDEN PLAINS",
     "DAY_OF_WEE":"Monday",
     "Casualty":45,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":1
     }
   },
   {
@@ -2468,7 +2657,8 @@
     "LGA_NAME":"GOLDEN PLAINS",
     "DAY_OF_WEE":"Saturday",
     "Casualty":61,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":1
     }
   },
   {
@@ -2481,7 +2671,8 @@
     "LGA_NAME":"GOLDEN PLAINS",
     "DAY_OF_WEE":"Sunday",
     "Casualty":78,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":1
     }
   },
   {
@@ -2494,7 +2685,8 @@
     "LGA_NAME":"GOLDEN PLAINS",
     "DAY_OF_WEE":"Thursday",
     "Casualty":45,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":1
     }
   },
   {
@@ -2507,7 +2699,8 @@
     "LGA_NAME":"GOLDEN PLAINS",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":44,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":1
     }
   },
   {
@@ -2520,7 +2713,8 @@
     "LGA_NAME":"GOLDEN PLAINS",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":60,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":1
     }
   },
   {
@@ -2533,7 +2727,8 @@
     "LGA_NAME":"HEPBURN",
     "DAY_OF_WEE":"Friday",
     "Casualty":42,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":1
     }
   },
   {
@@ -2546,7 +2741,8 @@
     "LGA_NAME":"HEPBURN",
     "DAY_OF_WEE":"Monday",
     "Casualty":33,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":1
     }
   },
   {
@@ -2559,7 +2755,8 @@
     "LGA_NAME":"HEPBURN",
     "DAY_OF_WEE":"Saturday",
     "Casualty":26,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":1
     }
   },
   {
@@ -2572,7 +2769,8 @@
     "LGA_NAME":"HEPBURN",
     "DAY_OF_WEE":"Sunday",
     "Casualty":54,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":1
     }
   },
   {
@@ -2585,7 +2783,8 @@
     "LGA_NAME":"HEPBURN",
     "DAY_OF_WEE":"Thursday",
     "Casualty":30,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":1
     }
   },
   {
@@ -2598,7 +2797,8 @@
     "LGA_NAME":"HEPBURN",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":25,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":1
     }
   },
   {
@@ -2611,7 +2811,8 @@
     "LGA_NAME":"HEPBURN",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":33,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":1
     }
   },
   {
@@ -2624,7 +2825,8 @@
     "LGA_NAME":"HINDMARSH",
     "DAY_OF_WEE":"Friday",
     "Casualty":22,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":1
     }
   },
   {
@@ -2637,7 +2839,8 @@
     "LGA_NAME":"HINDMARSH",
     "DAY_OF_WEE":"Monday",
     "Casualty":8,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":1
     }
   },
   {
@@ -2650,7 +2853,8 @@
     "LGA_NAME":"HINDMARSH",
     "DAY_OF_WEE":"Saturday",
     "Casualty":14,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":1
     }
   },
   {
@@ -2663,7 +2867,8 @@
     "LGA_NAME":"HINDMARSH",
     "DAY_OF_WEE":"Sunday",
     "Casualty":10,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":1
     }
   },
   {
@@ -2676,7 +2881,8 @@
     "LGA_NAME":"HINDMARSH",
     "DAY_OF_WEE":"Thursday",
     "Casualty":14,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":1
     }
   },
   {
@@ -2689,7 +2895,8 @@
     "LGA_NAME":"HINDMARSH",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":10,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":1
     }
   },
   {
@@ -2702,7 +2909,8 @@
     "LGA_NAME":"HINDMARSH",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":6,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":1
     }
   },
   {
@@ -2715,7 +2923,8 @@
     "LGA_NAME":"HOBSONS BAY",
     "DAY_OF_WEE":"Friday",
     "Casualty":145,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":2
     }
   },
   {
@@ -2728,7 +2937,8 @@
     "LGA_NAME":"HOBSONS BAY",
     "DAY_OF_WEE":"Monday",
     "Casualty":151,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":2
     }
   },
   {
@@ -2741,7 +2951,8 @@
     "LGA_NAME":"HOBSONS BAY",
     "DAY_OF_WEE":"Saturday",
     "Casualty":89,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":1
     }
   },
   {
@@ -2754,7 +2965,8 @@
     "LGA_NAME":"HOBSONS BAY",
     "DAY_OF_WEE":"Sunday",
     "Casualty":132,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":1
     }
   },
   {
@@ -2767,7 +2979,8 @@
     "LGA_NAME":"HOBSONS BAY",
     "DAY_OF_WEE":"Thursday",
     "Casualty":159,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":2
     }
   },
   {
@@ -2780,7 +2993,8 @@
     "LGA_NAME":"HOBSONS BAY",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":144,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":2
     }
   },
   {
@@ -2793,7 +3007,8 @@
     "LGA_NAME":"HOBSONS BAY",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":169,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":2
     }
   },
   {
@@ -2806,7 +3021,8 @@
     "LGA_NAME":"HORSHAM",
     "DAY_OF_WEE":"Friday",
     "Casualty":41,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":1
     }
   },
   {
@@ -2819,7 +3035,8 @@
     "LGA_NAME":"HORSHAM",
     "DAY_OF_WEE":"Monday",
     "Casualty":36,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":1
     }
   },
   {
@@ -2832,7 +3049,8 @@
     "LGA_NAME":"HORSHAM",
     "DAY_OF_WEE":"Saturday",
     "Casualty":24,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":1
     }
   },
   {
@@ -2845,7 +3063,8 @@
     "LGA_NAME":"HORSHAM",
     "DAY_OF_WEE":"Sunday",
     "Casualty":42,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":1
     }
   },
   {
@@ -2858,7 +3077,8 @@
     "LGA_NAME":"HORSHAM",
     "DAY_OF_WEE":"Thursday",
     "Casualty":37,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":1
     }
   },
   {
@@ -2871,7 +3091,8 @@
     "LGA_NAME":"HORSHAM",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":30,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":1
     }
   },
   {
@@ -2884,7 +3105,8 @@
     "LGA_NAME":"HORSHAM",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":35,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":1
     }
   },
   {
@@ -2897,7 +3119,8 @@
     "LGA_NAME":"HUME",
     "DAY_OF_WEE":"Friday",
     "Casualty":378,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":3
     }
   },
   {
@@ -2910,7 +3133,8 @@
     "LGA_NAME":"HUME",
     "DAY_OF_WEE":"Monday",
     "Casualty":372,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":3
     }
   },
   {
@@ -2923,7 +3147,8 @@
     "LGA_NAME":"HUME",
     "DAY_OF_WEE":"Saturday",
     "Casualty":206,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":2
     }
   },
   {
@@ -2936,7 +3161,8 @@
     "LGA_NAME":"HUME",
     "DAY_OF_WEE":"Sunday",
     "Casualty":320,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":3
     }
   },
   {
@@ -2949,7 +3175,8 @@
     "LGA_NAME":"HUME",
     "DAY_OF_WEE":"Thursday",
     "Casualty":380,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":3
     }
   },
   {
@@ -2962,7 +3189,8 @@
     "LGA_NAME":"HUME",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":390,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":3
     }
   },
   {
@@ -2975,7 +3203,8 @@
     "LGA_NAME":"HUME",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":397,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":3
     }
   },
   {
@@ -2988,7 +3217,8 @@
     "LGA_NAME":"INDIGO",
     "DAY_OF_WEE":"Friday",
     "Casualty":37,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":1
     }
   },
   {
@@ -3001,7 +3231,8 @@
     "LGA_NAME":"INDIGO",
     "DAY_OF_WEE":"Monday",
     "Casualty":23,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":1
     }
   },
   {
@@ -3014,7 +3245,8 @@
     "LGA_NAME":"INDIGO",
     "DAY_OF_WEE":"Saturday",
     "Casualty":38,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":1
     }
   },
   {
@@ -3027,7 +3259,8 @@
     "LGA_NAME":"INDIGO",
     "DAY_OF_WEE":"Sunday",
     "Casualty":46,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":1
     }
   },
   {
@@ -3040,7 +3273,8 @@
     "LGA_NAME":"INDIGO",
     "DAY_OF_WEE":"Thursday",
     "Casualty":33,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":1
     }
   },
   {
@@ -3053,7 +3287,8 @@
     "LGA_NAME":"INDIGO",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":25,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":1
     }
   },
   {
@@ -3066,7 +3301,8 @@
     "LGA_NAME":"INDIGO",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":25,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":1
     }
   },
   {
@@ -3079,7 +3315,8 @@
     "LGA_NAME":"KINGSTON",
     "DAY_OF_WEE":"Friday",
     "Casualty":230,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":2
     }
   },
   {
@@ -3092,7 +3329,8 @@
     "LGA_NAME":"KINGSTON",
     "DAY_OF_WEE":"Monday",
     "Casualty":248,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":2
     }
   },
   {
@@ -3105,7 +3343,8 @@
     "LGA_NAME":"KINGSTON",
     "DAY_OF_WEE":"Saturday",
     "Casualty":163,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":2
     }
   },
   {
@@ -3118,7 +3357,8 @@
     "LGA_NAME":"KINGSTON",
     "DAY_OF_WEE":"Sunday",
     "Casualty":201,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":2
     }
   },
   {
@@ -3131,7 +3371,8 @@
     "LGA_NAME":"KINGSTON",
     "DAY_OF_WEE":"Thursday",
     "Casualty":289,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":3
     }
   },
   {
@@ -3144,7 +3385,8 @@
     "LGA_NAME":"KINGSTON",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":262,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":2
     }
   },
   {
@@ -3157,7 +3399,8 @@
     "LGA_NAME":"KINGSTON",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":278,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":3
     }
   },
   {
@@ -3170,7 +3413,8 @@
     "LGA_NAME":"KNOX",
     "DAY_OF_WEE":"Friday",
     "Casualty":213,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":2
     }
   },
   {
@@ -3183,7 +3427,8 @@
     "LGA_NAME":"KNOX",
     "DAY_OF_WEE":"Monday",
     "Casualty":225,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":2
     }
   },
   {
@@ -3196,7 +3441,8 @@
     "LGA_NAME":"KNOX",
     "DAY_OF_WEE":"Saturday",
     "Casualty":122,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":1
     }
   },
   {
@@ -3209,7 +3455,8 @@
     "LGA_NAME":"KNOX",
     "DAY_OF_WEE":"Sunday",
     "Casualty":198,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":2
     }
   },
   {
@@ -3222,7 +3469,8 @@
     "LGA_NAME":"KNOX",
     "DAY_OF_WEE":"Thursday",
     "Casualty":213,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":2
     }
   },
   {
@@ -3235,7 +3483,8 @@
     "LGA_NAME":"KNOX",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":229,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":2
     }
   },
   {
@@ -3248,7 +3497,8 @@
     "LGA_NAME":"KNOX",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":226,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":2
     }
   },
   {
@@ -3261,7 +3511,8 @@
     "LGA_NAME":"LATROBE",
     "DAY_OF_WEE":"Friday",
     "Casualty":137,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":2
     }
   },
   {
@@ -3274,7 +3525,8 @@
     "LGA_NAME":"LATROBE",
     "DAY_OF_WEE":"Monday",
     "Casualty":127,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":1
     }
   },
   {
@@ -3287,7 +3539,8 @@
     "LGA_NAME":"LATROBE",
     "DAY_OF_WEE":"Saturday",
     "Casualty":97,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":1
     }
   },
   {
@@ -3300,7 +3553,8 @@
     "LGA_NAME":"LATROBE",
     "DAY_OF_WEE":"Sunday",
     "Casualty":114,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":1
     }
   },
   {
@@ -3313,7 +3567,8 @@
     "LGA_NAME":"LATROBE",
     "DAY_OF_WEE":"Thursday",
     "Casualty":113,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":1
     }
   },
   {
@@ -3326,7 +3581,8 @@
     "LGA_NAME":"LATROBE",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":124,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":1
     }
   },
   {
@@ -3339,7 +3595,8 @@
     "LGA_NAME":"LATROBE",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":120,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":1
     }
   },
   {
@@ -3352,7 +3609,8 @@
     "LGA_NAME":"LODDON",
     "DAY_OF_WEE":"Friday",
     "Casualty":33,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":1
     }
   },
   {
@@ -3365,7 +3623,8 @@
     "LGA_NAME":"LODDON",
     "DAY_OF_WEE":"Monday",
     "Casualty":22,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":1
     }
   },
   {
@@ -3378,7 +3637,8 @@
     "LGA_NAME":"LODDON",
     "DAY_OF_WEE":"Saturday",
     "Casualty":13,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":1
     }
   },
   {
@@ -3391,7 +3651,8 @@
     "LGA_NAME":"LODDON",
     "DAY_OF_WEE":"Sunday",
     "Casualty":18,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":1
     }
   },
   {
@@ -3404,7 +3665,8 @@
     "LGA_NAME":"LODDON",
     "DAY_OF_WEE":"Thursday",
     "Casualty":17,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":1
     }
   },
   {
@@ -3417,7 +3679,8 @@
     "LGA_NAME":"LODDON",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":18,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":1
     }
   },
   {
@@ -3430,7 +3693,8 @@
     "LGA_NAME":"LODDON",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":17,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":1
     }
   },
   {
@@ -3443,7 +3707,8 @@
     "LGA_NAME":"MACEDON RANGES",
     "DAY_OF_WEE":"Friday",
     "Casualty":71,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":1
     }
   },
   {
@@ -3456,7 +3721,8 @@
     "LGA_NAME":"MACEDON RANGES",
     "DAY_OF_WEE":"Monday",
     "Casualty":77,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":1
     }
   },
   {
@@ -3469,7 +3735,8 @@
     "LGA_NAME":"MACEDON RANGES",
     "DAY_OF_WEE":"Saturday",
     "Casualty":77,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":1
     }
   },
   {
@@ -3482,7 +3749,8 @@
     "LGA_NAME":"MACEDON RANGES",
     "DAY_OF_WEE":"Sunday",
     "Casualty":103,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":1
     }
   },
   {
@@ -3495,7 +3763,8 @@
     "LGA_NAME":"MACEDON RANGES",
     "DAY_OF_WEE":"Thursday",
     "Casualty":74,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":1
     }
   },
   {
@@ -3508,7 +3777,8 @@
     "LGA_NAME":"MACEDON RANGES",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":77,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":1
     }
   },
   {
@@ -3521,7 +3791,8 @@
     "LGA_NAME":"MACEDON RANGES",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":80,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":1
     }
   },
   {
@@ -3534,7 +3805,8 @@
     "LGA_NAME":"MANNINGHAM",
     "DAY_OF_WEE":"Friday",
     "Casualty":151,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":2
     }
   },
   {
@@ -3547,7 +3819,8 @@
     "LGA_NAME":"MANNINGHAM",
     "DAY_OF_WEE":"Monday",
     "Casualty":139,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":2
     }
   },
   {
@@ -3560,7 +3833,8 @@
     "LGA_NAME":"MANNINGHAM",
     "DAY_OF_WEE":"Saturday",
     "Casualty":86,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":1
     }
   },
   {
@@ -3573,7 +3847,8 @@
     "LGA_NAME":"MANNINGHAM",
     "DAY_OF_WEE":"Sunday",
     "Casualty":125,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":1
     }
   },
   {
@@ -3586,7 +3861,8 @@
     "LGA_NAME":"MANNINGHAM",
     "DAY_OF_WEE":"Thursday",
     "Casualty":150,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":2
     }
   },
   {
@@ -3599,7 +3875,8 @@
     "LGA_NAME":"MANNINGHAM",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":127,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":1
     }
   },
   {
@@ -3612,7 +3889,8 @@
     "LGA_NAME":"MANNINGHAM",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":147,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":2
     }
   },
   {
@@ -3625,7 +3903,8 @@
     "LGA_NAME":"MANSFIELD",
     "DAY_OF_WEE":"Friday",
     "Casualty":73,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":1
     }
   },
   {
@@ -3638,7 +3917,8 @@
     "LGA_NAME":"MANSFIELD",
     "DAY_OF_WEE":"Monday",
     "Casualty":36,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":1
     }
   },
   {
@@ -3651,7 +3931,8 @@
     "LGA_NAME":"MANSFIELD",
     "DAY_OF_WEE":"Saturday",
     "Casualty":80,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":1
     }
   },
   {
@@ -3664,7 +3945,8 @@
     "LGA_NAME":"MANSFIELD",
     "DAY_OF_WEE":"Sunday",
     "Casualty":65,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":1
     }
   },
   {
@@ -3677,7 +3959,8 @@
     "LGA_NAME":"MANSFIELD",
     "DAY_OF_WEE":"Thursday",
     "Casualty":26,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":1
     }
   },
   {
@@ -3690,7 +3973,8 @@
     "LGA_NAME":"MANSFIELD",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":23,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":1
     }
   },
   {
@@ -3703,7 +3987,8 @@
     "LGA_NAME":"MANSFIELD",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":31,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":1
     }
   },
   {
@@ -3716,7 +4001,8 @@
     "LGA_NAME":"MARIBYRNONG",
     "DAY_OF_WEE":"Friday",
     "Casualty":142,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":2
     }
   },
   {
@@ -3729,7 +4015,8 @@
     "LGA_NAME":"MARIBYRNONG",
     "DAY_OF_WEE":"Monday",
     "Casualty":157,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":2
     }
   },
   {
@@ -3742,7 +4029,8 @@
     "LGA_NAME":"MARIBYRNONG",
     "DAY_OF_WEE":"Saturday",
     "Casualty":85,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":1
     }
   },
   {
@@ -3755,7 +4043,8 @@
     "LGA_NAME":"MARIBYRNONG",
     "DAY_OF_WEE":"Sunday",
     "Casualty":123,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":1
     }
   },
   {
@@ -3768,7 +4057,8 @@
     "LGA_NAME":"MARIBYRNONG",
     "DAY_OF_WEE":"Thursday",
     "Casualty":182,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":2
     }
   },
   {
@@ -3781,7 +4071,8 @@
     "LGA_NAME":"MARIBYRNONG",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":139,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":2
     }
   },
   {
@@ -3794,7 +4085,8 @@
     "LGA_NAME":"MARIBYRNONG",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":174,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":2
     }
   },
   {
@@ -3807,7 +4099,8 @@
     "LGA_NAME":"MAROONDAH",
     "DAY_OF_WEE":"Friday",
     "Casualty":175,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":2
     }
   },
   {
@@ -3820,7 +4113,8 @@
     "LGA_NAME":"MAROONDAH",
     "DAY_OF_WEE":"Monday",
     "Casualty":173,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":2
     }
   },
   {
@@ -3833,7 +4127,8 @@
     "LGA_NAME":"MAROONDAH",
     "DAY_OF_WEE":"Saturday",
     "Casualty":101,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":1
     }
   },
   {
@@ -3846,7 +4141,8 @@
     "LGA_NAME":"MAROONDAH",
     "DAY_OF_WEE":"Sunday",
     "Casualty":134,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":2
     }
   },
   {
@@ -3859,7 +4155,8 @@
     "LGA_NAME":"MAROONDAH",
     "DAY_OF_WEE":"Thursday",
     "Casualty":168,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":2
     }
   },
   {
@@ -3872,7 +4169,8 @@
     "LGA_NAME":"MAROONDAH",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":158,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":2
     }
   },
   {
@@ -3885,7 +4183,8 @@
     "LGA_NAME":"MAROONDAH",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":158,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":2
     }
   },
   {
@@ -3898,7 +4197,8 @@
     "LGA_NAME":"MELBOURNE",
     "DAY_OF_WEE":"Friday",
     "Casualty":551,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":5
     }
   },
   {
@@ -3911,7 +4211,8 @@
     "LGA_NAME":"MELBOURNE",
     "DAY_OF_WEE":"Monday",
     "Casualty":512,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":4
     }
   },
   {
@@ -3924,7 +4225,8 @@
     "LGA_NAME":"MELBOURNE",
     "DAY_OF_WEE":"Saturday",
     "Casualty":315,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":3
     }
   },
   {
@@ -3937,7 +4239,8 @@
     "LGA_NAME":"MELBOURNE",
     "DAY_OF_WEE":"Sunday",
     "Casualty":417,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":4
     }
   },
   {
@@ -3950,7 +4253,8 @@
     "LGA_NAME":"MELBOURNE",
     "DAY_OF_WEE":"Thursday",
     "Casualty":634,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":5
     }
   },
   {
@@ -3963,7 +4267,8 @@
     "LGA_NAME":"MELBOURNE",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":554,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":5
     }
   },
   {
@@ -3976,7 +4281,8 @@
     "LGA_NAME":"MELBOURNE",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":664,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":5
     }
   },
   {
@@ -3989,7 +4295,8 @@
     "LGA_NAME":"MELTON",
     "DAY_OF_WEE":"Friday",
     "Casualty":187,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":2
     }
   },
   {
@@ -4002,7 +4309,8 @@
     "LGA_NAME":"MELTON",
     "DAY_OF_WEE":"Monday",
     "Casualty":178,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":2
     }
   },
   {
@@ -4015,7 +4323,8 @@
     "LGA_NAME":"MELTON",
     "DAY_OF_WEE":"Saturday",
     "Casualty":126,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":1
     }
   },
   {
@@ -4028,7 +4337,8 @@
     "LGA_NAME":"MELTON",
     "DAY_OF_WEE":"Sunday",
     "Casualty":170,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":2
     }
   },
   {
@@ -4041,7 +4351,8 @@
     "LGA_NAME":"MELTON",
     "DAY_OF_WEE":"Thursday",
     "Casualty":196,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":2
     }
   },
   {
@@ -4054,7 +4365,8 @@
     "LGA_NAME":"MELTON",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":194,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":2
     }
   },
   {
@@ -4067,7 +4379,8 @@
     "LGA_NAME":"MELTON",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":215,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":2
     }
   },
   {
@@ -4080,7 +4393,8 @@
     "LGA_NAME":"MILDURA",
     "DAY_OF_WEE":"Friday",
     "Casualty":95,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":1
     }
   },
   {
@@ -4093,7 +4407,8 @@
     "LGA_NAME":"MILDURA",
     "DAY_OF_WEE":"Monday",
     "Casualty":85,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":1
     }
   },
   {
@@ -4106,7 +4421,8 @@
     "LGA_NAME":"MILDURA",
     "DAY_OF_WEE":"Saturday",
     "Casualty":82,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":1
     }
   },
   {
@@ -4119,7 +4435,8 @@
     "LGA_NAME":"MILDURA",
     "DAY_OF_WEE":"Sunday",
     "Casualty":98,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":1
     }
   },
   {
@@ -4132,7 +4449,8 @@
     "LGA_NAME":"MILDURA",
     "DAY_OF_WEE":"Thursday",
     "Casualty":98,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":1
     }
   },
   {
@@ -4145,7 +4463,8 @@
     "LGA_NAME":"MILDURA",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":74,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":1
     }
   },
   {
@@ -4158,7 +4477,8 @@
     "LGA_NAME":"MILDURA",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":90,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":1
     }
   },
   {
@@ -4171,7 +4491,8 @@
     "LGA_NAME":"MITCHELL",
     "DAY_OF_WEE":"Friday",
     "Casualty":129,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":1
     }
   },
   {
@@ -4184,7 +4505,8 @@
     "LGA_NAME":"MITCHELL",
     "DAY_OF_WEE":"Monday",
     "Casualty":82,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":1
     }
   },
   {
@@ -4197,7 +4519,8 @@
     "LGA_NAME":"MITCHELL",
     "DAY_OF_WEE":"Saturday",
     "Casualty":98,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":1
     }
   },
   {
@@ -4210,7 +4533,8 @@
     "LGA_NAME":"MITCHELL",
     "DAY_OF_WEE":"Sunday",
     "Casualty":120,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":1
     }
   },
   {
@@ -4223,7 +4547,8 @@
     "LGA_NAME":"MITCHELL",
     "DAY_OF_WEE":"Thursday",
     "Casualty":111,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":1
     }
   },
   {
@@ -4236,7 +4561,8 @@
     "LGA_NAME":"MITCHELL",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":95,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":1
     }
   },
   {
@@ -4249,7 +4575,8 @@
     "LGA_NAME":"MITCHELL",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":103,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":1
     }
   },
   {
@@ -4262,7 +4589,8 @@
     "LGA_NAME":"MOIRA",
     "DAY_OF_WEE":"Friday",
     "Casualty":72,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":1
     }
   },
   {
@@ -4275,7 +4603,8 @@
     "LGA_NAME":"MOIRA",
     "DAY_OF_WEE":"Monday",
     "Casualty":52,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":1
     }
   },
   {
@@ -4288,7 +4617,8 @@
     "LGA_NAME":"MOIRA",
     "DAY_OF_WEE":"Saturday",
     "Casualty":43,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":1
     }
   },
   {
@@ -4301,7 +4631,8 @@
     "LGA_NAME":"MOIRA",
     "DAY_OF_WEE":"Sunday",
     "Casualty":49,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":1
     }
   },
   {
@@ -4314,7 +4645,8 @@
     "LGA_NAME":"MOIRA",
     "DAY_OF_WEE":"Thursday",
     "Casualty":59,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":1
     }
   },
   {
@@ -4327,7 +4659,8 @@
     "LGA_NAME":"MOIRA",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":47,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":1
     }
   },
   {
@@ -4340,7 +4673,8 @@
     "LGA_NAME":"MOIRA",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":64,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":1
     }
   },
   {
@@ -4353,7 +4687,8 @@
     "LGA_NAME":"MONASH",
     "DAY_OF_WEE":"Friday",
     "Casualty":316,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":3
     }
   },
   {
@@ -4366,7 +4701,8 @@
     "LGA_NAME":"MONASH",
     "DAY_OF_WEE":"Monday",
     "Casualty":313,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":3
     }
   },
   {
@@ -4379,7 +4715,8 @@
     "LGA_NAME":"MONASH",
     "DAY_OF_WEE":"Saturday",
     "Casualty":172,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":2
     }
   },
   {
@@ -4392,7 +4729,8 @@
     "LGA_NAME":"MONASH",
     "DAY_OF_WEE":"Sunday",
     "Casualty":232,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":2
     }
   },
   {
@@ -4405,7 +4743,8 @@
     "LGA_NAME":"MONASH",
     "DAY_OF_WEE":"Thursday",
     "Casualty":395,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":3
     }
   },
   {
@@ -4418,7 +4757,8 @@
     "LGA_NAME":"MONASH",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":351,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":3
     }
   },
   {
@@ -4431,7 +4771,8 @@
     "LGA_NAME":"MONASH",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":369,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":3
     }
   },
   {
@@ -4444,7 +4785,8 @@
     "LGA_NAME":"MOONEE VALLEY",
     "DAY_OF_WEE":"Friday",
     "Casualty":202,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":2
     }
   },
   {
@@ -4457,7 +4799,8 @@
     "LGA_NAME":"MOONEE VALLEY",
     "DAY_OF_WEE":"Monday",
     "Casualty":150,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":2
     }
   },
   {
@@ -4470,7 +4813,8 @@
     "LGA_NAME":"MOONEE VALLEY",
     "DAY_OF_WEE":"Saturday",
     "Casualty":109,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":1
     }
   },
   {
@@ -4483,7 +4827,8 @@
     "LGA_NAME":"MOONEE VALLEY",
     "DAY_OF_WEE":"Sunday",
     "Casualty":121,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":1
     }
   },
   {
@@ -4496,7 +4841,8 @@
     "LGA_NAME":"MOONEE VALLEY",
     "DAY_OF_WEE":"Thursday",
     "Casualty":204,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":2
     }
   },
   {
@@ -4509,7 +4855,8 @@
     "LGA_NAME":"MOONEE VALLEY",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":178,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":2
     }
   },
   {
@@ -4522,7 +4869,8 @@
     "LGA_NAME":"MOONEE VALLEY",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":177,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":2
     }
   },
   {
@@ -4535,7 +4883,8 @@
     "LGA_NAME":"MOORABOOL",
     "DAY_OF_WEE":"Friday",
     "Casualty":81,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":1
     }
   },
   {
@@ -4548,7 +4897,8 @@
     "LGA_NAME":"MOORABOOL",
     "DAY_OF_WEE":"Monday",
     "Casualty":65,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":1
     }
   },
   {
@@ -4561,7 +4911,8 @@
     "LGA_NAME":"MOORABOOL",
     "DAY_OF_WEE":"Saturday",
     "Casualty":78,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":1
     }
   },
   {
@@ -4574,7 +4925,8 @@
     "LGA_NAME":"MOORABOOL",
     "DAY_OF_WEE":"Sunday",
     "Casualty":132,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":1
     }
   },
   {
@@ -4587,7 +4939,8 @@
     "LGA_NAME":"MOORABOOL",
     "DAY_OF_WEE":"Thursday",
     "Casualty":63,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":1
     }
   },
   {
@@ -4600,7 +4953,8 @@
     "LGA_NAME":"MOORABOOL",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":74,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":1
     }
   },
   {
@@ -4613,7 +4967,8 @@
     "LGA_NAME":"MOORABOOL",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":75,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":1
     }
   },
   {
@@ -4626,7 +4981,8 @@
     "LGA_NAME":"MORELAND",
     "DAY_OF_WEE":"Friday",
     "Casualty":317,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":3
     }
   },
   {
@@ -4639,7 +4995,8 @@
     "LGA_NAME":"MORELAND",
     "DAY_OF_WEE":"Monday",
     "Casualty":287,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":3
     }
   },
   {
@@ -4652,7 +5009,8 @@
     "LGA_NAME":"MORELAND",
     "DAY_OF_WEE":"Saturday",
     "Casualty":178,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":2
     }
   },
   {
@@ -4665,7 +5023,8 @@
     "LGA_NAME":"MORELAND",
     "DAY_OF_WEE":"Sunday",
     "Casualty":229,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":2
     }
   },
   {
@@ -4678,7 +5037,8 @@
     "LGA_NAME":"MORELAND",
     "DAY_OF_WEE":"Thursday",
     "Casualty":310,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":3
     }
   },
   {
@@ -4691,7 +5051,8 @@
     "LGA_NAME":"MORELAND",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":315,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":3
     }
   },
   {
@@ -4704,7 +5065,8 @@
     "LGA_NAME":"MORELAND",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":338,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":3
     }
   },
   {
@@ -4717,7 +5079,8 @@
     "LGA_NAME":"MORNINGTON PENINSULA",
     "DAY_OF_WEE":"Friday",
     "Casualty":214,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":2
     }
   },
   {
@@ -4730,7 +5093,8 @@
     "LGA_NAME":"MORNINGTON PENINSULA",
     "DAY_OF_WEE":"Monday",
     "Casualty":221,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":2
     }
   },
   {
@@ -4743,7 +5107,8 @@
     "LGA_NAME":"MORNINGTON PENINSULA",
     "DAY_OF_WEE":"Saturday",
     "Casualty":161,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":2
     }
   },
   {
@@ -4756,7 +5121,8 @@
     "LGA_NAME":"MORNINGTON PENINSULA",
     "DAY_OF_WEE":"Sunday",
     "Casualty":220,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":2
     }
   },
   {
@@ -4769,7 +5135,8 @@
     "LGA_NAME":"MORNINGTON PENINSULA",
     "DAY_OF_WEE":"Thursday",
     "Casualty":235,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":2
     }
   },
   {
@@ -4782,7 +5149,8 @@
     "LGA_NAME":"MORNINGTON PENINSULA",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":208,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":2
     }
   },
   {
@@ -4795,7 +5163,8 @@
     "LGA_NAME":"MORNINGTON PENINSULA",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":232,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":2
     }
   },
   {
@@ -4808,7 +5177,8 @@
     "LGA_NAME":"MOUNT ALEXANDER",
     "DAY_OF_WEE":"Friday",
     "Casualty":41,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":1
     }
   },
   {
@@ -4821,7 +5191,8 @@
     "LGA_NAME":"MOUNT ALEXANDER",
     "DAY_OF_WEE":"Monday",
     "Casualty":26,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":1
     }
   },
   {
@@ -4834,7 +5205,8 @@
     "LGA_NAME":"MOUNT ALEXANDER",
     "DAY_OF_WEE":"Saturday",
     "Casualty":29,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":1
     }
   },
   {
@@ -4847,7 +5219,8 @@
     "LGA_NAME":"MOUNT ALEXANDER",
     "DAY_OF_WEE":"Sunday",
     "Casualty":35,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":1
     }
   },
   {
@@ -4860,7 +5233,8 @@
     "LGA_NAME":"MOUNT ALEXANDER",
     "DAY_OF_WEE":"Thursday",
     "Casualty":34,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":1
     }
   },
   {
@@ -4873,7 +5247,8 @@
     "LGA_NAME":"MOUNT ALEXANDER",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":28,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":1
     }
   },
   {
@@ -4886,7 +5261,8 @@
     "LGA_NAME":"MOUNT ALEXANDER",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":23,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":1
     }
   },
   {
@@ -4899,7 +5275,8 @@
     "LGA_NAME":"MOUNT BULLER ALPINE RESOR",
     "DAY_OF_WEE":"Sunday",
     "Casualty":1,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":1
     }
   },
   {
@@ -4912,7 +5289,8 @@
     "LGA_NAME":"MOUNT STIRLING ALPINE RES",
     "DAY_OF_WEE":"Thursday",
     "Casualty":1,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":1
     }
   },
   {
@@ -4925,7 +5303,8 @@
     "LGA_NAME":"MOYNE",
     "DAY_OF_WEE":"Friday",
     "Casualty":38,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":1
     }
   },
   {
@@ -4938,7 +5317,8 @@
     "LGA_NAME":"MOYNE",
     "DAY_OF_WEE":"Monday",
     "Casualty":38,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":1
     }
   },
   {
@@ -4951,7 +5331,8 @@
     "LGA_NAME":"MOYNE",
     "DAY_OF_WEE":"Saturday",
     "Casualty":26,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":1
     }
   },
   {
@@ -4964,7 +5345,8 @@
     "LGA_NAME":"MOYNE",
     "DAY_OF_WEE":"Sunday",
     "Casualty":42,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":1
     }
   },
   {
@@ -4977,7 +5359,8 @@
     "LGA_NAME":"MOYNE",
     "DAY_OF_WEE":"Thursday",
     "Casualty":47,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":1
     }
   },
   {
@@ -4990,7 +5373,8 @@
     "LGA_NAME":"MOYNE",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":38,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":1
     }
   },
   {
@@ -5003,7 +5387,8 @@
     "LGA_NAME":"MOYNE",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":26,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":1
     }
   },
   {
@@ -5016,7 +5401,8 @@
     "LGA_NAME":"MURRINDINDI",
     "DAY_OF_WEE":"Friday",
     "Casualty":121,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":1
     }
   },
   {
@@ -5029,7 +5415,8 @@
     "LGA_NAME":"MURRINDINDI",
     "DAY_OF_WEE":"Monday",
     "Casualty":55,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":1
     }
   },
   {
@@ -5042,7 +5429,8 @@
     "LGA_NAME":"MURRINDINDI",
     "DAY_OF_WEE":"Saturday",
     "Casualty":101,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":1
     }
   },
   {
@@ -5055,7 +5443,8 @@
     "LGA_NAME":"MURRINDINDI",
     "DAY_OF_WEE":"Sunday",
     "Casualty":168,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":2
     }
   },
   {
@@ -5068,7 +5457,8 @@
     "LGA_NAME":"MURRINDINDI",
     "DAY_OF_WEE":"Thursday",
     "Casualty":54,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":1
     }
   },
   {
@@ -5081,7 +5471,8 @@
     "LGA_NAME":"MURRINDINDI",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":45,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":1
     }
   },
   {
@@ -5094,7 +5485,8 @@
     "LGA_NAME":"MURRINDINDI",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":47,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":1
     }
   },
   {
@@ -5107,7 +5499,8 @@
     "LGA_NAME":"NILLUMBIK",
     "DAY_OF_WEE":"Friday",
     "Casualty":106,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":1
     }
   },
   {
@@ -5120,7 +5513,8 @@
     "LGA_NAME":"NILLUMBIK",
     "DAY_OF_WEE":"Monday",
     "Casualty":92,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":1
     }
   },
   {
@@ -5133,7 +5527,8 @@
     "LGA_NAME":"NILLUMBIK",
     "DAY_OF_WEE":"Saturday",
     "Casualty":94,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":1
     }
   },
   {
@@ -5146,7 +5541,8 @@
     "LGA_NAME":"NILLUMBIK",
     "DAY_OF_WEE":"Sunday",
     "Casualty":100,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":1
     }
   },
   {
@@ -5159,7 +5555,8 @@
     "LGA_NAME":"NILLUMBIK",
     "DAY_OF_WEE":"Thursday",
     "Casualty":96,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":1
     }
   },
   {
@@ -5172,7 +5569,8 @@
     "LGA_NAME":"NILLUMBIK",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":101,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":1
     }
   },
   {
@@ -5185,7 +5583,8 @@
     "LGA_NAME":"NILLUMBIK",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":88,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":1
     }
   },
   {
@@ -5198,7 +5597,8 @@
     "LGA_NAME":"NORTHERN GRAMPIANS",
     "DAY_OF_WEE":"Friday",
     "Casualty":43,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":1
     }
   },
   {
@@ -5211,7 +5611,8 @@
     "LGA_NAME":"NORTHERN GRAMPIANS",
     "DAY_OF_WEE":"Monday",
     "Casualty":31,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":1
     }
   },
   {
@@ -5224,7 +5625,8 @@
     "LGA_NAME":"NORTHERN GRAMPIANS",
     "DAY_OF_WEE":"Saturday",
     "Casualty":31,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":1
     }
   },
   {
@@ -5237,7 +5639,8 @@
     "LGA_NAME":"NORTHERN GRAMPIANS",
     "DAY_OF_WEE":"Sunday",
     "Casualty":30,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":1
     }
   },
   {
@@ -5250,7 +5653,8 @@
     "LGA_NAME":"NORTHERN GRAMPIANS",
     "DAY_OF_WEE":"Thursday",
     "Casualty":22,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":1
     }
   },
   {
@@ -5263,7 +5667,8 @@
     "LGA_NAME":"NORTHERN GRAMPIANS",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":15,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":1
     }
   },
   {
@@ -5276,7 +5681,8 @@
     "LGA_NAME":"NORTHERN GRAMPIANS",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":32,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":1
     }
   },
   {
@@ -5289,7 +5695,8 @@
     "LGA_NAME":"PORT PHILLIP",
     "DAY_OF_WEE":"Friday",
     "Casualty":220,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":2
     }
   },
   {
@@ -5302,7 +5709,8 @@
     "LGA_NAME":"PORT PHILLIP",
     "DAY_OF_WEE":"Monday",
     "Casualty":186,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":2
     }
   },
   {
@@ -5315,7 +5723,8 @@
     "LGA_NAME":"PORT PHILLIP",
     "DAY_OF_WEE":"Saturday",
     "Casualty":130,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":1
     }
   },
   {
@@ -5328,7 +5737,8 @@
     "LGA_NAME":"PORT PHILLIP",
     "DAY_OF_WEE":"Sunday",
     "Casualty":161,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":2
     }
   },
   {
@@ -5341,7 +5751,8 @@
     "LGA_NAME":"PORT PHILLIP",
     "DAY_OF_WEE":"Thursday",
     "Casualty":207,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":2
     }
   },
   {
@@ -5354,7 +5765,8 @@
     "LGA_NAME":"PORT PHILLIP",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":216,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":2
     }
   },
   {
@@ -5367,7 +5779,8 @@
     "LGA_NAME":"PORT PHILLIP",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":211,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":2
     }
   },
   {
@@ -5380,7 +5793,8 @@
     "LGA_NAME":"PYRENEES",
     "DAY_OF_WEE":"Friday",
     "Casualty":34,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":1
     }
   },
   {
@@ -5393,7 +5807,8 @@
     "LGA_NAME":"PYRENEES",
     "DAY_OF_WEE":"Monday",
     "Casualty":27,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":1
     }
   },
   {
@@ -5406,7 +5821,8 @@
     "LGA_NAME":"PYRENEES",
     "DAY_OF_WEE":"Saturday",
     "Casualty":32,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":1
     }
   },
   {
@@ -5419,7 +5835,8 @@
     "LGA_NAME":"PYRENEES",
     "DAY_OF_WEE":"Sunday",
     "Casualty":36,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":1
     }
   },
   {
@@ -5432,7 +5849,8 @@
     "LGA_NAME":"PYRENEES",
     "DAY_OF_WEE":"Thursday",
     "Casualty":21,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":1
     }
   },
   {
@@ -5445,7 +5863,8 @@
     "LGA_NAME":"PYRENEES",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":18,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":1
     }
   },
   {
@@ -5458,7 +5877,8 @@
     "LGA_NAME":"PYRENEES",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":15,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":1
     }
   },
   {
@@ -5471,7 +5891,8 @@
     "LGA_NAME":"QUEENSCLIFFE",
     "DAY_OF_WEE":"Friday",
     "Casualty":2,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":1
     }
   },
   {
@@ -5484,7 +5905,8 @@
     "LGA_NAME":"QUEENSCLIFFE",
     "DAY_OF_WEE":"Monday",
     "Casualty":3,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":1
     }
   },
   {
@@ -5497,7 +5919,8 @@
     "LGA_NAME":"QUEENSCLIFFE",
     "DAY_OF_WEE":"Saturday",
     "Casualty":1,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":1
     }
   },
   {
@@ -5510,7 +5933,8 @@
     "LGA_NAME":"QUEENSCLIFFE",
     "DAY_OF_WEE":"Sunday",
     "Casualty":2,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":1
     }
   },
   {
@@ -5523,7 +5947,8 @@
     "LGA_NAME":"QUEENSCLIFFE",
     "DAY_OF_WEE":"Thursday",
     "Casualty":5,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":1
     }
   },
   {
@@ -5536,7 +5961,8 @@
     "LGA_NAME":"QUEENSCLIFFE",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":3,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":1
     }
   },
   {
@@ -5549,7 +5975,8 @@
     "LGA_NAME":"QUEENSCLIFFE",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":1,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":1
     }
   },
   {
@@ -5562,7 +5989,8 @@
     "LGA_NAME":"SHEPPARTON",
     "DAY_OF_WEE":"Friday",
     "Casualty":135,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":2
     }
   },
   {
@@ -5575,7 +6003,8 @@
     "LGA_NAME":"SHEPPARTON",
     "DAY_OF_WEE":"Monday",
     "Casualty":127,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":1
     }
   },
   {
@@ -5588,7 +6017,8 @@
     "LGA_NAME":"SHEPPARTON",
     "DAY_OF_WEE":"Saturday",
     "Casualty":72,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":1
     }
   },
   {
@@ -5601,7 +6031,8 @@
     "LGA_NAME":"SHEPPARTON",
     "DAY_OF_WEE":"Sunday",
     "Casualty":115,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":1
     }
   },
   {
@@ -5614,7 +6045,8 @@
     "LGA_NAME":"SHEPPARTON",
     "DAY_OF_WEE":"Thursday",
     "Casualty":152,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":2
     }
   },
   {
@@ -5627,7 +6059,8 @@
     "LGA_NAME":"SHEPPARTON",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":118,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":1
     }
   },
   {
@@ -5640,7 +6073,8 @@
     "LGA_NAME":"SHEPPARTON",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":148,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":2
     }
   },
   {
@@ -5653,7 +6087,8 @@
     "LGA_NAME":"SOUTH GIPPSLAND",
     "DAY_OF_WEE":"Friday",
     "Casualty":69,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":1
     }
   },
   {
@@ -5666,7 +6101,8 @@
     "LGA_NAME":"SOUTH GIPPSLAND",
     "DAY_OF_WEE":"Monday",
     "Casualty":66,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":1
     }
   },
   {
@@ -5679,7 +6115,8 @@
     "LGA_NAME":"SOUTH GIPPSLAND",
     "DAY_OF_WEE":"Saturday",
     "Casualty":63,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":1
     }
   },
   {
@@ -5692,7 +6129,8 @@
     "LGA_NAME":"SOUTH GIPPSLAND",
     "DAY_OF_WEE":"Sunday",
     "Casualty":80,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":1
     }
   },
   {
@@ -5705,7 +6143,8 @@
     "LGA_NAME":"SOUTH GIPPSLAND",
     "DAY_OF_WEE":"Thursday",
     "Casualty":65,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":1
     }
   },
   {
@@ -5718,7 +6157,8 @@
     "LGA_NAME":"SOUTH GIPPSLAND",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":62,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":1
     }
   },
   {
@@ -5731,7 +6171,8 @@
     "LGA_NAME":"SOUTH GIPPSLAND",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":78,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":1
     }
   },
   {
@@ -5744,7 +6185,8 @@
     "LGA_NAME":"SOUTHERN GRAMPIANS",
     "DAY_OF_WEE":"Friday",
     "Casualty":27,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":1
     }
   },
   {
@@ -5757,7 +6199,8 @@
     "LGA_NAME":"SOUTHERN GRAMPIANS",
     "DAY_OF_WEE":"Monday",
     "Casualty":24,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":1
     }
   },
   {
@@ -5770,7 +6213,8 @@
     "LGA_NAME":"SOUTHERN GRAMPIANS",
     "DAY_OF_WEE":"Saturday",
     "Casualty":23,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":1
     }
   },
   {
@@ -5783,7 +6227,8 @@
     "LGA_NAME":"SOUTHERN GRAMPIANS",
     "DAY_OF_WEE":"Sunday",
     "Casualty":26,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":1
     }
   },
   {
@@ -5796,7 +6241,8 @@
     "LGA_NAME":"SOUTHERN GRAMPIANS",
     "DAY_OF_WEE":"Thursday",
     "Casualty":28,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":1
     }
   },
   {
@@ -5809,7 +6255,8 @@
     "LGA_NAME":"SOUTHERN GRAMPIANS",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":33,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":1
     }
   },
   {
@@ -5822,7 +6269,8 @@
     "LGA_NAME":"SOUTHERN GRAMPIANS",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":29,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":1
     }
   },
   {
@@ -5835,7 +6283,8 @@
     "LGA_NAME":"STONNINGTON",
     "DAY_OF_WEE":"Friday",
     "Casualty":228,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":2
     }
   },
   {
@@ -5848,7 +6297,8 @@
     "LGA_NAME":"STONNINGTON",
     "DAY_OF_WEE":"Monday",
     "Casualty":215,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":2
     }
   },
   {
@@ -5861,7 +6311,8 @@
     "LGA_NAME":"STONNINGTON",
     "DAY_OF_WEE":"Saturday",
     "Casualty":118,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":1
     }
   },
   {
@@ -5874,7 +6325,8 @@
     "LGA_NAME":"STONNINGTON",
     "DAY_OF_WEE":"Sunday",
     "Casualty":176,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":2
     }
   },
   {
@@ -5887,7 +6339,8 @@
     "LGA_NAME":"STONNINGTON",
     "DAY_OF_WEE":"Thursday",
     "Casualty":227,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":2
     }
   },
   {
@@ -5900,7 +6353,8 @@
     "LGA_NAME":"STONNINGTON",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":240,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":2
     }
   },
   {
@@ -5913,7 +6367,8 @@
     "LGA_NAME":"STONNINGTON",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":230,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":2
     }
   },
   {
@@ -5926,7 +6381,8 @@
     "LGA_NAME":"STRATHBOGIE",
     "DAY_OF_WEE":"Friday",
     "Casualty":37,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":1
     }
   },
   {
@@ -5939,7 +6395,8 @@
     "LGA_NAME":"STRATHBOGIE",
     "DAY_OF_WEE":"Monday",
     "Casualty":24,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":1
     }
   },
   {
@@ -5952,7 +6409,8 @@
     "LGA_NAME":"STRATHBOGIE",
     "DAY_OF_WEE":"Saturday",
     "Casualty":38,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":1
     }
   },
   {
@@ -5965,7 +6423,8 @@
     "LGA_NAME":"STRATHBOGIE",
     "DAY_OF_WEE":"Sunday",
     "Casualty":38,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":1
     }
   },
   {
@@ -5978,7 +6437,8 @@
     "LGA_NAME":"STRATHBOGIE",
     "DAY_OF_WEE":"Thursday",
     "Casualty":35,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":1
     }
   },
   {
@@ -5991,7 +6451,8 @@
     "LGA_NAME":"STRATHBOGIE",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":30,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":1
     }
   },
   {
@@ -6004,7 +6465,8 @@
     "LGA_NAME":"STRATHBOGIE",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":33,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":1
     }
   },
   {
@@ -6017,7 +6479,8 @@
     "LGA_NAME":"SURF COAST",
     "DAY_OF_WEE":"Friday",
     "Casualty":80,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":1
     }
   },
   {
@@ -6030,7 +6493,8 @@
     "LGA_NAME":"SURF COAST",
     "DAY_OF_WEE":"Monday",
     "Casualty":56,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":1
     }
   },
   {
@@ -6043,7 +6507,8 @@
     "LGA_NAME":"SURF COAST",
     "DAY_OF_WEE":"Saturday",
     "Casualty":83,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":1
     }
   },
   {
@@ -6056,7 +6521,8 @@
     "LGA_NAME":"SURF COAST",
     "DAY_OF_WEE":"Sunday",
     "Casualty":95,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":1
     }
   },
   {
@@ -6069,7 +6535,8 @@
     "LGA_NAME":"SURF COAST",
     "DAY_OF_WEE":"Thursday",
     "Casualty":64,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":1
     }
   },
   {
@@ -6082,7 +6549,8 @@
     "LGA_NAME":"SURF COAST",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":51,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":1
     }
   },
   {
@@ -6095,7 +6563,8 @@
     "LGA_NAME":"SURF COAST",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":55,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":1
     }
   },
   {
@@ -6108,7 +6577,8 @@
     "LGA_NAME":"SWAN HILL",
     "DAY_OF_WEE":"Friday",
     "Casualty":35,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":1
     }
   },
   {
@@ -6121,7 +6591,8 @@
     "LGA_NAME":"SWAN HILL",
     "DAY_OF_WEE":"Monday",
     "Casualty":33,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":1
     }
   },
   {
@@ -6134,7 +6605,8 @@
     "LGA_NAME":"SWAN HILL",
     "DAY_OF_WEE":"Saturday",
     "Casualty":33,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":1
     }
   },
   {
@@ -6147,7 +6619,8 @@
     "LGA_NAME":"SWAN HILL",
     "DAY_OF_WEE":"Sunday",
     "Casualty":26,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":1
     }
   },
   {
@@ -6160,7 +6633,8 @@
     "LGA_NAME":"SWAN HILL",
     "DAY_OF_WEE":"Thursday",
     "Casualty":37,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":1
     }
   },
   {
@@ -6173,7 +6647,8 @@
     "LGA_NAME":"SWAN HILL",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":38,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":1
     }
   },
   {
@@ -6186,7 +6661,8 @@
     "LGA_NAME":"SWAN HILL",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":38,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":1
     }
   },
   {
@@ -6199,7 +6675,8 @@
     "LGA_NAME":"TOWONG",
     "DAY_OF_WEE":"Friday",
     "Casualty":30,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":1
     }
   },
   {
@@ -6212,7 +6689,8 @@
     "LGA_NAME":"TOWONG",
     "DAY_OF_WEE":"Monday",
     "Casualty":19,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":1
     }
   },
   {
@@ -6225,7 +6703,8 @@
     "LGA_NAME":"TOWONG",
     "DAY_OF_WEE":"Saturday",
     "Casualty":30,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":1
     }
   },
   {
@@ -6238,7 +6717,8 @@
     "LGA_NAME":"TOWONG",
     "DAY_OF_WEE":"Sunday",
     "Casualty":29,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":1
     }
   },
   {
@@ -6251,7 +6731,8 @@
     "LGA_NAME":"TOWONG",
     "DAY_OF_WEE":"Thursday",
     "Casualty":15,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":1
     }
   },
   {
@@ -6264,7 +6745,8 @@
     "LGA_NAME":"TOWONG",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":29,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":1
     }
   },
   {
@@ -6277,7 +6759,8 @@
     "LGA_NAME":"TOWONG",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":23,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":1
     }
   },
   {
@@ -6290,7 +6773,8 @@
     "LGA_NAME":"WANGARATTA",
     "DAY_OF_WEE":"Friday",
     "Casualty":77,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":1
     }
   },
   {
@@ -6303,7 +6787,8 @@
     "LGA_NAME":"WANGARATTA",
     "DAY_OF_WEE":"Monday",
     "Casualty":62,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":1
     }
   },
   {
@@ -6316,7 +6801,8 @@
     "LGA_NAME":"WANGARATTA",
     "DAY_OF_WEE":"Saturday",
     "Casualty":47,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":1
     }
   },
   {
@@ -6329,7 +6815,8 @@
     "LGA_NAME":"WANGARATTA",
     "DAY_OF_WEE":"Sunday",
     "Casualty":44,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":1
     }
   },
   {
@@ -6342,7 +6829,8 @@
     "LGA_NAME":"WANGARATTA",
     "DAY_OF_WEE":"Thursday",
     "Casualty":54,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":1
     }
   },
   {
@@ -6355,7 +6843,8 @@
     "LGA_NAME":"WANGARATTA",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":52,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":1
     }
   },
   {
@@ -6368,7 +6857,8 @@
     "LGA_NAME":"WANGARATTA",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":52,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":1
     }
   },
   {
@@ -6381,7 +6871,8 @@
     "LGA_NAME":"WARRNAMBOOL",
     "DAY_OF_WEE":"Friday",
     "Casualty":37,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":1
     }
   },
   {
@@ -6394,7 +6885,8 @@
     "LGA_NAME":"WARRNAMBOOL",
     "DAY_OF_WEE":"Monday",
     "Casualty":44,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":1
     }
   },
   {
@@ -6407,7 +6899,8 @@
     "LGA_NAME":"WARRNAMBOOL",
     "DAY_OF_WEE":"Saturday",
     "Casualty":31,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":1
     }
   },
   {
@@ -6420,7 +6913,8 @@
     "LGA_NAME":"WARRNAMBOOL",
     "DAY_OF_WEE":"Sunday",
     "Casualty":45,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":1
     }
   },
   {
@@ -6433,7 +6927,8 @@
     "LGA_NAME":"WARRNAMBOOL",
     "DAY_OF_WEE":"Thursday",
     "Casualty":61,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":1
     }
   },
   {
@@ -6446,7 +6941,8 @@
     "LGA_NAME":"WARRNAMBOOL",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":56,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":1
     }
   },
   {
@@ -6459,7 +6955,8 @@
     "LGA_NAME":"WARRNAMBOOL",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":49,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":1
     }
   },
   {
@@ -6472,7 +6969,8 @@
     "LGA_NAME":"WELLINGTON",
     "DAY_OF_WEE":"Friday",
     "Casualty":124,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":1
     }
   },
   {
@@ -6485,7 +6983,8 @@
     "LGA_NAME":"WELLINGTON",
     "DAY_OF_WEE":"Monday",
     "Casualty":98,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":1
     }
   },
   {
@@ -6498,7 +6997,8 @@
     "LGA_NAME":"WELLINGTON",
     "DAY_OF_WEE":"Saturday",
     "Casualty":89,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":1
     }
   },
   {
@@ -6511,7 +7011,8 @@
     "LGA_NAME":"WELLINGTON",
     "DAY_OF_WEE":"Sunday",
     "Casualty":128,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":1
     }
   },
   {
@@ -6524,7 +7025,8 @@
     "LGA_NAME":"WELLINGTON",
     "DAY_OF_WEE":"Thursday",
     "Casualty":102,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":1
     }
   },
   {
@@ -6537,7 +7039,8 @@
     "LGA_NAME":"WELLINGTON",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":101,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":1
     }
   },
   {
@@ -6550,7 +7053,8 @@
     "LGA_NAME":"WELLINGTON",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":89,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":1
     }
   },
   {
@@ -6563,7 +7067,8 @@
     "LGA_NAME":"WEST WIMMERA",
     "DAY_OF_WEE":"Friday",
     "Casualty":16,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":1
     }
   },
   {
@@ -6576,7 +7081,8 @@
     "LGA_NAME":"WEST WIMMERA",
     "DAY_OF_WEE":"Monday",
     "Casualty":7,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":1
     }
   },
   {
@@ -6589,7 +7095,8 @@
     "LGA_NAME":"WEST WIMMERA",
     "DAY_OF_WEE":"Saturday",
     "Casualty":9,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":1
     }
   },
   {
@@ -6602,7 +7109,8 @@
     "LGA_NAME":"WEST WIMMERA",
     "DAY_OF_WEE":"Sunday",
     "Casualty":11,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":1
     }
   },
   {
@@ -6615,7 +7123,8 @@
     "LGA_NAME":"WEST WIMMERA",
     "DAY_OF_WEE":"Thursday",
     "Casualty":7,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":1
     }
   },
   {
@@ -6628,7 +7137,8 @@
     "LGA_NAME":"WEST WIMMERA",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":14,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":1
     }
   },
   {
@@ -6641,7 +7151,8 @@
     "LGA_NAME":"WEST WIMMERA",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":12,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":1
     }
   },
   {
@@ -6654,7 +7165,8 @@
     "LGA_NAME":"WHITEHORSE",
     "DAY_OF_WEE":"Friday",
     "Casualty":224,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":2
     }
   },
   {
@@ -6667,7 +7179,8 @@
     "LGA_NAME":"WHITEHORSE",
     "DAY_OF_WEE":"Monday",
     "Casualty":214,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":2
     }
   },
   {
@@ -6680,7 +7193,8 @@
     "LGA_NAME":"WHITEHORSE",
     "DAY_OF_WEE":"Saturday",
     "Casualty":161,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":2
     }
   },
   {
@@ -6693,7 +7207,8 @@
     "LGA_NAME":"WHITEHORSE",
     "DAY_OF_WEE":"Sunday",
     "Casualty":179,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":2
     }
   },
   {
@@ -6706,7 +7221,8 @@
     "LGA_NAME":"WHITEHORSE",
     "DAY_OF_WEE":"Thursday",
     "Casualty":249,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":2
     }
   },
   {
@@ -6719,7 +7235,8 @@
     "LGA_NAME":"WHITEHORSE",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":231,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":2
     }
   },
   {
@@ -6732,7 +7249,8 @@
     "LGA_NAME":"WHITEHORSE",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":249,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":2
     }
   },
   {
@@ -6745,7 +7263,8 @@
     "LGA_NAME":"WHITTLESEA",
     "DAY_OF_WEE":"Friday",
     "Casualty":322,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":3
     }
   },
   {
@@ -6758,7 +7277,8 @@
     "LGA_NAME":"WHITTLESEA",
     "DAY_OF_WEE":"Monday",
     "Casualty":309,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":3
     }
   },
   {
@@ -6771,7 +7291,8 @@
     "LGA_NAME":"WHITTLESEA",
     "DAY_OF_WEE":"Saturday",
     "Casualty":199,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":2
     }
   },
   {
@@ -6784,7 +7305,8 @@
     "LGA_NAME":"WHITTLESEA",
     "DAY_OF_WEE":"Sunday",
     "Casualty":275,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":3
     }
   },
   {
@@ -6797,7 +7319,8 @@
     "LGA_NAME":"WHITTLESEA",
     "DAY_OF_WEE":"Thursday",
     "Casualty":334,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":3
     }
   },
   {
@@ -6810,7 +7333,8 @@
     "LGA_NAME":"WHITTLESEA",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":320,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":3
     }
   },
   {
@@ -6823,7 +7347,8 @@
     "LGA_NAME":"WHITTLESEA",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":361,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":3
     }
   },
   {
@@ -6836,7 +7361,8 @@
     "LGA_NAME":"WODONGA",
     "DAY_OF_WEE":"Friday",
     "Casualty":48,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":1
     }
   },
   {
@@ -6849,7 +7375,8 @@
     "LGA_NAME":"WODONGA",
     "DAY_OF_WEE":"Monday",
     "Casualty":59,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":1
     }
   },
   {
@@ -6862,7 +7389,8 @@
     "LGA_NAME":"WODONGA",
     "DAY_OF_WEE":"Saturday",
     "Casualty":27,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":1
     }
   },
   {
@@ -6875,7 +7403,8 @@
     "LGA_NAME":"WODONGA",
     "DAY_OF_WEE":"Sunday",
     "Casualty":33,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":1
     }
   },
   {
@@ -6888,7 +7417,8 @@
     "LGA_NAME":"WODONGA",
     "DAY_OF_WEE":"Thursday",
     "Casualty":38,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":1
     }
   },
   {
@@ -6901,7 +7431,8 @@
     "LGA_NAME":"WODONGA",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":56,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":1
     }
   },
   {
@@ -6914,7 +7445,8 @@
     "LGA_NAME":"WODONGA",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":49,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":1
     }
   },
   {
@@ -6927,7 +7459,8 @@
     "LGA_NAME":"WYNDHAM",
     "DAY_OF_WEE":"Friday",
     "Casualty":281,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":3
     }
   },
   {
@@ -6940,7 +7473,8 @@
     "LGA_NAME":"WYNDHAM",
     "DAY_OF_WEE":"Monday",
     "Casualty":277,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":3
     }
   },
   {
@@ -6953,7 +7487,8 @@
     "LGA_NAME":"WYNDHAM",
     "DAY_OF_WEE":"Saturday",
     "Casualty":163,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":2
     }
   },
   {
@@ -6966,7 +7501,8 @@
     "LGA_NAME":"WYNDHAM",
     "DAY_OF_WEE":"Sunday",
     "Casualty":193,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":2
     }
   },
   {
@@ -6979,7 +7515,8 @@
     "LGA_NAME":"WYNDHAM",
     "DAY_OF_WEE":"Thursday",
     "Casualty":266,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":3
     }
   },
   {
@@ -6992,7 +7529,8 @@
     "LGA_NAME":"WYNDHAM",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":273,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":3
     }
   },
   {
@@ -7005,7 +7543,8 @@
     "LGA_NAME":"WYNDHAM",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":312,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":3
     }
   },
   {
@@ -7018,7 +7557,8 @@
     "LGA_NAME":"YARRA",
     "DAY_OF_WEE":"Friday",
     "Casualty":246,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":2
     }
   },
   {
@@ -7031,7 +7571,8 @@
     "LGA_NAME":"YARRA",
     "DAY_OF_WEE":"Monday",
     "Casualty":265,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":2
     }
   },
   {
@@ -7044,7 +7585,8 @@
     "LGA_NAME":"YARRA",
     "DAY_OF_WEE":"Saturday",
     "Casualty":130,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":1
     }
   },
   {
@@ -7057,7 +7599,8 @@
     "LGA_NAME":"YARRA",
     "DAY_OF_WEE":"Sunday",
     "Casualty":180,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":2
     }
   },
   {
@@ -7070,7 +7613,8 @@
     "LGA_NAME":"YARRA",
     "DAY_OF_WEE":"Thursday",
     "Casualty":304,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":3
     }
   },
   {
@@ -7083,7 +7627,8 @@
     "LGA_NAME":"YARRA",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":273,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":3
     }
   },
   {
@@ -7096,7 +7641,8 @@
     "LGA_NAME":"YARRA",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":272,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":3
     }
   },
   {
@@ -7109,7 +7655,8 @@
     "LGA_NAME":"YARRA RANGES",
     "DAY_OF_WEE":"Friday",
     "Casualty":332,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":3
     }
   },
   {
@@ -7122,7 +7669,8 @@
     "LGA_NAME":"YARRA RANGES",
     "DAY_OF_WEE":"Monday",
     "Casualty":265,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":2
     }
   },
   {
@@ -7135,7 +7683,8 @@
     "LGA_NAME":"YARRA RANGES",
     "DAY_OF_WEE":"Saturday",
     "Casualty":247,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":2
     }
   },
   {
@@ -7148,7 +7697,8 @@
     "LGA_NAME":"YARRA RANGES",
     "DAY_OF_WEE":"Sunday",
     "Casualty":366,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":3
     }
   },
   {
@@ -7161,7 +7711,8 @@
     "LGA_NAME":"YARRA RANGES",
     "DAY_OF_WEE":"Thursday",
     "Casualty":259,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":2
     }
   },
   {
@@ -7174,7 +7725,8 @@
     "LGA_NAME":"YARRA RANGES",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":285,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":3
     }
   },
   {
@@ -7187,7 +7739,8 @@
     "LGA_NAME":"YARRA RANGES",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":276,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":3
     }
   },
   {
@@ -7200,7 +7753,8 @@
     "LGA_NAME":"YARRIAMBIACK",
     "DAY_OF_WEE":"Friday",
     "Casualty":8,
-    "Day":"Fri"
+    "Day":"Fri",
+    "Case_Level":1
     }
   },
   {
@@ -7213,7 +7767,8 @@
     "LGA_NAME":"YARRIAMBIACK",
     "DAY_OF_WEE":"Monday",
     "Casualty":3,
-    "Day":"Mon"
+    "Day":"Mon",
+    "Case_Level":1
     }
   },
   {
@@ -7226,7 +7781,8 @@
     "LGA_NAME":"YARRIAMBIACK",
     "DAY_OF_WEE":"Saturday",
     "Casualty":9,
-    "Day":"Sat"
+    "Day":"Sat",
+    "Case_Level":1
     }
   },
   {
@@ -7239,7 +7795,8 @@
     "LGA_NAME":"YARRIAMBIACK",
     "DAY_OF_WEE":"Sunday",
     "Casualty":13,
-    "Day":"Sun"
+    "Day":"Sun",
+    "Case_Level":1
     }
   },
   {
@@ -7252,7 +7809,8 @@
     "LGA_NAME":"YARRIAMBIACK",
     "DAY_OF_WEE":"Thursday",
     "Casualty":9,
-    "Day":"Thu"
+    "Day":"Thu",
+    "Case_Level":1
     }
   },
   {
@@ -7265,7 +7823,8 @@
     "LGA_NAME":"YARRIAMBIACK",
     "DAY_OF_WEE":"Tuesday",
     "Casualty":13,
-    "Day":"Tue"
+    "Day":"Tue",
+    "Case_Level":1
     }
   },
   {
@@ -7278,7 +7837,8 @@
     "LGA_NAME":"YARRIAMBIACK",
     "DAY_OF_WEE":"Wednesday",
     "Casualty":6,
-    "Day":"Wed"
+    "Day":"Wed",
+    "Case_Level":1
     }
   }
 ]
